@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2023-01-01
+date: 2023-01-28
 category:
   - 应用集
 tag:
@@ -142,8 +142,8 @@ star: false
 [抖音极速版](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
 > 边刷视频边赚钱
 
-[TikTok](https://url50.ctfile.com/f/16615350-770872518-801a34?p=2637) 访问密码: 2637
-> 抖音海外版，需自备梯子
+[TikTok](https://url50.ctfile.com/f/16615350-773106829-defdc9?p=2637) 访问密码：2637
+> 抖音海外版+插件，需自备梯子（美国节点+全局代理）
 
 [快手极速版](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
 > 边刷视频边赚钱

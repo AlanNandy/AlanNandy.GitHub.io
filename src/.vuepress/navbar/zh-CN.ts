@@ -14,8 +14,9 @@ export const zhNavbar = navbar([
         children: [
           { text: "Android端应用", icon: "edit", link: "Android端应用" },
           { text: "Android端Xposed模块", icon: "edit", link: "Android端Xposed模块" },
-          { text: "Windows端程序", icon: "edit", link: "Windows端程序" },
           { text: "iOS端应用", icon: "edit", link: "iOS端应用" },
+          { text: "Windows端程序", icon: "edit", link: "Windows端程序" },
+          { text: "Mac端程序", icon: "edit", link: "Mac端程序" },
         ],
       },
     ],

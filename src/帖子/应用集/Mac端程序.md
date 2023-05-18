@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2023-05-17
+date: 2023-05-18
 category:
   - 应用集
 tag:
@@ -21,6 +21,12 @@ star: false
 [油猴插件](https://www.tampermonkey.net/)
 > Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
 
+[v2rayN](https://v2rayn.org/v2rayn-download/)
+> 梯子
+
+[小猫咪](链接: https://pan.baidu.com/s/1w76kUajAwmTMTQKNIGi42A?pwd=x2gp) 提取码: x2gp
+> 梯子
+
 ## 下载器
 
 [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
@@ -33,7 +39,7 @@ star: false
 
 [Xmind ZEN 脑图](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
 
-[Mindjet MindManager 流程图]()
+[Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
 
 [AxureRP 原型图工具](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
 

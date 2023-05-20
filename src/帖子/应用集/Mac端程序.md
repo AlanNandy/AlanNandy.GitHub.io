@@ -24,7 +24,7 @@ star: false
 [v2rayN](https://v2rayn.org/v2rayn-download/)
 > 梯子
 
-[小猫咪](https://pan.baidu.com/s/1w76kUajAwmTMTQKNIGi42A?pwd=x2gp) 提取码: x2gp
+[小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
 > 梯子
 
 ## 下载器

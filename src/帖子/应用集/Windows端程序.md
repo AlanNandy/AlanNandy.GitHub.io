@@ -147,8 +147,7 @@ star: false
 ## 视频
 
 [PotPlayer](http://www.potplayercn.com/download)
-> 功能全面的媒体播放工具，但个人一般用来播放
-IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
+> 功能全面的媒体播放工具，但个人一般用来播放 IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
 
 [ZY Player](http://zyplayer.fun/)
 
@@ -159,6 +158,9 @@ IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9
 ## 虚拟机
 
 [VMware Workstation Pro](https://pan.baidu.com/s/1_b9eq_A-TygtJkHyi5a3Dg?pwd=gg8k) 提取码：gg8k
+
+[Ryujinx_Nintendo Switch模拟器](https://pan.baidu.com/s/1JtQsrBOQZhqvEeFTO7W5AA?pwd=1los) 提取码：1los
+> [Nintendo Switch 游戏镜像](https://pan.baidu.com/s/1t5js_S7nkgVumJb54XZtYw?pwd=q2zy) 提取码：q2zy。其它 Nintendo Switch 游戏镜像网站：[xxxxx520](https://sway.office.com/sD1RziqnHyZ92I3b)
 
 ## 远程操控
 

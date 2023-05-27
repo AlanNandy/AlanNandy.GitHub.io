@@ -44,7 +44,10 @@ star: false
 [海阔视界](https://haikuo.lanzoui.com/u/GoldRiver)
 > 一个综合功能爆炸的应用，浏览器只是附属品同时支持Via与油猴的插件。
 
-[v2rayNG](https://wwbs.lanzoub.com/i97tR0igy8kh) 密码:evz7
+[v2rayNG](https://wwbs.lanzoub.com/io1MO0xel4jc) 密码:8opt
+> 梯子
+
+[小猫咪](https://wwbs.lanzoub.com/iEkev0xei95a) 密码:5fns
 > 梯子
 
 ## 网盘

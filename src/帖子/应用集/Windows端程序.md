@@ -34,10 +34,13 @@ star: false
 
 [SwitchHosts! hosts管理工具](https://pan.baidu.com/s/1d4Q6TgGTLTzgSZmHbXq0TQ?pwd=e76e) 提取码：e76e
 
+[小火箭](https://pan.baidu.com/s/1PLONce8U-cl_AWssz3zX2w?pwd=60ch) 提取码：60ch
+> 梯子
+
 [v2rayN](https://v2rayn.org/v2rayn-download/)
 > 梯子
 
-[小火箭](https://pan.baidu.com/s/1PLONce8U-cl_AWssz3zX2w?pwd=60ch) 提取码：60ch
+[小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码: xytc
 > 梯子
 
 ## 下载器

@@ -21,6 +21,12 @@ star: false
 [拦截100](https://apps.apple.com/cn/app/id1576858756)
 > 支持浏览器广告拦截、视频嗅探以及油猴脚本
 
+[小火箭](https://apps.apple.com/cd/app/shadowrocket/id932747118)
+> 梯子，易用性高
+
+[圈X](https://quantumult.org/)
+> 梯子，可玩性高
+
 ## 通用系统增强工具
 
 [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188)

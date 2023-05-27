@@ -21,7 +21,7 @@ star: false
 [油猴插件](https://www.tampermonkey.net/)
 > Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
 
-[v2rayN](https://v2rayn.org/v2rayn-download/)
+[V2RayX](https://github.com/Cenmrev/V2RayX)
 > 梯子
 
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518

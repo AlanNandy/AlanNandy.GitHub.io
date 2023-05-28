@@ -23,6 +23,10 @@ star: false
 
 [win32diskimager 镜像拷录工具](https://pan.baidu.com/s/16QFk04v6Rvrp4n_gNNSORw?pwd=2aer) 提取码：2aer
 
+## 输入法
+
+[百度输入法](https://shurufa.baidu.com/)
+
 ## 浏览器
 
 [Edge 浏览器](http://www.microsoft.com/edge)
@@ -43,10 +47,21 @@ star: false
 [小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码: xytc
 > 梯子
 
+## 网盘
+
+[百度网盘](https://yun.baidu.com/download)
+
+[坚果云](https://www.jianguoyun.com/s/downloads)
+> 支持第三方 WebDAV 应用
+
+[Dropbox](https://www.dropbox.com/install)
+
 ## 下载器
 
 [Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) 提取码：ra2n
 > 配合油猴插件可以加速某些网盘文件的下载。
+
+[迅雷](https://www.xunlei.com/)
 
 ## 文件管理
 
@@ -60,9 +75,36 @@ star: false
 > By the way, C盘的User文件夹提前通过 CMD
 命令软链接到其它盘，详细操作可查看[Widnows 玩机技巧 | 运用软链接实现文件搬家](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
 
+## 社交/通讯
+
+[微信](https://weixin.qq.com/)
+> 小而美
+
+[QQ](https://im.qq.com/index/)
+
+[阿里旺旺](https://page.1688.com/html/wangwang/download/windows/main.html)
+
+[电报](https://telegram.org/apps)
+> 搭配梯子使用
+
+[Discord](https://discord.com/download)
+
 ## 学习/办公
 
+[网易有道词典](https://fanyi.youdao.com/download-Windows)
+> 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典。
+
+[有道云笔记](https://note.youdao.com/note-download/)
+> 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
+
+[腾讯会议](https://meeting.tencent.com/download/)
+
+[滴答清单](https://www.dida365.com/about/download)
+> 免费的跨平台TODO
+
 [NotePad++ 文本/代码编辑器](https://pan.baidu.com/s/1rJ4iWm_RawyTofxyxzk0-g?pwd=20ig) 提取码：20ig
+
+[WPS Office](https://platform.wps.cn/)
 
 [Office](https://pan.baidu.com/s/1PkRcjbQJbhopZywrXIrBtA?pwd=iyrd) 提取码：iyrd
 > 除了Word、Excel、PPT，个人还倾向于使用 One Drive、One Note 以及 Outlook，至少网络环境比谷歌套件舒服。
@@ -145,14 +187,25 @@ star: false
 
 [MuiscTool 音乐下载工具](https://www.yijingying.com/html/musictools/)
 
-[unblockneteasemusic 网易云辅助插件](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) 提取码：cxfs
+[网易云音乐](https://music.163.com/#/download)
+> [unblockneteasemusic 网易云辅助插件](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) 提取码：cxfs
+
+[QQ音乐](https://y.qq.com/download/index.html)
 
 ## 视频
 
 [PotPlayer](http://www.potplayercn.com/download)
 > 功能全面的媒体播放工具，但个人一般用来播放 IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
 
-[ZY Player](http://zyplayer.fun/)
+[ZY Player](https://github.com/Hiram-Wong/ZyPlayer/releases)
+
+[爱奇艺](https://app.iqiyi.com/pc/player/index.html#pcplayer)
+
+[优酷](https://youku.com/product/index)
+
+[腾讯视频](https://v.qq.com/download.html)
+
+[哔哩哔哩](https://app.bilibili.com/)
 
 ## 地图导航
 
@@ -168,3 +221,7 @@ star: false
 ## 远程操控
 
 [PuTTY_远程命令行工具](https://pan.baidu.com/s/1zuhgqcuuP6ctcFCa4dH2nw?pwd=7rcg) 提取码：7rcg
+> 远程命令行
+
+[VNC Viewer](https://www.realvnc.com/en/)
+> 远程桌面

@@ -27,6 +27,152 @@ star: false
 [圈X](https://quantumult.org/)
 > 梯子，可玩性高
 
+## 网盘
+
+[百度网盘](https://apps.apple.com/cn/app/百度网盘/id547166701)
+
+## 文件管理
+
+[ES文件浏览器](https://apps.apple.com/cn/app/ES文件浏览器-ZIP-RAR-7Z-解压和压缩/id1441621965)
+
+## 社交/通讯
+
+[微信](https://weixin.qq.com/)
+> 小而美
+
+[QQ](https://im.qq.com/index/)
+> QQ频道是不错的新尝试
+
+[电报](https://telegram.org/apps)
+> 搭配梯子使用
+
+[Discord](https://discord.com/download)
+
+[微博](https://apps.apple.com/cn/app/微博/id350962117)
+> 虽然微博的情绪化比较严重，但仍然是事件热度的反馈集中区。
+
+[Twitter](https://twitter.com/settings/download)
+
+[绿洲](https://oasis.chengdu.weibo.cn/v1/h5/download)
+
+[Instagram](https://apps.apple.com/cn/app/instagram/id389801252)
+
+[即刻](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
+> 即吊有表情包生产有限公司
+
+[百度贴吧](https://apps.apple.com/cn/app/百度贴吧-聊兴趣，上贴吧/id477927812)
+
+[Reddit](https://apps.apple.com/us/app/reddit/id1064216828)
+> 海外贴吧
+
+[小红书](https://apps.apple.com/cn/app/小红书–你的生活指南/id741292507)
+
+[豆瓣](https://douban.com/doubanapp/)
+> 极为先进的租房平台
+
+[酷安](https://apps.apple.com/cn/app/酷安-发现科技新生活/id1422581869)
+
+[TapTap](https://apps.apple.com/cn/app/TapTap-发现好游戏/id1444595166)
+
+[知乎](https://apps.apple.com/cn/app/知乎-高质量问答社区，精彩原创视频/id432274380)
+> 分享刚编的故事
+
+[Quora](https://apps.apple.com/us/app/quora/id456034437)
+> 海外知乎
+
+## 音乐/播客
+
+[小宇宙](https://www.xiaoyuzhoufm.com/)
+> 某种程度上推动了国内播客生态
+
+[网易云音乐](https://apps.apple.com/cn/app/网易云音乐-1亿正版曲库有声内容/id590338362)
+
+[QQ音乐](https://apps.apple.com/cn/app/QQ音乐-听我想听/id414603431)
+
+## 拍摄/后期
+
+[轻颜相机](https://apps.apple.com/cn/app/轻颜相机-风格自拍新潮流/id1375390276)
+
+[ProCam](https://apps.apple.com/cn/app/procam-8/id730712409)
+
+[醒图](https://apps.apple.com/cn/app/醒图-修出高级美/id1500526240)
+
+[泼辣](https://apps.apple.com/cn/app/泼辣/id988173374)
+
+[剪映](https://apps.apple.com/cn/app/剪映-轻而易剪/id1458072671)
+
+[24FPS](https://apps.apple.com/cn/app/24FPS：美学视频效果/id1341136787)
+
+## 图片/视频
+
+[图虫](https://tuchong.com/app/)
+
+[抖音](https://apps.apple.com/cn/app/抖音/id1142110895)
+
+[快手](https://apps.apple.com/cn/app/快手/id440948110)
+
+[哔哩哔哩](https://app.bilibili.com/)
+
+[Acfun](https://open.app.acfun.cn/home/)
+
+## 购物/生活
+
+[百事AA记账](https://apps.apple.com/cn/app/百事AA记账-多人智能记账APP，云记账更安全/id1536568727)
+> 多人记账
+
+[即士多](https://jstore.site/?channel=jstoreapp)
+> 即友的好物推荐社区，但似乎被遗弃
+
+[大众点评](https://w.dianping.com/cube/evoke/dianping.html)
+> 点评攻略不仅限于大陆，去台湾旅游的时候惊奇地发现也有不少有用的点评，值得点赞。
+
+[下厨房](https://apps.apple.com/cn/app/下厨房-美食菜谱/id460979760)
+> 下厨房拥有更家常的菜谱，简明扼要，可惜缺少打卡记录的功能，打卡记录更推荐[懒饭](http://lanfanapp.com/)。
+
+## 运动/健康
+
+[Keep](https://keep.com/appIntro)
+> Keep上的免费课程还是蛮有效的。
+
+[潮汐](https://apps.apple.com/cn/app/潮汐-睡眠、冥想、专注白噪音，番茄任务与睡眠监测/id1077776989)
+
+## 地图导航
+
+[高德地图](https://apps.apple.com/cn/app/高德地图-高德打车,导航公交地铁出行/id461703208)
+
+[百度地图](https://apps.apple.com/cn/app/百度地图-智能导航，打车地铁公交更快出行/id452186370)
+
+[滴滴出行](https://apps.apple.com/cn/app/滴滴出行-打车骑车顺风车代驾租车货运出行/id554499054)
+> 滴滴被下架一段时间后，现在已经习惯高德打车了。
+
+[铁路12306](https://apps.apple.com/cn/app/铁路12306/id564818797)
+
+[航旅纵横](https://apps.apple.com/cn/app/航旅纵横PRO-官方机票预定查航班值机接送机免税酒店/id768160271)
+
+## 学习/办公
+
+[滴答清单](https://www.dida365.com/about/download)
+> 免费的跨平台TODO
+
+[网易有道词典](http://cidian.youdao.com/mobile.html)
+> 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典，背单词更推荐[词根词缀字典](http://www.dicts.cn/dictword20181/download.html)。
+
+[流利说](https://apps.apple.com/cn/app/流利说·英语-学英语口语地道发音/id597364850)
+
+[网易公开课](https://apps.apple.com/cn/app/网易公开课-名校网课在线学习App/id415424368)
+
+[有道云笔记](https://note.youdao.com/note-download/)
+> 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
+
+[WPS Office](https://apps.apple.com/cn/app/wps-office/id599852710)
+
+## 新闻/读书
+
+[微信读书](https://apps.apple.com/cn/app/微信读书/id952059546)
+
+[今日头条](https://apps.apple.com/cn/app/今日头条/id529092160)
+> 一元付费的专业版居然下架了
+
 ## 通用系统增强工具
 
 [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188)

@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2023-05-18
+date: 2023-05-28
 category:
   - 应用集
 tag:
@@ -27,12 +27,35 @@ star: false
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
 > 梯子
 
+## 网盘
+
+[百度网盘](https://yun.baidu.com/download)
+
 ## 下载器
 
 [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
 > 配合油猴插件可以加速某些网盘文件的下载。
 
+## 社交/通讯
+
+[微信](https://weixin.qq.com/)
+> 小而美
+
+[钉钉](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
+
+[企业微信](https://work.weixin.qq.com/?from=openApi#indexDownload)
+
+[电报](https://telegram.org/apps)
+> 搭配梯子使用
+
 ## 学习/办公
+
+[腾讯会议](https://meeting.tencent.com/download/)
+
+[滴答清单](https://www.dida365.com/about/download)
+> 免费的跨平台TODO
+
+[WPS Office](https://platform.wps.cn/)
 
 [Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
 > 目前 Mac 上使用 [WPS](https://platform.wps.cn/) 办公反而稳定一些，但 One Drive、One Note 以及 Outlook 已经有旧数据依赖了，还是得照旧使用。

@@ -41,6 +41,8 @@ star: false
 
 [Via](https://www.coolapk.com/apk/mark.via)
 
+[Chrome](https://www.google.cn/chrome/index.html)
+
 [海阔视界](https://haikuo.lanzoui.com/u/GoldRiver)
 > 一个综合功能爆炸的应用，浏览器只是附属品同时支持Via与油猴的插件。
 
@@ -54,8 +56,12 @@ star: false
 
 [百度网盘简洁版](https://wwbs.lanzoub.com/iXMDK0imgnej) 密码:2ro2
 
+[Google Drive](https://www.google.com/drive/download/)
+
 [坚果云](https://www.jianguoyun.com/s/downloads)
 > 支持第三方 WebDAV 应用
+
+[Dropbox](https://www.dropbox.com/install)
 
 [蓝云](https://wwbs.lanzoub.com/iJbG20imgngb) 密码:1tr1
 > 第三方蓝奏云
@@ -85,16 +91,25 @@ star: false
 [电报](https://telegram.org/apps)
 > 搭配梯子使用
 
+[Discord](https://discord.com/download)
+
 [微博轻享版](https://www.coolapk.com/apk/com.weico.international)
 > 虽然微博的情绪化比较严重，但仍然是事件热度的反馈集中区。
 
-[顷刻](https://qingke.colapanda.com/)
-> 第三方INS纯净无广告
+[Twitter](https://twitter.com/settings/download)
+
+[绿洲](https://oasis.chengdu.weibo.cn/v1/h5/download)
+
+[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
+> [顷刻](https://qingke.colapanda.com/)免翻墙的纯净无广告的第三方INS
 
 [即刻](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
 > 即吊有表情包生产有限公司
 
 [百度贴吧简洁版](https://wwbs.lanzoub.com/iAOzJ0io2o8h) 密码:8207
+
+[Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+> 海外贴吧
 
 [豆瓣](https://douban.com/doubanapp/)
 > 极为先进的租房平台
@@ -103,6 +118,9 @@ star: false
 
 [知乎-with-module](https://wwbs.lanzoub.com/iinFz0imbcuj) 密码:a7gb
 > 分享刚编的故事
+
+[Quora](https://play.google.com/store/apps/details?id=com.quora.android)
+> 海外知乎
 
 ## 音乐/播客
 
@@ -116,7 +134,11 @@ star: false
 
 [QQ音乐简洁版](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
 
+[YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+
 ## 拍摄/后期
+
+[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 [谷歌相机](https://www.xda-developers.com/google-camera-port-hub/)
 
@@ -128,19 +150,9 @@ star: false
 
 [剪映](https://wwbs.lanzoub.com/iAZF00lm3yne) 密码:80rp
 
-## 视频
+## 图片/视频
 
-[哔哩哔哩-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
-> 电子榨菜
-
-[Vanced](https://nalankang.lanzouo.com/b00ujce7i) 密码:OJBK
-> 第三方油管纯净无广吿
-
-[PureTuber(第三方油管纯净无广吿)](https://nalankang.lanzouo.com/b00usb4ba) 密码:OJBK
-> 第三方油管纯净无广吿
-
-[爱奇艺视频极速版](http://iqiyi.cn/efxOSFt-a1)
-> 边刷视频边赚钱
+[图虫](https://tuchong.com/app/)
 
 [抖音极速版](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
 > 边刷视频边赚钱
@@ -150,6 +162,19 @@ star: false
 
 [快手极速版](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
 > 边刷视频边赚钱
+
+[腾讯视频极速版](https://m.v.qq.com/app/tenvideo_lite_down/index.html)
+
+[爱奇艺视频极速版](http://iqiyi.cn/efxOSFt-a1)
+> 边刷视频边赚钱
+
+[哔哩哔哩-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
+> 电子榨菜
+
+[Acfun](https://open.app.acfun.cn/home/)
+
+[Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+> 纯净无广吿的第三方油管：[Vanced](https://nalankang.lanzouo.com/b00ujce7i) 密码:OJBK、[PureTuber(第三方油管纯净无广吿)](https://nalankang.lanzouo.com/b00usb4ba) 密码:OJBK
 
 ## 购物/生活
 
@@ -172,6 +197,8 @@ star: false
 [高德地图简洁版](https://wwbs.lanzoub.com/ij9js0io52wh) 密码:7x2v
 
 [百度地图简洁版](https://wwbs.lanzoub.com/i1OMv0io4u5c) 密码:ck7a
+
+[Google Map](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
 ## 学习/办公
 
@@ -248,6 +275,9 @@ star: false
 
 [李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
 
+[一指禅](https://wwbs.lanzoub.com/iJFee0xhq90b) 密码：aeno
+> [一指禅电报群](https://t.me/xad_fire)
+
 [AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) 密码:59vb
 > 较全能的广告屏蔽工具
 
@@ -263,6 +293,9 @@ star: false
 
 [自动发邮件插件](https://nalankang.lanzouo.com/b00utusqj)
 密码:OJBK
+
+[小转发](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) 密码：466h
+> 可以读取备用手机收到的短信和未接来电，并转发到主力手机的微信上。
 
 ## 模拟定位
 

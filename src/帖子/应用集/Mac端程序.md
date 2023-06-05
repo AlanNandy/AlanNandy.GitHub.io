@@ -69,3 +69,8 @@ star: false
 ## 拍摄/后期
 
 [Adobe 系列软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
+
+## 通用系统增强工具
+
+[Scroll Reverser](https://pilotmoon.com/scrollreverser/)
+> 单独设置 Mac 的触控板和鼠标滚动

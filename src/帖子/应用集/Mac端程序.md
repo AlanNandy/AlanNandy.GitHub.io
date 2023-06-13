@@ -36,6 +36,10 @@ star: false
 [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
 > 配合油猴插件可以加速某些网盘文件的下载。
 
+## 文件管理
+
+[The Unarchiver 压缩工具](https://theunarchiver.com/)
+
 ## 社交/通讯
 
 [微信](https://weixin.qq.com/)

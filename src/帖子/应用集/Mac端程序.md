@@ -78,3 +78,8 @@ star: false
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 > 单独设置 Mac 的触控板和鼠标滚动
+
+## 远程操控
+
+[向日葵](https://sunlogin.oray.com/)
+> 远程桌面，通常用来跨系统远程操控，比如 Mac OS 远程操控 Windows。登录账号能够统一管理设备，并且不受公网IP限制，能够穿透内网。

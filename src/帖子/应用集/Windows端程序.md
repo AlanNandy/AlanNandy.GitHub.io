@@ -177,7 +177,7 @@ star: false
 [360Suite 小工具集](https://pan.baidu.com/s/1Nofl2bPDMOCHJ5VfJM-Ugw?pwd=js9w) 提取码：js9w
 
 [Quicker](https://getquicker.net/Download)
-> 功能全面的快捷操作工具箱，长链接还可以跨系统推送。
+> 功能全面的快捷操作工具箱，长链接还可以跨系统推送。部分功能与[PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)重合，逐步被取代。
 
 [DiskGenius 磁盘工具](https://www.diskgenius.cn/download.php)
 
@@ -225,3 +225,6 @@ star: false
 
 [VNC Viewer](https://www.realvnc.com/en/)
 > 远程桌面
+
+[向日葵](https://sunlogin.oray.com/)
+> 远程桌面，通常用来跨系统远程操控，比如 Mac OS 远程操控 Windows。登录账号能够统一管理设备，并且不受公网IP限制，能够穿透内网。

@@ -162,6 +162,9 @@ star: false
 
 [网易公开课](https://apps.apple.com/cn/app/网易公开课-名校网课在线学习App/id415424368)
 
+[MyScript© Calculator 2](https://apps.apple.com/cn/app/myscript-calculator/id1304488725)
+> 手写科学计算器
+
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 

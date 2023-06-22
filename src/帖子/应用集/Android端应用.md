@@ -208,6 +208,8 @@ star: false
 [网易有道词典](http://cidian.youdao.com/mobile.html)
 > 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典，背单词更推荐[词根词缀字典](http://www.dicts.cn/dictword20181/download.html)。
 
+[超级计算器](https://wwbs.lanzoub.com/i5Kyz0zr3f0b) 密码:dg9t
+
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 

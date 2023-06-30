@@ -73,6 +73,7 @@ star: false
 ## 拍摄/后期
 
 [Adobe 系列软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
+> 安装前需移除下载镜像的Quarantine属性，在“终端”中输入代码：sudo xattr -r -d com.apple.quarantine+空格+在应用程序中找到App拖入终端里面即可（注意：输入代码中不要带加号）
 
 ## 通用系统增强工具
 

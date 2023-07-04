@@ -134,6 +134,8 @@ star: false
 
 [QQ音乐简洁版](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
 
+[Spotify](https://wwbs.lanzoub.com/iwrcn118t7pc) 密码:1c56
+
 [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 ## 拍摄/后期

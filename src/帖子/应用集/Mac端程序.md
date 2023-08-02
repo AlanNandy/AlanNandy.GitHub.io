@@ -16,10 +16,20 @@ star: false
 2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装，主要为应用精简版、破解版。**本应用集资源均为网络收集且免费分享。**
 3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)可关注[@Nandelion](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDg3NzYwNg==)。
 
+## 输入法
+[百度输入法](https://srf.baidu.com/input/mac.html)
+> MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带输入法可以解决。
+
 ## 浏览器
 
 [油猴插件](https://www.tampermonkey.net/)
 > Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
+
+[Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) 提取码: e5if
+> 浏览器翻译插件
+
+[Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
+> 浏览器广告拦截插件
 
 [V2RayX](https://github.com/Cenmrev/V2RayX)
 > 梯子
@@ -79,6 +89,12 @@ star: false
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 > 单独设置 Mac 的触控板和鼠标滚动
+
+## 音乐/播客
+[网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
+
+## 视频
+[哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 
 ## 远程操控
 

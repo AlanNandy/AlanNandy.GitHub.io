@@ -55,6 +55,8 @@ star: false
 [微信](https://weixin.qq.com/)
 > 小而美
 
+[QQ](https://im.qq.com/macqq/index.shtml)
+
 [钉钉](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
 
 [企业微信](https://work.weixin.qq.com/?from=openApi#indexDownload)
@@ -79,6 +81,11 @@ star: false
 [Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
 
 [AxureRP 原型图工具](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
+
+[FreeCAD](https://www.freecad.org)
+
+[后裔采集器](https://www.houyicaiji.com/)
+> 网页数据采集软件
 
 ## 拍摄/后期
 

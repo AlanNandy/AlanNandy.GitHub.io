@@ -3,6 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 import { enNavbar } from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
+import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
 
 export default hopeTheme({
 
@@ -72,7 +73,7 @@ export default hopeTheme({
 
   plugins: {
     autoCatalog: {
-        index: false
+        index: false,
     },
 
     blog: true,

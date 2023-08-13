@@ -19,6 +19,15 @@ export const zhNavbar = navbar([
           { text: "Mac端程序", icon: "edit", link: "Mac端程序" },
         ],
       },
+      {
+        text: "好物安利",
+        icon: "note",
+        prefix: "好物安利/",
+        children: [
+          { text: "好物安利", icon: "edit", link: "好物安利" },
+          { text: "利是", icon: "edit", link: "利是" },
+        ],
+      },
     ],
   },
 ]);

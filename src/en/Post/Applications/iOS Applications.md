@@ -2,13 +2,13 @@
 icon: note
 date: 2023-01-28
 category:
-  - 应用集
+  - Applications
 tag:
-  - 应用
+  - Applications
 star: false
 ---
 
-# iOS端应用
+# iOS Applications
 
 ## 前言
 
@@ -17,7 +17,7 @@ star: false
 3. 购买Apple Store礼品卡，可以去支付宝的[PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy)小程序。
 4. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## 浏览器
 

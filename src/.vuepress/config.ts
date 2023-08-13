@@ -8,7 +8,10 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "Alan Nandy",
-      description: "A product manager",
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "Alan Nandy",
     },
   },
 

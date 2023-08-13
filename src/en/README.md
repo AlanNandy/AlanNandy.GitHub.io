@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 首页
+title: Home
 heroImage: /logo.svg
 heroText: Alan Nandy
 tagline: All is well.
@@ -14,9 +14,9 @@ projects:
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect
 
   - icon: folder
-    name: 应用集
+    name: Applications
     desc: 应用分享（精简版、破解版）
-    link: /帖子/应用集
+    link: /en/Post/Applications
 
   - icon: folder
     name: 手机美化
@@ -24,19 +24,19 @@ projects:
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
     
   - icon: folder
-    name: 手机壁纸
+    name: Wallpapers
     desc: 壁纸合集分享
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
 
   - icon: note
-    name: 好物安利
-    desc: 好物分享
-    link: /帖子/好物安利/好物安利.md
+    name: Good Commodities
+    desc: Good Commodities
+    link: /en/Post/Good Commodities/Good Commodities.md
 
   - icon: note
-    name: 利是
-    desc: 红包分享
-    link: /帖子/好物安利/利是.md
+    name: Red envelope
+    desc: Red envelope
+    link: /en/Post/Good Commodities/Red envelope.md
 
   - icon: note
     name: 玄学卜筮
@@ -48,5 +48,5 @@ projects:
     desc: 放松身心的工具集
     link: https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483999&idx=1&sn=9eabf83368f7d109ae835dda62f80e48&chksm=cfd4a196f8a3288097918fa5bade93cdd9d57f79ee799e577c6691af0efc070a7c467d5984e3#rd
 
-footer: 欢迎通过公众号 @Nandelion 反馈建议
+footer: Welcome to provide feedback through the official account @Nandelion
 ---

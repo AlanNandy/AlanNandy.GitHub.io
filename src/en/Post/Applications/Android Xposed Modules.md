@@ -2,13 +2,13 @@
 icon: android
 date: 2023-01-28
 category:
-  - 应用集
+  - Applications
 tag:
-  - 模块
+  - Modules
 star: true
 ---
 
-# Android端Xposed模块
+# Android Xposed Modules
 
 [Magisk面具中文网](https://magiskcn.com/)
 
@@ -20,7 +20,7 @@ star: true
 2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装。**本应用集资源均为网络收集且免费分享。**
 3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## 面具/Xposed的增强/隐藏/屏蔽模块
 

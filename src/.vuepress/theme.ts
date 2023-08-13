@@ -1,6 +1,8 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
+import { enNavbar } from "./navbar/index.js";
+import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
 
@@ -26,19 +28,17 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Wechat: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDg3NzYwNg==",
+      Gmail: "mailto:hope1996liu@gmail.com",
     },
   },
 
   locales: {
     "/": {
-      // navbar
       navbar: zhNavbar,
 
-      // sidebar
       sidebar: zhSidebar,
 
-      footer: "欢迎通过公众号或小程序反馈更多产品建议。",
+      footer: "欢迎通过公众号 @Nandelion 反馈建议",
 
       displayFooter: true,
 
@@ -47,41 +47,58 @@ export default hopeTheme({
         intro: "/intro.html",
       },
     },
+    "/en/": {
+      navbar: enNavbar,
+
+      sidebar: enSidebar,
+
+      footer: "Welcome to provide feedback through the official account @Nandelion",
+
+      displayFooter: true,
+
+      blog: {
+        description: "All is well.",
+        intro: "/en/intro.html",
+      },
+    },
   },
 
   encrypt: {
     config: {
+      // "/帖子/应用集/Android端Xposed模块.html": "bageling",
+      // "/en/Post/Applications/Android Xposed Modules.html": "bageling",
     },
   },
 
   plugins: {
+
     blog: true,
 
     // If you don’t need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
-    // comment: {
-    //   /**
-    //    * Using Giscus
-    //    */
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    comment: {
+      /**
+       * Using Giscus
+       */
+      provider: "Giscus",
+      repo: "AlanNandy/giscus-discussions",
+      repoId: "R_kgDOKGibRw",
+      category: "Announcements",
+      categoryId: "DIC_kwDOKGibR84CYkn8",
 
-    //   /**
-    //    * Using Twikoo
-    //    */
-    //   // provider: "Twikoo",
-    //   // envId: "https://twikoo.ccknbc.vercel.app",
+      /**
+       * Using Twikoo
+       */
+      // provider: "Twikoo",
+      // envId: "https://twikoo.ccknbc.vercel.app",
 
-    //   /**
-    //    * Using Waline
-    //    */
-    //   // provider: "Waline",
-    //   // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-    // },
+      /**
+       * Using Waline
+       */
+      // provider: "Waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+    },
 
     // Disable features you don’t want here
     mdEnhance: {
@@ -128,60 +145,60 @@ export default hopeTheme({
     },
 
     // uncomment these if you want a PWA
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cachePic: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //     shortcuts: [
-    //       {
-    //         name: "Demo",
-    //         short_name: "Demo",
-    //         url: "/demo/",
-    //         icons: [
-    //           {
-    //             src: "/assets/icon/guide-maskable.png",
-    //             sizes: "192x192",
-    //             purpose: "maskable",
-    //             type: "image/png",
-    //           },
-    //         ],
-    //       },
-    //     ],
-    //   },
-    // },
+    pwa: {
+      favicon: "/favicon.ico",
+      cacheHTML: true,
+      cachePic: true,
+      appendBase: true,
+      apple: {
+        icon: "/assets/icon/apple-icon-152.png",
+        statusBarColor: "black",
+      },
+      msTile: {
+        image: "/assets/icon/ms-icon-144.png",
+        color: "#ffffff",
+      },
+      manifest: {
+        icons: [
+          {
+            src: "/assets/icon/chrome-mask-512.png",
+            sizes: "512x512",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-mask-192.png",
+            sizes: "192x192",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-512.png",
+            sizes: "512x512",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+        ],
+        shortcuts: [
+          {
+            name: "Demo",
+            short_name: "Demo",
+            url: "/demo/",
+            icons: [
+              {
+                src: "/assets/icon/guide-maskable.png",
+                sizes: "192x192",
+                purpose: "maskable",
+                type: "image/png",
+              },
+            ],
+          },
+        ],
+      },
+    },
   },
 });

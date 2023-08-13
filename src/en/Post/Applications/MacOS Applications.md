@@ -1,20 +1,23 @@
 ---
-icon: edit
+icon: note
 date: 2023-05-28
 category:
-  - 应用集
+  - Applications
 tag:
-  - 应用
+  - Applications
 star: false
 ---
 
-# Mac端程序
+# MacOS Applications
 
 ## 前言
 
-1. 使用网站的目录或者 Ctrl+F 查找功能可以快速定位到需要的资源。
+1. 使用网站的目录或者“Command-F”查找功能可以快速定位到需要的资源。
 2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装，主要为应用精简版、破解版。**本应用集资源均为网络收集且免费分享。**
-3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)可关注[@Nandelion](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDg3NzYwNg==)。
+3. 购买Apple Store礼品卡，可以去支付宝的[PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy)小程序。
+4. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
+
+![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## 输入法
 [百度输入法](https://srf.baidu.com/input/mac.html)

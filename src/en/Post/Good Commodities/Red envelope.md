@@ -2,20 +2,20 @@
 icon: note
 date: 2023-08-12
 category:
-  - 好物安利
+  - Good Commodities
 tag:
-  - 红包
+  - Red envelope
 star: false
 ---
 
-# 利是
+# Red envelope
 
 ## 前言
 
 1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
 2. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## 外卖
 
@@ -25,4 +25,4 @@ star: false
 
 ## 支付
 
-![支付宝](../../image/支付宝.png =200x)
+![支付宝](../../../image/支付宝.png =200x)

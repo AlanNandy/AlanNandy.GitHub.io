@@ -1,6 +1,9 @@
 ---
 icon: info
+date: 2023-01-01
 title: Intro
+article: false
+timeline: false
 ---
 
 # Intro Page

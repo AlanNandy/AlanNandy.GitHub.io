@@ -10,26 +10,26 @@ star: false
 
 # Windows Applications
 
-## 前言
+## Preface
 
-1. 使用网站的目录或者“Ctrl+F”查找功能可以快速定位到需要的资源。
-2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装，主要为应用精简版、破解版。**本应用集资源均为网络收集且免费分享。**
-3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
+1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+3. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
-## 装机
+## Assembling System
 
 [微PE工具箱](https://www.wepe.com.cn/download.html)
 > 偶尔一些骚操作让电脑启动不了，PE可以救命。
 
 [win32diskimager 镜像拷录工具](https://pan.baidu.com/s/16QFk04v6Rvrp4n_gNNSORw?pwd=2aer) 提取码：2aer
 
-## 输入法
+## Input Method
 
 [百度输入法](https://shurufa.baidu.com/)
 
-## 浏览器
+## Web Browser
 
 [Edge 浏览器](http://www.microsoft.com/edge)
 > 几乎取代 Chrome 浏览器
@@ -49,7 +49,7 @@ star: false
 [小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码: xytc
 > 梯子
 
-## 网盘
+## Cloud Storage
 
 [百度网盘](https://yun.baidu.com/download)
 
@@ -58,14 +58,14 @@ star: false
 
 [Dropbox](https://www.dropbox.com/install)
 
-## 下载器
+## Downloader
 
 [Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) 提取码：ra2n
 > 配合油猴插件可以加速某些网盘文件的下载。
 
 [迅雷](https://www.xunlei.com/)
 
-## 文件管理
+## File Management
 
 [7-Zip 压缩工具](https://sparanoid.com/lab/7z/download.html)
 
@@ -77,7 +77,7 @@ star: false
 > By the way, C盘的User文件夹提前通过 CMD
 命令软链接到其它盘，详细操作可查看[Widnows 玩机技巧 | 运用软链接实现文件搬家](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
 
-## 社交/通讯
+## Social
 
 [微信](https://weixin.qq.com/)
 > 小而美
@@ -91,7 +91,7 @@ star: false
 
 [Discord](https://discord.com/download)
 
-## 学习/办公
+## Productivity
 
 [网易有道词典](https://fanyi.youdao.com/download-Windows)
 > 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典。
@@ -139,7 +139,7 @@ star: false
 
 [C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
 
-## 拍摄/后期
+## Photograph
 
 [FastStone Capture](https://www.faststonecapture.cn/download)
 > 功能全面的截图与录屏工具
@@ -166,7 +166,7 @@ star: false
 
 [Pano2VR 全景图像转换工具](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) 提取码：sa9z
 
-## 通用系统增强工具
+## Utilities
 
 [Dism++](https://pan.baidu.com/s/17NPclP8eRP5Hh4dD4H_IDA?pwd=0352) 提取码：0352
 > Windows 10 系统优化工具
@@ -183,7 +183,7 @@ star: false
 
 [DiskGenius 磁盘工具](https://www.diskgenius.cn/download.php)
 
-## 音乐/播客
+## Muisc
 
 [Foobar2000 汉化整合版](https://wwbs.lanzoub.com/iVpiz0j00oxc) 密码:1axk
 
@@ -194,7 +194,7 @@ star: false
 
 [QQ音乐](https://y.qq.com/download/index.html)
 
-## 视频
+## Video
 
 [PotPlayer](http://www.potplayercn.com/download)
 > 功能全面的媒体播放工具，但个人一般用来播放 IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
@@ -209,18 +209,18 @@ star: false
 
 [哔哩哔哩](https://app.bilibili.com/)
 
-## 地图导航
+## Travel
 
 [12306 分流抢票](https://www.bypass.cn/)
 
-## 虚拟机
+## Virtual Machine
 
 [VMware Workstation Pro](https://pan.baidu.com/s/1_b9eq_A-TygtJkHyi5a3Dg?pwd=gg8k) 提取码：gg8k
 
 [Ryujinx_Nintendo Switch模拟器](https://pan.baidu.com/s/1JtQsrBOQZhqvEeFTO7W5AA?pwd=1los) 提取码：1los
 > [Nintendo Switch 游戏镜像](https://pan.baidu.com/s/1t5js_S7nkgVumJb54XZtYw?pwd=q2zy) 提取码：q2zy。其它 Nintendo Switch 游戏镜像网站：[xxxxx520](https://sway.office.com/sD1RziqnHyZ92I3b)
 
-## 远程操控
+## Remote Control
 
 [PuTTY_远程命令行工具](https://pan.baidu.com/s/1zuhgqcuuP6ctcFCa4dH2nw?pwd=7rcg) 提取码：7rcg
 > 远程命令行

@@ -6,27 +6,27 @@ export const enSidebar = sidebar({
     {
       text: "Post",
       icon: "folder",
-      prefix: "Post/",
+      prefix: "帖子/",
       children: [
         {
           text: "Applications",
           icon: "folder",
-          prefix: "Applications/",
+          prefix: "应用集/",
           children: [
-            { text: "Android Applications", icon: "android", link: "Android Applications" },
-            { text: "Android Xposed Modules", icon: "android", link: "Android Xposed Modules" },
-            { text: "iOS Applications", icon: "note", link: "iOS Applications" },
-            { text: "Windows Applications", icon: "windows", link: "Windows Applications" },
-            { text: "MacOS Applications", icon: "note", link: "MacOS Applications" },
+            { text: "Android Applications", icon: "android", link: "Android端应用" },
+            { text: "Android Xposed Modules", icon: "android", link: "Android端Xposed模块" },
+            { text: "iOS Applications", icon: "note", link: "iOS端应用" },
+            { text: "Windows Applications", icon: "windows", link: "Windows端程序" },
+            { text: "MacOS Applications", icon: "note", link: "MacOS端程序" },
           ],
         },
         {
           text: "Good Commodities",
           icon: "folder",
-          prefix: "Good Commodities/",
+          prefix: "好物安利/",
           children: [
-            { text: "Good Commodities", icon: "note", link: "Good Commodities" },
-            { text: "Red envelope", icon: "note", link: "Red envelope" },
+            { text: "Good Commodities", icon: "note", link: "好物安利" },
+            { text: "Red envelope", icon: "note", link: "利是" },
           ],
         },
       ],

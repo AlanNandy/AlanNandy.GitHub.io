@@ -346,7 +346,7 @@ star: false
 
 [NeoTerm](https://nalankang.lanzouo.com/b00v681xa) 密码:OJBK
 
-## App脱壳工具
+## APK脱壳工具
 
 [BlackDex](https://nalankang.lanzouo.com/b00um84kf) 密码:OJBK
 

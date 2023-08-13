@@ -10,19 +10,19 @@ star: false
 
 # Android Applications
 
-## 前言
+## Preface
 
-1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
-2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装，主要为应用精简版、破解版。**本应用集资源均为网络收集且免费分享。**
-3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
+1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+3. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
-## 输入法
+## Input Method
 
 [讯飞输入法清爽版](https://wwbs.lanzoub.com/i65s10i81wsd) 密码:8bzg
 
-## 应用商店
+## Application Market
 
 [酷安](https://wwbs.lanzoub.com/ix2Cu0lm02ri) 密码:43ij
 > 玩机必备
@@ -39,7 +39,7 @@ star: false
 [APKPure](https://wwbs.lanzoub.com/iP9FW0lm2gbi) 密码:7bv3
 > 第三方谷歌应用商店
 
-## 浏览器
+## Web Browser
 
 [Via](https://www.coolapk.com/apk/mark.via)
 
@@ -54,7 +54,7 @@ star: false
 [小猫咪](https://wwbs.lanzoub.com/iEkev0xei95a) 密码:5fns
 > 梯子
 
-## 网盘
+## Cloud Storage
 
 [百度网盘简洁版](https://wwbs.lanzoub.com/iXMDK0imgnej) 密码:2ro2
 
@@ -70,7 +70,7 @@ star: false
 
 [蓝奏云 Lite](https://wwbs.lanzoub.com/imDRN0i7yk0f) 密码:1wbq
 
-## 下载器
+## Downloader
 
 [1DM+](https://wwbs.lanzoub.com/itTbb0i8317i) 密码:aku5
 > 海阔视界等浏览器可以将1DM+绑定为默认下载器，配合油猴插件可以加速某些网盘文件的下载。
@@ -78,11 +78,11 @@ star: false
 [QScanner](https://wwbs.lanzoub.com/izYZW0in16va) 密码:4ty1
 > 1DM+的扫码工具
 
-## 文件管理
+## File Management
 
 [ES文件浏览器简洁版](https://wwbs.lanzoub.com/ipGXc0i81zxg) 密码:7489
 
-## 社交/通讯
+## Social
 
 [微信](https://weixin.qq.com/)
 > 小而美
@@ -124,7 +124,7 @@ star: false
 [Quora](https://play.google.com/store/apps/details?id=com.quora.android)
 > 海外知乎
 
-## 音乐/播客
+## Muisc
 
 [小宇宙](https://www.xiaoyuzhoufm.com/)
 > 某种程度上推动了国内播客生态
@@ -140,7 +140,7 @@ star: false
 
 [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-## 拍摄/后期
+## Photograph
 
 [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
@@ -154,7 +154,7 @@ star: false
 
 [剪映](https://wwbs.lanzoub.com/iAZF00lm3yne) 密码:80rp
 
-## 图片/视频
+## Entertainment
 
 [图虫](https://tuchong.com/app/)
 
@@ -180,7 +180,7 @@ star: false
 [Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 > 纯净无广吿的第三方油管：[Vanced](https://nalankang.lanzouo.com/b00ujce7i) 密码:OJBK、[PureTuber(第三方油管纯净无广吿)](https://nalankang.lanzouo.com/b00usb4ba) 密码:OJBK
 
-## 购物/生活
+## Shopping
 
 [即士多](https://jstore.site/?channel=jstoreapp)
 > 即友的好物推荐社区，但似乎被遗弃
@@ -191,12 +191,12 @@ star: false
 [下厨房](https://www.coolapk.com/apk/com.xiachufang)
 > 下厨房拥有更家常的菜谱，简明扼要，可惜缺少打卡记录的功能，打卡记录更推荐[懒饭](http://lanfanapp.com/)。
 
-## 运动/健康
+## Fitness
 
 [Keep](https://keep.com/appIntro)
 > Keep上的免费课程还是蛮有效的。
 
-## 地图导航
+## Travel
 
 [高德地图简洁版](https://wwbs.lanzoub.com/ij9js0io52wh) 密码:7x2v
 
@@ -204,7 +204,7 @@ star: false
 
 [Google Map](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
-## 学习/办公
+## Productivity
 
 [滴答清单](https://www.dida365.com/about/download)
 > 免费的跨平台TODO
@@ -221,14 +221,14 @@ star: false
 
 [WPS Office 专业版通用激活密钥](https://wwbs.lanzoub.com/iI1bi0inxjod)
 
-## 新闻/读书
+## Reading
 
 [今日头条极速版](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=ENC-UID-MS4wLjABAAAAhglHozAGbWyvsE-4PIcj5CI8eWeY_OfD8kMhVHU8dk4&task_id=102&aid=35&enter_from=largefission&enter_from=task_detail&invite_type=largefission&invite_code=Q015415708&invite_money=10800)
 > 边刷新闻边赚钱
 
 [今日热榜 Lite](https://wwbs.lanzoub.com/iPm7c0iylnpc) 密码:dw1r
 
-## 通用系统增强工具
+## Utilities
 
 [搞机助手原版](https://nalankang.lanzouo.com/b00uks1sd) 密码:OJBK
 
@@ -277,7 +277,7 @@ star: false
 
 [WiFi Master Key 万能钥匙](https://wwbs.lanzoub.com/iBzhE0lnoo8b) 密码:boyt
 
-## 去广告工具
+## Ad-block
 
 [李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
 
@@ -287,7 +287,7 @@ star: false
 [AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) 密码:59vb
 > 较全能的广告屏蔽工具
 
-## 自动任务工具
+## Auto Tasks
 
 [Tasker](https://www.coolapk.com/apk/net.dinglisch.android.taskerm)
 
@@ -303,7 +303,7 @@ star: false
 [小转发](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) 密码：466h
 > 可以读取备用手机收到的短信和未接来电，并转发到主力手机的微信上。
 
-## 模拟定位
+## Virtual Location
 
 [GPS JoyStick 闪电鸟版本](https://wws.lanzoui.com/iwQEbmj70kd) 密码:1ibx
 
@@ -312,7 +312,7 @@ star: false
 [GPS JoyStick 火焰鸟UI版本](https://wws.lanzoui.com/iz83Zmj70gj) 密码:dhir
 > 三个版本功能一致，均为去广告全功能版本，仅UI差异。用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)
 
-## 虚拟机/应用多开
+## Virtual Machine
 
 [VMOS Pro 简洁版](https://wwbs.lanzoub.com/iwHoo0imgccb) 密码:gtwp
 > 支持宿主机Android 13
@@ -322,7 +322,7 @@ star: false
 [炼妖壶](https://www.coolapk.com/apk/com.oasisfeng.island)
 > 应用多开
 
-## 游戏修改器
+## Game Modifier
 
 [GameGuardian](https://wwbs.lanzoub.com/iaqq20igvqxa) 密码:4rvw
 
@@ -332,7 +332,7 @@ star: false
 [WeCatch](https://wwbs.lanzoub.com/iQHLz0i7zmkd) 密码:8pjz
 > 追踪Pokemon，以精准传送。
 
-## 终端模拟器
+## Terminal
 
 [Termux](https://nalankang.lanzouo.com/b00v67ype) 密码:OJBK
 
@@ -346,7 +346,7 @@ star: false
 
 [NeoTerm](https://nalankang.lanzouo.com/b00v681xa) 密码:OJBK
 
-## App脱壳工具
+## APK Unpacking
 
 [BlackDex](https://nalankang.lanzouo.com/b00um84kf) 密码:OJBK
 
@@ -356,7 +356,7 @@ star: false
 
 [反射大师](https://nalankang.lanzouo.com/b00v2j5ud) 密码:OJBK
 
-## APK逆向工具
+## APK Reverse Engineering
 
 [Apk编辑器](https://nalankang.lanzouo.com/b00u06q0d) 密码:OJBK
 

@@ -66,11 +66,14 @@ export default hopeTheme({
   encrypt: {
     config: {
       // "/帖子/应用集/Android端Xposed模块.html": "bageling",
-      // "/en/Post/Applications/Android Xposed Modules.html": "bageling",
+      // "/en/帖子/应用集/Android端Xposed模块.html": "bageling",
     },
   },
 
   plugins: {
+    autoCatalog: {
+        index: false
+    },
 
     blog: true,
 
@@ -121,9 +124,7 @@ export default hopeTheme({
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      presentation: ["highlight", "math", "search", "notes", "zoom"],
       stylize: [
         {
           matcher: "Recommended",

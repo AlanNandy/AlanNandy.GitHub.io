@@ -10,16 +10,16 @@ star: false
 
 # iOS Applications
 
-## 前言
+## Preface
 
-1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
-2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装。**本应用集资源均为网络收集且免费分享。**
-3. 购买Apple Store礼品卡，可以去支付宝的[PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy)小程序。
-4. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
+1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+3. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
+4. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
-## 浏览器
+## Web Browser
 
 [拦截100](https://apps.apple.com/cn/app/id1576858756)
 > 支持浏览器广告拦截、视频嗅探以及油猴脚本
@@ -30,15 +30,15 @@ star: false
 [圈X](https://quantumult.org/)
 > 梯子，可玩性高
 
-## 网盘
+## Cloud Storage
 
 [百度网盘](https://apps.apple.com/cn/app/百度网盘/id547166701)
 
-## 文件管理
+## File Management
 
 [ES文件浏览器](https://apps.apple.com/cn/app/ES文件浏览器-ZIP-RAR-7Z-解压和压缩/id1441621965)
 
-## 社交/通讯
+## Social
 
 [微信](https://weixin.qq.com/)
 > 小而美
@@ -83,7 +83,7 @@ star: false
 [Quora](https://apps.apple.com/us/app/quora/id456034437)
 > 海外知乎
 
-## 音乐/播客
+## Muisc
 
 [小宇宙](https://www.xiaoyuzhoufm.com/)
 > 某种程度上推动了国内播客生态
@@ -92,7 +92,7 @@ star: false
 
 [QQ音乐](https://apps.apple.com/cn/app/QQ音乐-听我想听/id414603431)
 
-## 拍摄/后期
+## Photograph
 
 [轻颜相机](https://apps.apple.com/cn/app/轻颜相机-风格自拍新潮流/id1375390276)
 
@@ -106,7 +106,7 @@ star: false
 
 [24FPS](https://apps.apple.com/cn/app/24FPS：美学视频效果/id1341136787)
 
-## 图片/视频
+## Entertainment
 
 [图虫](https://tuchong.com/app/)
 
@@ -118,7 +118,7 @@ star: false
 
 [Acfun](https://open.app.acfun.cn/home/)
 
-## 购物/生活
+## Shopping
 
 [百事AA记账](https://apps.apple.com/cn/app/百事AA记账-多人智能记账APP，云记账更安全/id1536568727)
 > 多人记账
@@ -132,14 +132,14 @@ star: false
 [下厨房](https://apps.apple.com/cn/app/下厨房-美食菜谱/id460979760)
 > 下厨房拥有更家常的菜谱，简明扼要，可惜缺少打卡记录的功能，打卡记录更推荐[懒饭](http://lanfanapp.com/)。
 
-## 运动/健康
+## Fitness
 
 [Keep](https://keep.com/appIntro)
 > Keep上的免费课程还是蛮有效的。
 
 [潮汐](https://apps.apple.com/cn/app/潮汐-睡眠、冥想、专注白噪音，番茄任务与睡眠监测/id1077776989)
 
-## 地图导航
+## Travel
 
 [高德地图](https://apps.apple.com/cn/app/高德地图-高德打车,导航公交地铁出行/id461703208)
 
@@ -152,7 +152,7 @@ star: false
 
 [航旅纵横](https://apps.apple.com/cn/app/航旅纵横PRO-官方机票预定查航班值机接送机免税酒店/id768160271)
 
-## 学习/办公
+## Productivity
 
 [滴答清单](https://www.dida365.com/about/download)
 > 免费的跨平台TODO
@@ -172,14 +172,14 @@ star: false
 
 [WPS Office](https://apps.apple.com/cn/app/wps-office/id599852710)
 
-## 新闻/读书
+## Reading
 
 [微信读书](https://apps.apple.com/cn/app/微信读书/id952059546)
 
 [今日头条](https://apps.apple.com/cn/app/今日头条/id529092160)
 > 一元付费的专业版居然下架了
 
-## 通用系统增强工具
+## Utilities
 
 [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188)
 > 在iOS上运行JS脚本的App。在iOS15新增桌面小组件的支持后，成为高自定义的桌面小组件运行器。更多Scriptable脚本以及[手机美化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect)教程可关注[@Nandelion](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDg3NzYwNg==)。

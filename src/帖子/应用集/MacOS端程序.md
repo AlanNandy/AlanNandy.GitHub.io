@@ -20,6 +20,7 @@ star: false
 ![Nandelion](../../image/Nandelion.jpg =200x)
 
 ## 输入法
+
 [百度输入法](https://srf.baidu.com/input/mac.html)
 > MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带输入法可以解决。
 

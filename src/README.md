@@ -15,23 +15,28 @@ projects:
 
   - icon: project
     name: 应用集
-    desc: 应用精简版、破解版分享
+    desc: 应用分享（精简版、破解版）
     link: /帖子/应用集
 
   - icon: project
     name: 手机美化
     desc: 主题包、小组件分享
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
-
-    icon: project
+    
+  - icon: project
     name: 手机壁纸
     desc: 壁纸合集分享
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
 
   - icon: project
     name: 好物安利
-    desc: 好物、红包分享
-    link: /帖子/好物安利
+    desc: 好物分享
+    link: /帖子/好物安利/好物安利.md
+
+  - icon: project
+    name: 利是
+    desc: 红包分享
+    link: /帖子/好物安利/利是.md
 
   - icon: project
     name: 玄学卜筮

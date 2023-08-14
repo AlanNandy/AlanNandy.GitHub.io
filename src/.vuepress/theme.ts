@@ -74,7 +74,6 @@ export default hopeTheme({
   plugins: {
     autoCatalog: {
         index: false,
-        exclude: ["/"],
     },
 
     blog: true,

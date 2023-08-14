@@ -8,7 +8,7 @@ tag:
 star: false
 ---
 
-# MacOS Applications
+# MacOS端程序
 
 ## Preface
 

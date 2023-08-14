@@ -8,7 +8,7 @@ tag:
 star: true
 ---
 
-# Android Xposed Modules
+# Android端Xposed模块
 
 [Magisk面具中文网](https://magiskcn.com/)
 

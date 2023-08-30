@@ -14,8 +14,12 @@ star: false
 
 1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
 2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
-3. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
-4. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
+3. When excessive applications are installed or after switching system languages, the application sorting within Launchpad might become disordered. You can restore Launchpad to its default state by entering the following command in the terminal:
+```bash
+defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
+```
+4. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
+5. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
@@ -25,6 +29,8 @@ star: false
 > MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带输入法可以解决。
 
 ## Web Browser
+
+[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) 
 
 [油猴插件](https://www.tampermonkey.net/)
 > Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。

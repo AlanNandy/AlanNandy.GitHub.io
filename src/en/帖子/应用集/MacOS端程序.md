@@ -30,8 +30,6 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 ## Web Browser
 
-[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) 
-
 [油猴插件](https://www.tampermonkey.net/)
 > Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
 
@@ -40,6 +38,15 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 [Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
 > 浏览器广告拦截插件
+
+[OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
+> 标签页管理插件
+
+[CTG Plugins](https://wwbs.lanzoub.com/iNE8616y3h5c)
+> 自动点击插件。通过[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd)的方法编译，可能存在稳定性问题。下载解压后将文件移动到访达的应用程序文件夹中，在Safari的“开发”菜单栏中允许未签名的扩展后，打开CTG Plugins并授予访问网站的权限即可。
+
+[草料二维码](https://wwbs.lanzoub.com/ix0N316y3hbi)
+> 快速生码和解码插件。通过[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd)的方法编译，可能存在稳定性问题。下载解压后将文件移动到访达的应用程序文件夹中，在Safari的“开发”菜单栏中允许未签名的扩展后，打开草料二维码并授予访问网站的权限即可。
 
 [V2RayX](https://github.com/Cenmrev/V2RayX)
 > 梯子

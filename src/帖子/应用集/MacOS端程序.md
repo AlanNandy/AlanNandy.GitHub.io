@@ -26,7 +26,7 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ## 输入法
 
 [百度输入法](https://srf.baidu.com/input/mac.html)
-> MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带输入法可以解决。通过System Preferences -> Keyboard -> Input Sources -> '+' -> Other -> 添加输入法Unicode Hex Input，把除百度输入法与Unicode Hex Input之外的其它输入法都删除掉，可以使百度输入法成为默认输入法。
+> MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带的拼音输入法可以解决。
 
 ## 浏览器
 

@@ -21,7 +21,7 @@ star: false
 ## Assembling System
 
 [微PE工具箱](https://www.wepe.com.cn/download.html)
-> 偶尔一些骚操作让电脑启动不了，PE可以救命。
+> 偶尔一些骚操作让电脑启动不了，PE可以救命。镜像推荐：[tiny-11：极度精简版Win11](https://archive.org/download/tiny-11_202302)
 
 [win32diskimager 镜像拷录工具](https://pan.baidu.com/s/16QFk04v6Rvrp4n_gNNSORw?pwd=2aer) 提取码：2aer
 

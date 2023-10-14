@@ -90,7 +90,7 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 [WPS Office](https://platform.wps.cn/)
 
-[Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
+[微软 Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
 > 目前 Mac 上使用 [WPS](https://platform.wps.cn/) 办公反而稳定一些，但 One Drive、One Note 以及 Outlook 已经有旧数据依赖了，还是得照旧使用。
 
 [Xmind ZEN 脑图](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
@@ -106,7 +106,7 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 ## 拍摄/后期
 
-[Adobe 系列软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
+[Adobe 旗下软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
 > 安装前需移除下载镜像的Quarantine属性，在“终端”中输入代码：sudo xattr -r -d com.apple.quarantine+空格+在应用程序中找到App拖入终端里面即可（注意：输入代码中不要带加号）
 
 ## 通用系统增强工具

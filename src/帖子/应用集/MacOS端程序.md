@@ -114,10 +114,15 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 > 单独设置 Mac 的触控板和鼠标滚动
 
+[KeyClu](https://github.com/Anze/KeyCluCask/releases)
+> 快速查看当前应用程序的快捷键
+
 ## 音乐/播客
+
 [网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
 
 ## 视频
+
 [哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 
 ## 远程操控

@@ -25,102 +25,105 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 ## Input Method
 
-[百度输入法](https://srf.baidu.com/input/mac.html)
-> MacOS自带中文拼音输入法会导致系统假死，安装第三方输入法后删除自带的拼音输入法可以解决。
+[Baidu Input Method](https://srf.baidu.com/input/mac.html)
+> The built-in Chinese Pinyin input method in MacOS can cause system freezes. Installing a third-party input method and removing the default Pinyin input method can resolve this issue.
 
 ## Web Browser
 
-[油猴插件](https://www.tampermonkey.net/)
-> Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
+[Tampermonkey](https://www.tampermonkey.net/)
+> The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts.
 
 [Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) 提取码: e5if
-> 浏览器翻译插件
+> Translation extension
 
 [Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
-> 浏览器广告拦截插件
+> Ad-block extension
 
 [OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
-> 标签页管理插件
+> Tab management extension
 
 [CTG Plugins](https://wwbs.lanzoub.com/iNE8616y3h5c)
-> 自动点击插件。通过[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd)的方法编译，可能存在稳定性问题。下载解压后将文件移动到访达的应用程序文件夹中，在Safari的“开发”菜单栏中允许未签名的扩展后，打开CTG Plugins并授予访问网站的权限即可。
+> Automatic click extension. Compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, it may have stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. In Safari's "Develop" menu, allow unsigned extensions, then open CTG Plugins and grant it permission to access websites.
 
-[草料二维码](https://wwbs.lanzoub.com/ix0N316y3hbi)
-> 快速生码和解码插件。通过[Safari 使用 Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd)的方法编译，可能存在稳定性问题。下载解压后将文件移动到访达的应用程序文件夹中，在Safari的“开发”菜单栏中允许未签名的扩展后，打开草料二维码并授予访问网站的权限即可。
+[CAOLIAO Plugins](https://wwbs.lanzoub.com/ix0N316y3hbi)
+> Quick QR code generation and decoding plugin. Compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, it may have stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. In Safari's "Develop" menu, allow unsigned extensions, then open CTG Plugins and grant it permission to access websites.
 
 [V2RayX](https://github.com/Cenmrev/V2RayX)
-> 梯子
+> Network proxy
 
-[小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
-> 梯子
+[Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
+> Network proxy
 
 ## Cloud Storage
 
-[百度网盘](https://yun.baidu.com/download)
+[Baidu Netdisk](https://yun.baidu.com/download)
 
 ## Downloader
 
 [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
-> 配合油猴插件可以加速某些网盘文件的下载。
+> In conjunction with Tampermonkey scripts, it is possible to accelerate the download of certain files from online storage platforms.
 
 ## File Management
 
-[The Unarchiver 压缩工具](https://theunarchiver.com/)
+[The Unarchiver](https://theunarchiver.com/)
+> File compression and decompression
 
 ## Social
 
-[微信](https://weixin.qq.com/)
-> 小而美
+[WeChat](https://weixin.qq.com/)
 
 [QQ](https://im.qq.com/macqq/index.shtml)
 
-[钉钉](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
+[DingTalk](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
 
-[企业微信](https://work.weixin.qq.com/?from=openApi#indexDownload)
+[WeCom](https://work.weixin.qq.com/?from=openApi#indexDownload)
 
-[电报](https://telegram.org/apps)
-> 搭配梯子使用
+[Telegram](https://telegram.org/apps)
 
 ## Productivity
 
-[腾讯会议](https://meeting.tencent.com/download/)
+[Tencent Meeting](https://meeting.tencent.com/download/)
 
-[滴答清单](https://www.dida365.com/about/download)
-> 免费的跨平台TODO
+[TickTick](https://www.dida365.com/about/download)
 
 [WPS Office](https://platform.wps.cn/)
 
-[Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
-> 目前 Mac 上使用 [WPS](https://platform.wps.cn/) 办公反而稳定一些，但 One Drive、One Note 以及 Outlook 已经有旧数据依赖了，还是得照旧使用。
+[Microsoft Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
+> Currently, using [WPS](https://platform.wps.cn/) for office tasks on Mac is more stable. However, there is still a dependency on old data in OneDrive, OneNote, and Outlook, so it is necessary to continue using them as usual.
 
-[Xmind ZEN 脑图](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
+[Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
 
-[Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
+[Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
 
-[AxureRP 原型图工具](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
+[AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
 
 [FreeCAD](https://www.freecad.org)
 
-[后裔采集器](https://www.houyicaiji.com/)
-> 网页数据采集软件
+[HOUYI](https://www.houyicaiji.com/)
+> Web data crawler
 
 ## Photograph
 
-[Adobe 系列软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
-> 安装前需移除下载镜像的Quarantine属性，在“终端”中输入代码：sudo xattr -r -d com.apple.quarantine+空格+在应用程序中找到App拖入终端里面即可（注意：输入代码中不要带加号）
+[Various software from Adobe](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
+> To install, you need to remove the Quarantine attribute from the downloaded image. In the "Terminal" application, enter the following command: sudo xattr -r -d com.apple.quarantine + Drag the app from the Applications folder into the Terminal (Note: Do not include the plus sign in the command).
 
 ## Utilities
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
-> 单独设置 Mac 的触控板和鼠标滚动
+> Individually configuring the trackpad and mouse scrolling on Mac.
 
-## Muisc
-[网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
+[KeyClu](https://github.com/Anze/KeyCluCask/releases)
+> Find shorcuts for any installed application.
+
+## Music
+
+[NetEase Cloud Music](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
 
 ## Video
-[哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
+
+[Bilibili](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 
 ## Remote Control
 
-[向日葵](https://sunlogin.oray.com/)
-> 远程桌面，通常用来跨系统远程操控，比如 Mac OS 远程操控 Windows。登录账号能够统一管理设备，并且不受公网IP限制，能够穿透内网。
+[XIANGRIKUI](https://sunlogin.oray.com/)
+> It is commonly used for cross-system remote control, such as remotely controlling Windows from Mac OS. By logging in to an account, you can manage devices in a unified manner and bypass the limitations of public IP addresses, allowing for internal network penetration.

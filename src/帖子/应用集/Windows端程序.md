@@ -46,7 +46,7 @@ star: false
 [v2rayN](https://v2rayn.org/v2rayn-download/)
 > 梯子
 
-[小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码: xytc
+[小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码：xytc
 > 梯子
 
 ## 网盘
@@ -108,7 +108,7 @@ star: false
 
 [WPS Office](https://platform.wps.cn/)
 
-[Office](https://pan.baidu.com/s/1PkRcjbQJbhopZywrXIrBtA?pwd=iyrd) 提取码：iyrd
+[Microsoft Office](https://pan.baidu.com/s/1PkRcjbQJbhopZywrXIrBtA?pwd=iyrd) 提取码：iyrd
 > 除了Word、Excel、PPT，个人还倾向于使用 One Drive、One Note 以及 Outlook，至少网络环境比谷歌套件舒服。
 
 [Office KMS 补丁](https://pan.baidu.com/s/1IdiH2Yrs32OTm1iSbXJCiw?pwd=bobg) 提取码：bobg
@@ -181,7 +181,7 @@ star: false
 [Quicker](https://getquicker.net/Download)
 > 功能全面的快捷操作工具箱，长链接还可以跨系统推送。部分功能与[PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)重合，逐步被取代。
 
-[DiskGenius 磁盘工具](https://www.diskgenius.cn/download.php)
+[DiskGenius 磁盘工具](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) 提取码：0ced
 
 ## 音乐/播客
 

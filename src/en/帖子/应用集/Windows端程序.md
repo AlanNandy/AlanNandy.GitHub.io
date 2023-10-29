@@ -20,213 +20,202 @@ star: false
 
 ## Assembling System
 
-[微PE工具箱](https://www.wepe.com.cn/download.html)
-> 偶尔一些骚操作让电脑启动不了，PE可以救命。镜像推荐：[tiny-11：极度精简版Win11](https://archive.org/download/tiny-11_202302)
+[WePE](https://www.wepe.com.cn/download.html)
+> Occasionally, some risky operations can cause a computer to fail to start. In such cases, a PE (Preinstallation Environment) can be a lifesaver. Mirror recommendation: [tiny-11: Extremely streamlined version of Win11](https://archive.org/download/tiny-11_202302)
 
-[win32diskimager 镜像拷录工具](https://pan.baidu.com/s/16QFk04v6Rvrp4n_gNNSORw?pwd=2aer) 提取码：2aer
+[win32diskimager](https://pan.baidu.com/s/16QFk04v6Rvrp4n_gNNSORw?pwd=2aer) Password: 2aer
 
 ## Input Method
 
-[百度输入法](https://shurufa.baidu.com/)
+[Baidu Input](https://shurufa.baidu.com/)
 
 ## Web Browser
 
-[Edge 浏览器](http://www.microsoft.com/edge)
-> 几乎取代 Chrome 浏览器
+[Edge](http://www.microsoft.com/edge)
+> Almost replacing the Chrome browser
 
-[油猴插件](https://www.tampermonkey.net/)
+[Tampermonkey](https://www.tampermonkey.net/)
 
-[cFosSpeed 网络优化加速软件](https://pan.baidu.com/s/1oFON8y6UIcL_a6uSua8LOA?pwd=s9dr) 提取码：s9dr
+[cFosSpeed](https://pan.baidu.com/s/1oFON8y6UIcL_a6uSua8LOA?pwd=s9dr) Password: s9dr
 
-[SwitchHosts! hosts管理工具](https://pan.baidu.com/s/1d4Q6TgGTLTzgSZmHbXq0TQ?pwd=e76e) 提取码：e76e
+[SwitchHosts!](https://pan.baidu.com/s/1d4Q6TgGTLTzgSZmHbXq0TQ?pwd=e76e) Password: e76e
 
-[小火箭](https://pan.baidu.com/s/1PLONce8U-cl_AWssz3zX2w?pwd=60ch) 提取码：60ch
-> 梯子
+[Shadowsocks](https://pan.baidu.com/s/1PLONce8U-cl_AWssz3zX2w?pwd=60ch) Password: 60ch
 
 [v2rayN](https://v2rayn.org/v2rayn-download/)
-> 梯子
 
-[小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码: xytc
-> 梯子
+[Clash](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) Password: xytc
 
 ## Cloud Storage
 
-[百度网盘](https://yun.baidu.com/download)
+[Baidu Netdisk](https://yun.baidu.com/download)
 
-[坚果云](https://www.jianguoyun.com/s/downloads)
-> 支持第三方 WebDAV 应用
+[Nut Cloud](https://www.jianguoyun.com/s/downloads)
+> Supports third-party WebDAV applications
 
 [Dropbox](https://www.dropbox.com/install)
 
 ## Downloader
 
-[Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) 提取码：ra2n
-> 配合油猴插件可以加速某些网盘文件的下载。
+[Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) Password: ra2n
+> In conjunction with the Greasemonkey extension, it is possible to accelerate the download of certain files from online storage platforms.
 
-[迅雷](https://www.xunlei.com/)
+[Thunder](https://www.xunlei.com/)
 
 ## File Management
 
-[7-Zip 压缩工具](https://sparanoid.com/lab/7z/download.html)
+[7-Zip](https://sparanoid.com/lab/7z/download.html)
 
-[Clover 文件夹标签](https://pan.baidu.com/s/1O4pfig8a5Rf0Q9sC5D0y9w?pwd=s0im) 提取码：s0im
+[Clover](https://pan.baidu.com/s/1O4pfig8a5Rf0Q9sC5D0y9w?pwd=s0im) Password: s0im
 
-[Everything 文件搜索](https://pan.baidu.com/s/1UM3qQftrzkkFRw3cucC5Bw?pwd=ljqg) 提取码：ljqg
+[Everything](https://pan.baidu.com/s/1UM3qQftrzkkFRw3cucC5Bw?pwd=ljqg) Password: ljqg
 
-[FreeFileSync 文件同步工具](https://freefilesync.org/download.php)
-> By the way, C盘的User文件夹提前通过 CMD
-命令软链接到其它盘，详细操作可查看[Widnows 玩机技巧 | 运用软链接实现文件搬家](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
+[FreeFileSync](https://freefilesync.org/download.php)
+> To create a symbolic link for the User folder on the C drive to another drive using CMD, you can refer to the detailed instructions in [Widnows 玩机技巧 | 运用软链接实现文件搬家](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
 
 ## Social
 
-[微信](https://weixin.qq.com/)
-> 小而美
+[WeChat](https://weixin.qq.com/)
 
 [QQ](https://im.qq.com/index/)
 
-[阿里旺旺](https://page.1688.com/html/wangwang/download/windows/main.html)
+[AliWangWang](https://page.1688.com/html/wangwang/download/windows/main.html)
 
-[电报](https://telegram.org/apps)
-> 搭配梯子使用
+[Telegram](https://telegram.org/apps)
 
 [Discord](https://discord.com/download)
 
 ## Productivity
 
-[网易有道词典](https://fanyi.youdao.com/download-Windows)
-> 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典。
+[NetEase Youdao Dictionary](https://fanyi.youdao.com/download-Windows)
+> Although it may not be the most user-friendly, due to the ecosystem of Youdao Cloud Notes, I have chosen to use Youdao Dictionary to satisfy my perfectionism.
 
-[有道云笔记](https://note.youdao.com/note-download/)
-> 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
+[Youdao Cloud Notes](https://note.youdao.com/note-download/)
+> A cross-platform note-taking and article bookmarking tool, Youdao Cloud Notes has now added support for mind maps and tables, making it a versatile knowledge aggregation tool. It is quite impressive.
 
-[腾讯会议](https://meeting.tencent.com/download/)
+[Tencent Meeting](https://meeting.tencent.com/download/)
 
-[滴答清单](https://www.dida365.com/about/download)
-> 免费的跨平台TODO
+[TickTick](https://www.dida365.com/about/download)
 
-[NotePad++ 文本/代码编辑器](https://pan.baidu.com/s/1rJ4iWm_RawyTofxyxzk0-g?pwd=20ig) 提取码：20ig
+[NotePad++](https://pan.baidu.com/s/1rJ4iWm_RawyTofxyxzk0-g?pwd=20ig) Password: 20ig
 
 [WPS Office](https://platform.wps.cn/)
 
-[Office](https://pan.baidu.com/s/1PkRcjbQJbhopZywrXIrBtA?pwd=iyrd) 提取码：iyrd
-> 除了Word、Excel、PPT，个人还倾向于使用 One Drive、One Note 以及 Outlook，至少网络环境比谷歌套件舒服。
+[Microsoft Office](https://pan.baidu.com/s/1PkRcjbQJbhopZywrXIrBtA?pwd=iyrd) Password: iyrd
+> In addition to Word, Excel, and PowerPoint, I personally prefer using OneDrive, OneNote, and Outlook. At least the online environment is more comfortable compared to the Google Suite.
 
-[Office KMS 补丁](https://pan.baidu.com/s/1IdiH2Yrs32OTm1iSbXJCiw?pwd=bobg) 提取码：bobg
+[Office KMS patch](https://pan.baidu.com/s/1IdiH2Yrs32OTm1iSbXJCiw?pwd=bobg) Password: bobg
 
-[Office Tab 标签工具](https://pan.baidu.com/s/1ucHvCGYBXF2llpMTgwiqKw?pwd=qcib) 提取码：qcib
+[Office Tab](https://pan.baidu.com/s/1ucHvCGYBXF2llpMTgwiqKw?pwd=qcib) Password: qcib
 
-[ABBYY FineReader 文本识别与文件转换工具](https://pan.baidu.com/s/1WGgHA1PU3dmqdWDGnBLRXw?pwd=embu) 提取码：embu
+[ABBYY FineReader](https://pan.baidu.com/s/1WGgHA1PU3dmqdWDGnBLRXw?pwd=embu) Password: embu
 
-[Xmind ZEN 脑图](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
+[Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) Password: 6y8j
 
-[Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码：clw5
+[Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
 
-[AxureRP 原型图工具](https://ghpym.lanzoui.com/iGS0Nfya0ih)
+[AxureRP](https://ghpym.lanzoui.com/iGS0Nfya0ih)
 
-[Axure RP 9 注册码](https://wwbs.lanzoub.com/iNYTP0iz9iof)
+[Axure RP 9 registration code](https://wwbs.lanzoub.com/iNYTP0iz9iof)
 
-[Autodesk Alias 工业设计建模软件](https://pan.baidu.com/s/103lJkZLgpCT8hl6mqZoYMQ?pwd=4sci) 提取码：4sci
+[Autodesk Alias](https://pan.baidu.com/s/103lJkZLgpCT8hl6mqZoYMQ?pwd=4sci) Password: 4sci
 
-[Rhinoceros 工业设计建模软件与插件集](https://pan.baidu.com/s/14s-ZQnaxrGw65bxJhUCCUw?pwd=knry) 提取码：knry
+[Rhinoceros](https://pan.baidu.com/s/14s-ZQnaxrGw65bxJhUCCUw?pwd=knry) Password: knry
 
-[KeyShot 渲染软件](https://pan.baidu.com/s/1Pfa8LQhxgA6WrYs1GNkdEw?pwd=ar9b) 提取码：ar9b
+[KeyShot](https://pan.baidu.com/s/1Pfa8LQhxgA6WrYs1GNkdEw?pwd=ar9b) Password: ar9b
 
-[HDR Light Studio 渲染软件](https://pan.baidu.com/s/1OxRyp94Gaa4JJ7hJcxYzJQ?pwd=6bf1) 提取码：6bf1
+[HDR Light Studio](https://pan.baidu.com/s/1OxRyp94Gaa4JJ7hJcxYzJQ?pwd=6bf1) Password: 6bf1
 
-[SOLIDWORKS 结构设计建模软件](https://pan.baidu.com/s/1jSuZM-KLEswHfrsATRFjbQ?pwd=x09q) 提取码：x09q
+[SOLIDWORKS](https://pan.baidu.com/s/1jSuZM-KLEswHfrsATRFjbQ?pwd=x09q) Password: x09q
 
-[ArtiosCAD 包装建模软件](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) 提取码：ahnl
+[ArtiosCAD](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) Password: ahnl
 
-[C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
+[C4D](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) Password: i95m
 
 ## Photograph
 
 [FastStone Capture](https://www.faststonecapture.cn/download)
-> 功能全面的截图与录屏工具
+> A comprehensive screenshot and screen recording tool
 
-[Snipaste 屏幕截图工具](https://pan.baidu.com/s/11Cbk1GaxY_QKYIf49tZgag?pwd=r4db) 提取码：r4db
+[Snipaste](https://pan.baidu.com/s/11Cbk1GaxY_QKYIf49tZgag?pwd=r4db) Password: r4db
 
-[ScreenToGif 动画录制软件](https://pan.baidu.com/s/1LLMfA1WEQrEUEp2vPgB4EA?pwd=rb08) 提取码：rb08
+[ScreenToGif](https://pan.baidu.com/s/1LLMfA1WEQrEUEp2vPgB4EA?pwd=rb08) Password: rb08
 
-[Polarr 泼辣修图](https://polaxiong.com/)
+[Polarr](https://polaxiong.com/)
 
 [Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
-> Adobe 软件下载中心
 
-[Adobe GenP 补丁](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) 提取码：nus7
+[Adobe GenP patch](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) Password: nus7
 
-[Adobe GenP 历史版本](https://www.adobegenp.com/genp-download/)
+[Adobe GenP historical versions](https://www.adobegenp.com/genp-download/)
 
-[Adobe Home Screen Fix 历史版本](https://www.adobegenp.com/other-tools-download/)
+[Adobe Home Screen Fix historical versions](https://www.adobegenp.com/other-tools-download/)
 
-[Adobe 辅助插件合集](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) 提取码：kr89
+[Adobe auxiliary plugin collection](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) Password: kr89
 
-[vectormagic：位图一键转矢量图工具](https://url50.ctfile.com/f/16615350-768270262-c8db5c?p=2637) Passcode: 2637
-> 其它图片一键处理工具网站：[Pix Fix：图像降噪](https://zh.pixfix.com/)、[Clipping Magic：删除图像背景](https://zh.clippingmagic.com)、[Recompressor：图像压缩](https://zh.recompressor.com)。
+[vectormagic](https://url50.ctfile.com/f/16615350-768270262-c8db5c?p=2637) Passcode: 2637
+> Other websites for one-click image processing tools: [Pix Fix](https://zh.pixfix.com/)、[Clipping Magic](https://zh.clippingmagic.com)、[Recompressor](https://zh.recompressor.com)。
 
-[Pano2VR 全景图像转换工具](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) 提取码：sa9z
+[Pano2VR](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) Password: sa9z
 
 ## Utilities
 
-[Dism++](https://pan.baidu.com/s/17NPclP8eRP5Hh4dD4H_IDA?pwd=0352) 提取码：0352
-> Windows 10 系统优化工具
+[Dism++](https://pan.baidu.com/s/17NPclP8eRP5Hh4dD4H_IDA?pwd=0352) Password: 0352
 
-[Process Lasso Pro 系统进程优化软件](https://pan.baidu.com/s/1d1OXP28zijiNQxfzHCh-DQ?pwd=ot2e) 提取码：ot2e
+[Process Lasso Pro](https://pan.baidu.com/s/1d1OXP28zijiNQxfzHCh-DQ?pwd=ot2e) Password: ot2e
 
 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)
-> 微软官方系统增强小工具集。对于小白用户，微软中国还有官方的[微软电脑管家](https://pcmanager-en.microsoft.com/cn)
+> Microsoft Official System Enhancement Toolset. For novice users, Microsoft China also offers an official [Microsoft PC Manager](https://pcmanager-en.microsoft.com/cn)
 
-[360Suite 小工具集](https://pan.baidu.com/s/1Nofl2bPDMOCHJ5VfJM-Ugw?pwd=js9w) 提取码：js9w
+[360Suite](https://pan.baidu.com/s/1Nofl2bPDMOCHJ5VfJM-Ugw?pwd=js9w) Password: js9w
 
 [Quicker](https://getquicker.net/Download)
-> 功能全面的快捷操作工具箱，长链接还可以跨系统推送。部分功能与[PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)重合，逐步被取代。
+> A comprehensive shortcut operation toolbox that also supports cross-system push for long links. Some of its features overlap with [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) and are gradually being replaced.
 
-[DiskGenius 磁盘工具](https://www.diskgenius.cn/download.php)
+[DiskGenius](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) Password: 0ced
 
 ## Muisc
 
-[Foobar2000 汉化整合版](https://wwbs.lanzoub.com/iVpiz0j00oxc) 密码:1axk
+[Foobar2000](https://wwbs.lanzoub.com/iVpiz0j00oxc) Password: 1axk
 
-[MuiscTool 音乐下载工具](https://www.yijingying.com/html/musictools/)
+[MuiscTool](https://www.yijingying.com/html/musictools/)
 
-[网易云音乐](https://music.163.com/#/download)
-> [unblockneteasemusic 网易云辅助插件](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) 提取码：cxfs
+[NetEase Cloud Music](https://music.163.com/#/download)
+> [unblockneteasemusic](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) Password: cxfs
 
-[QQ音乐](https://y.qq.com/download/index.html)
+[QQ Music](https://y.qq.com/download/index.html)
 
 ## Video
 
 [PotPlayer](http://www.potplayercn.com/download)
-> 功能全面的媒体播放工具，但个人一般用来播放 IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
+> A comprehensive media player tool, but personally, I usually use it to play IPTV, paired with [TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9) to convert live stream source file formats.
 
 [ZY Player](https://github.com/Hiram-Wong/ZyPlayer/releases)
 
-[爱奇艺](https://app.iqiyi.com/pc/player/index.html#pcplayer)
+[iQiyi](https://app.iqiyi.com/pc/player/index.html#pcplayer)
 
-[优酷](https://youku.com/product/index)
+[Youku](https://youku.com/product/index)
 
-[腾讯视频](https://v.qq.com/download.html)
+[Tencent Video](https://v.qq.com/download.html)
 
-[哔哩哔哩](https://app.bilibili.com/)
+[Bilibili](https://app.bilibili.com/)
 
 ## Travel
 
-[12306 分流抢票](https://www.bypass.cn/)
+[12306 bypass](https://www.bypass.cn/)
 
 ## Virtual Machine
 
-[VMware Workstation Pro](https://pan.baidu.com/s/1_b9eq_A-TygtJkHyi5a3Dg?pwd=gg8k) 提取码：gg8k
+[VMware Workstation Pro](https://pan.baidu.com/s/1_b9eq_A-TygtJkHyi5a3Dg?pwd=gg8k) Password: gg8k
 
-[Ryujinx_Nintendo Switch模拟器](https://pan.baidu.com/s/1JtQsrBOQZhqvEeFTO7W5AA?pwd=1los) 提取码：1los
-> [Nintendo Switch 游戏镜像](https://pan.baidu.com/s/1t5js_S7nkgVumJb54XZtYw?pwd=q2zy) 提取码：q2zy。其它 Nintendo Switch 游戏镜像网站：[xxxxx520](https://sway.office.com/sD1RziqnHyZ92I3b)
+[Ryujinx](https://pan.baidu.com/s/1JtQsrBOQZhqvEeFTO7W5AA?pwd=1los) Password: 1los
+> [Nintendo Switch game mirror](https://pan.baidu.com/s/1t5js_S7nkgVumJb54XZtYw?pwd=q2zy) Password: q2zy. Other Nintendo Switch game mirror websites: [xxxxx520](https://sway.office.com/sD1RziqnHyZ92I3b)
 
 ## Remote Control
 
-[PuTTY_远程命令行工具](https://pan.baidu.com/s/1zuhgqcuuP6ctcFCa4dH2nw?pwd=7rcg) 提取码：7rcg
-> 远程命令行
+[PuTTY](https://pan.baidu.com/s/1zuhgqcuuP6ctcFCa4dH2nw?pwd=7rcg) Password: 7rcg
 
 [VNC Viewer](https://www.realvnc.com/en/)
-> 远程桌面
 
-[向日葵](https://sunlogin.oray.com/)
-> 远程桌面，通常用来跨系统远程操控，比如 Mac OS 远程操控 Windows。登录账号能够统一管理设备，并且不受公网IP限制，能够穿透内网。
+[XIANGRIKUI](https://sunlogin.oray.com/)
+> It is commonly used for cross-system remote control, such as remotely controlling Windows from Mac OS. By logging in to an account, you can manage devices in a unified manner and bypass the limitations of public IP addresses, allowing for internal network penetration.

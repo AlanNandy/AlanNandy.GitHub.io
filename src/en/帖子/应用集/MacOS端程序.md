@@ -33,7 +33,7 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [Tampermonkey](https://www.tampermonkey.net/)
 > The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts.
 
-[Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) 提取码: e5if
+[Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) Password: e5if
 > Translation extension
 
 [Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
@@ -51,7 +51,7 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [V2RayX](https://github.com/Cenmrev/V2RayX)
 > Network proxy
 
-[Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
+[Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) Password: o518
 > Network proxy
 
 ## Cloud Storage
@@ -88,14 +88,14 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 [WPS Office](https://platform.wps.cn/)
 
-[Microsoft Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
+[Microsoft Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) Password: 5185
 > Currently, using [WPS](https://platform.wps.cn/) for office tasks on Mac is more stable. However, there is still a dependency on old data in OneDrive, OneNote, and Outlook, so it is necessary to continue using them as usual.
 
-[Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
+[Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) Password: 6y8j
 
-[Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
+[Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
 
-[AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
+[AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) Password: 2637
 
 [FreeCAD](https://www.freecad.org)
 

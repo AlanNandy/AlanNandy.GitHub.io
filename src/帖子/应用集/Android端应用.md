@@ -305,9 +305,9 @@ star: false
 
 ## 模拟定位
 
-[GPS JoyStick 闪电鸟版本](https://wws.lanzoui.com/iwQEbmj70kd) 密码:1ibx
+[GPS JoyStick 闪电鸟UI版本](https://wws.lanzoui.com/iwQEbmj70kd) 密码:1ibx
 
-[GPS JoyStick 急冻鸟版本](https://wws.lanzoui.com/iWa8ymj70ib) 密码:btam
+[GPS JoyStick 急冻鸟UI版本](https://wws.lanzoui.com/iWa8ymj70ib) 密码:btam
 
 [GPS JoyStick 火焰鸟UI版本](https://wws.lanzoui.com/iz83Zmj70gj) 密码:dhir
 > 三个版本功能一致，均为去广告全功能版本，仅UI差异。用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)

@@ -20,24 +20,22 @@ star: false
 
 ## Input Method
 
-[讯飞输入法清爽版](https://wwbs.lanzoub.com/i65s10i81wsd) 密码:8bzg
+[Xunfei Input Method Lite Version](https://wwbs.lanzoub.com/i65s10i81wsd) Password: 8bzg
 
 ## Application Market
 
-[酷安](https://wwbs.lanzoub.com/ix2Cu0lm02ri) 密码:43ij
-> 玩机必备
+[Coolapk](https://wwbs.lanzoub.com/ix2Cu0lm02ri) Password: 43ij
 
-[酷安 Lite](https://wwbs.lanzoub.com/iceEl0i7yeaj) 密码:ao1f
+[Coolapk Lite Version](https://wwbs.lanzoub.com/iceEl0i7yeaj) Password: ao1f
 
 [TapTap](https://www.taptap.cn/mobile)
-> 主要用来找攻略的游戏平台，不过内容专一性肯定不如各游戏厂家自建平台，如[网易大神](https://ds.163.com/download/)、米哈游[米游社](https://www.miyoushe.com/)。
+> Mainly used as a game platform for finding game guides, but its content specificity is definitely not as good as the self-built platforms of various game manufacturers, such as [NetEase Da Shen](https://ds.163.com/download/) and miHoYo [miHoYo Community](https://www.miyoushe.com/).
 
-[Google Play](https://wwbs.lanzoub.com/iDQHP0in0tbc) 密码:8hk3
+[Google Play](https://wwbs.lanzoub.com/iDQHP0in0tbc) Password: 8hk3
 
-[谷歌安装器](https://wws.lanzoui.com/iWkfdmjcw2h) 密码:1ids
+[Google Installer](https://wws.lanzoui.com/iWkfdmjcw2h) Password: 1ids
 
-[APKPure](https://wwbs.lanzoub.com/iP9FW0lm2gbi) 密码:7bv3
-> 第三方谷歌应用商店
+[APKPure](https://wwbs.lanzoub.com/iP9FW0lm2gbi) Password: 7bv3
 
 ## Web Browser
 
@@ -45,98 +43,89 @@ star: false
 
 [Chrome](https://www.google.cn/chrome/index.html)
 
-[海阔视界](https://haikuo.lanzoui.com/u/GoldRiver)
-> 一个综合功能爆炸的应用，浏览器只是附属品同时支持Via与油猴的插件。
+[Haikuoshijie](https://haikuo.lanzoui.com/u/GoldRiver)
+> An application with explosive comprehensive functionality, where the browser is just an accessory that supports both Via and Greasemonkey plugins.
 
-[v2rayNG](https://wwbs.lanzoub.com/io1MO0xel4jc) 密码:8opt
-> 梯子
+[v2rayNG](https://wwbs.lanzoub.com/io1MO0xel4jc) Password: 8opt
 
-[小猫咪](https://wwbs.lanzoub.com/iEkev0xei95a) 密码:5fns
-> 梯子
+[Clash](https://wwbs.lanzoub.com/iEkev0xei95a) Password: 5fns
 
 ## Cloud Storage
 
-[百度网盘简洁版](https://wwbs.lanzoub.com/iXMDK0imgnej) 密码:2ro2
+[Baidu Netdisk Lite Version](https://wwbs.lanzoub.com/iXMDK0imgnej) Password: 2ro2
 
 [Google Drive](https://www.google.com/drive/download/)
 
-[坚果云](https://www.jianguoyun.com/s/downloads)
-> 支持第三方 WebDAV 应用
+[Nut Cloud](https://www.jianguoyun.com/s/downloads)
+> Supports third-party WebDAV applications
 
 [Dropbox](https://www.dropbox.com/install)
 
-[蓝云](https://wwbs.lanzoub.com/iJbG20imgngb) 密码:1tr1
-> 第三方蓝奏云
+[Lanyun](https://wwbs.lanzoub.com/iJbG20imgngb) Password: 1tr1
 
-[蓝奏云 Lite](https://wwbs.lanzoub.com/imDRN0i7yk0f) 密码:1wbq
+[Lanzouyun Lite](https://wwbs.lanzoub.com/imDRN0i7yk0f) Password: 1wbq
 
 ## Downloader
 
-[1DM+](https://wwbs.lanzoub.com/itTbb0i8317i) 密码:aku5
-> 海阔视界等浏览器可以将1DM+绑定为默认下载器，配合油猴插件可以加速某些网盘文件的下载。
+[1DM+](https://wwbs.lanzoub.com/itTbb0i8317i) Password: aku5
+> Browsers like Haikuoshijie can be configured to bind 1DM+ as the default downloader. When combined with Greasemonkey plugins, it can accelerate the download of certain files from online storage platforms.
 
-[QScanner](https://wwbs.lanzoub.com/izYZW0in16va) 密码:4ty1
-> 1DM+的扫码工具
+[QScanner](https://wwbs.lanzoub.com/izYZW0in16va) Password: 4ty1
+> 1DM+ QR code scanner tool
 
 ## File Management
 
-[ES文件浏览器简洁版](https://wwbs.lanzoub.com/ipGXc0i81zxg) 密码:7489
+[ES File Explorer Lite Version](https://wwbs.lanzoub.com/ipGXc0i81zxg) Password: 7489
 
 ## Social
 
-[微信](https://weixin.qq.com/)
-> 小而美
+[WeChat](https://weixin.qq.com/)
 
-[QQ极速版](https://wwbs.lanzoub.com/iRsrW0im9s2f) 密码:bvqu
-> 大版本的QQ频道是不错的新尝试
+[QQ Lite Version](https://wwbs.lanzoub.com/iRsrW0im9s2f) Password: bvqu
+> The major version of QQ Channel is a promising new endeavor.
 
-[电报](https://telegram.org/apps)
-> 搭配梯子使用
+[Telegram](https://telegram.org/apps)
 
 [Discord](https://discord.com/download)
 
-[微博轻享版](https://www.coolapk.com/apk/com.weico.international)
-> 虽然微博的情绪化比较严重，但仍然是事件热度的反馈集中区。
+[Weibo Lite Version](https://www.coolapk.com/apk/com.weico.international)
+> Although Weibo tends to be highly emotional, it remains a centralized hub for feedback on trending events.
 
 [Twitter](https://twitter.com/settings/download)
 
-[绿洲](https://oasis.chengdu.weibo.cn/v1/h5/download)
+[Lvzhou](https://oasis.chengdu.weibo.cn/v1/h5/download)
 
 [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
-> [顷刻](https://qingke.colapanda.com/)免翻墙的纯净无广告的第三方INS
+> [Qingke](https://qingke.colapanda.com/) - a third-party INS (Instagram) client that is free of ads and does not require a VPN to access.
 
-[即刻](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
-> 即吊有表情包生产有限公司
+[Jike](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
 
-[百度贴吧简洁版](https://wwbs.lanzoub.com/iAOzJ0io2o8h) 密码:8207
+[Baidu Tieba Lite Version](https://wwbs.lanzoub.com/iAOzJ0io2o8h) Password: 8207
 
 [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
-> 海外贴吧
 
-[豆瓣](https://douban.com/doubanapp/)
-> 极为先进的租房平台
+[Douban](https://douban.com/doubanapp/)
+> An extremely advanced rental platform
 
-[虎扑简洁版](https://wwbs.lanzoub.com/ifne10io38cb) 密码:3cuq
+[Hupu Lite Version](https://wwbs.lanzoub.com/ifne10io38cb) Password: 3cuq
 
-[知乎-with-module](https://wwbs.lanzoub.com/iinFz0imbcuj) 密码:a7gb
-> 分享刚编的故事
+[Zhihu-with-module](https://wwbs.lanzoub.com/iinFz0imbcuj) Password: a7gb
 
 [Quora](https://play.google.com/store/apps/details?id=com.quora.android)
-> 海外知乎
 
 ## Muisc
 
-[小宇宙](https://www.xiaoyuzhoufm.com/)
-> 某种程度上推动了国内播客生态
+[XiaoYuZhou](https://www.xiaoyuzhoufm.com/)
+> To some extent, it has driven the development of the podcast ecosystem in China.
 
-[歌词匹配](https://gcsp.lanzoux.com/b0e895h2b)
-> 朴实的名称却有着超乎预期的功能。
+[Lyric matching](https://gcsp.lanzoux.com/b0e895h2b)
+> Simple and straightforward name, yet with unexpected functionality.
 
-[网易云音乐-with-module](https://url50.ctfile.com/f/16615350-747241736-67eb62?p=2637) Passcode:2637
+[NetEase Cloud Music-with-module](https://url50.ctfile.com/f/16615350-747241736-67eb62?p=2637) Passcode:2637
 
-[QQ音乐简洁版](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
+[QQ Music Lite Version](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
 
-[Spotify](https://wwbs.lanzoub.com/iwrcn118t7pc) 密码:1c56
+[Spotify](https://wwbs.lanzoub.com/iwrcn118t7pc) Password: 1c56
 
 [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
@@ -144,226 +133,218 @@ star: false
 
 [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
-[谷歌相机](https://www.xda-developers.com/google-camera-port-hub/)
+[Google Camera](https://www.xda-developers.com/google-camera-port-hub/)
 
-[轻颜相机](https://wwbs.lanzoub.com/i9SCR0lm0x5c) 密码:6gv6
+[Qingyan Camera](https://wwbs.lanzoub.com/i9SCR0lm0x5c) Password: 6gv6
 
-[Snapseed](https://wwbs.lanzoub.com/iDjHo0in6hlg) 密码:f14x
+[Snapseed](https://wwbs.lanzoub.com/iDjHo0in6hlg) Password: f14x
 
-[醒图](https://wwbs.lanzoub.com/ij9I30lm3waj) 密码:a8w2
+[Xingtu](https://wwbs.lanzoub.com/ij9I30lm3waj) Password: a8w2
 
-[剪映](https://wwbs.lanzoub.com/iAZF00lm3yne) 密码:80rp
+[Jianying](https://wwbs.lanzoub.com/iAZF00lm3yne) Password: 80rp
 
 ## Entertainment
 
-[图虫](https://tuchong.com/app/)
+[Tuchong](https://tuchong.com/app/)
 
-[抖音极速版](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
-> 边刷视频边赚钱
+[Douyin Lite Version](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
 
-[TikTok](https://url50.ctfile.com/f/16615350-773106829-defdc9?p=2637) 访问密码：2637
-> 抖音海外版+插件，需自备梯子（美国节点+全局代理）
+[TikTok](https://url50.ctfile.com/f/16615350-773106829-defdc9?p=2637) Password: 2637
 
-[快手极速版](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
-> 边刷视频边赚钱
+[Kuaishou Lite Version](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
 
-[腾讯视频极速版](https://m.v.qq.com/app/tenvideo_lite_down/index.html)
+[Tencent Video Lite Version](https://m.v.qq.com/app/tenvideo_lite_down/index.html)
 
-[爱奇艺视频极速版](http://iqiyi.cn/efxOSFt-a1)
-> 边刷视频边赚钱
+[iQiyi Video Lite Version](http://iqiyi.cn/efxOSFt-a1)
 
-[哔哩哔哩-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
-> 电子榨菜
+[Bilibili-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
 
 [Acfun](https://open.app.acfun.cn/home/)
 
 [Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
-> 纯净无广吿的第三方油管：[Vanced](https://nalankang.lanzouo.com/b00ujce7i) 密码:OJBK、[PureTuber(第三方油管纯净无广吿)](https://nalankang.lanzouo.com/b00usb4ba) 密码:OJBK
+> Pure and ad-free third-party YouTube client: [Vanced](https://nalankang.lanzouo.com/b00ujce7i) Password: OJBK, [PureTuber](https://nalankang.lanzouo.com/b00usb4ba) Password: OJBK
 
 ## Shopping
 
-[即士多](https://jstore.site/?channel=jstoreapp)
-> 即友的好物推荐社区，但似乎被遗弃
+[JiStore](https://jstore.site/?channel=jstoreapp)
+> Jiyou's community for recommending great products, but it seems to have been abandoned.
 
-[大众点评](https://w.dianping.com/cube/evoke/dianping.html)
-> 点评攻略不仅限于大陆，去台湾旅游的时候惊奇地发现也有不少有用的点评，值得点赞。
+[Dianping](https://w.dianping.com/cube/evoke/dianping.html)
+> Dianping guides are not limited to mainland China. I was pleasantly surprised to find many useful reviews when traveling to Taiwan as well. It's definitely praiseworthy.
 
-[下厨房](https://www.coolapk.com/apk/com.xiachufang)
-> 下厨房拥有更家常的菜谱，简明扼要，可惜缺少打卡记录的功能，打卡记录更推荐[懒饭](http://lanfanapp.com/)。
+[XiaChuFang](https://www.coolapk.com/apk/com.xiachufang)
+> XiaChuFang offers more home-style recipes that are concise and straightforward. However, it lacks the feature of check-in records. For check-in records, I would recommend [LanFan](http://lanfanapp.com/).
 
 ## Fitness
 
 [Keep](https://keep.com/appIntro)
-> Keep上的免费课程还是蛮有效的。
+> The free courses on Keep are indeed quite effective.
 
 ## Travel
 
-[高德地图简洁版](https://wwbs.lanzoub.com/ij9js0io52wh) 密码:7x2v
+[Gaode Maps Lite Version](https://wwbs.lanzoub.com/ij9js0io52wh) Password: 7x2v
 
-[百度地图简洁版](https://wwbs.lanzoub.com/i1OMv0io4u5c) 密码:ck7a
+[Baidu Maps Lite Version](https://wwbs.lanzoub.com/i1OMv0io4u5c) Password: ck7a
 
 [Google Map](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
 ## Productivity
 
-[滴答清单](https://www.dida365.com/about/download)
-> 免费的跨平台TODO
+[TickTick](https://www.dida365.com/about/download)
 
-[网易有道词典](http://cidian.youdao.com/mobile.html)
-> 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典，背单词更推荐[词根词缀字典](http://www.dicts.cn/dictword20181/download.html)。
+[NetEase Youdao Dictionary](http://cidian.youdao.com/mobile.html)
+> While it may not be the most user-friendly, I still choose Youdao Dictionary due to my attachment to the Youdao Cloud Notes ecosystem. However, for vocabulary learning, I would recommend [Roots and Affixes Dictionary](http://www.dicts.cn/dictword20181/download.html).
 
-[超级计算器](https://wwbs.lanzoub.com/i5Kyz0zr3f0b) 密码:dg9t
+[Super Calculator](https://wwbs.lanzoub.com/i5Kyz0zr3f0b) Password: dg9t
 
-[有道云笔记](https://note.youdao.com/note-download/)
-> 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
+[Youdao Cloud Notes](https://note.youdao.com/note-download/)
+> A cross-platform note-taking and article bookmarking tool, Youdao Cloud Notes now also supports mind maps and tables. It is a great knowledge aggregation tool.
 
-[WPS Office 专业版](https://wwbs.lanzoub.com/iuSKJ0inxg6h) 密码:c0zi
+[WPS Office Professional Edition](https://wwbs.lanzoub.com/iuSKJ0inxg6h) Password: c0zi
 
-[WPS Office 专业版通用激活密钥](https://wwbs.lanzoub.com/iI1bi0inxjod)
+[Universal activation key for WPS Office Professional Edition](https://wwbs.lanzoub.com/iI1bi0inxjod)
 
 ## Reading
 
-[今日头条极速版](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=ENC-UID-MS4wLjABAAAAhglHozAGbWyvsE-4PIcj5CI8eWeY_OfD8kMhVHU8dk4&task_id=102&aid=35&enter_from=largefission&enter_from=task_detail&invite_type=largefission&invite_code=Q015415708&invite_money=10800)
-> 边刷新闻边赚钱
+[Today's Headlines Lite Version](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=ENC-UID-MS4wLjABAAAAhglHozAGbWyvsE-4PIcj5CI8eWeY_OfD8kMhVHU8dk4&task_id=102&aid=35&enter_from=largefission&enter_from=task_detail&invite_type=largefission&invite_code=Q015415708&invite_money=10800)
 
-[今日热榜 Lite](https://wwbs.lanzoub.com/iPm7c0iylnpc) 密码:dw1r
+[Today's Hot List Lite Version](https://wwbs.lanzoub.com/iPm7c0iylnpc) Password: dw1r
 
 ## Utilities
 
-[搞机助手原版](https://nalankang.lanzouo.com/b00uks1sd) 密码:OJBK
+[Gaoji Assistant Original Version](https://nalankang.lanzouo.com/b00uks1sd) Password: OJBK
 
-[搞机助手重制版](https://nalankang.lanzouo.com/b00tugduj) 密码:OJBK
+[Gaoji Assistant Remastered Version](https://nalankang.lanzouo.com/b00tugduj) Password: OJBK
 
-[搞机助手2](https://nalankang.lanzouo.com/b00uks28j) 密码:OJBK
+[Gaoji Assistant 2](https://nalankang.lanzouo.com/b00uks28j) Password: OJBK
 
 [Shizuku](https://www.coolapk.com/apk/moe.shizuku.privileged.api)
-> 无需root，可以授予其它App以adb权限，自身需要使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
+> Without the need for root, it can grant other apps adb permissions. It requires the use of "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
-[黑域](https://www.coolapk.com/apk/me.piebridge.brevent)
-> 搭配shizuku使用，或者直接使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
+[Brevent](https://www.coolapk.com/apk/me.piebridge.brevent)
+> It can be used in conjunction with Shizuku, or directly with "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
-[冰箱](https://www.coolapk.com/apk/com.catchingnow.icebox)
-> 搭配shizuku使用，或者直接使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
+[Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox)
+> It can be used in conjunction with Shizuku, or directly with "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
 [Scene5](https://www.coolapk.com/apk/com.omarea.vtools)
-> 全能的系统设置工具
+> An all-in-one system settings tool
 
-[Scene4](https://wwbs.lanzoub.com/inxtd0igwfuh) 密码:i5y6
+[Scene4](https://wwbs.lanzoub.com/inxtd0igwfuh) Password: i5y6
 
-[Scene高级设定](https://wwbs.lanzoub.com/itLHL0ih54sd) 密码:67ze
+[Scene Advanced Settings](https://wwbs.lanzoub.com/itLHL0ih54sd) Password: 67ze
 
 [Thanox](https://www.coolapk.com/apk/github.tornaco.android.thanos)
-> 全能的应用调教工具
+> An all-in-one app tuning tool
 
-[DevCheck](https://wwbs.lanzoub.com/iTMGh0ij52fa) 密码:1fqi
-> 查看设备信息
+[DevCheck](https://wwbs.lanzoub.com/iTMGh0ij52fa) Password: 1fqi
+> View device information
 
 [Blocker](https://www.coolapk.com/apk/com.merxury.blocker)
-> 可以查看并且禁用App的服务、活动，尤其用来禁用App里植入的广告有奇效
+> You can view and disable services and activities of apps, which is particularly effective for disabling embedded ads in apps.
 
 [LibChecker](https://www.coolapk.com/apk/com.absinthe.libchecker)
-> 查看App的服务、活动，配合blocker使用
+> Viewing services and activities of apps, used in conjunction with a blocker
 
-[绿色守护](https://wwbs.lanzoub.com/itzNk0ijvk9i) 密码:bbf6
-> 支持Android 13，类原生系统必备的应用休眠工具
+[Greenify](https://wwbs.lanzoub.com/itzNk0ijvk9i) Password: bbf6
+> Supports Android 13, an essential app hibernation tool for near-stock Android systems.
 
 [Nevolution](https://www.coolapk.com/apk/com.oasisfeng.nevo)
-> 通知栏增强，比如在通知里回复微信
+> Notification bar enhancement, such as replying to WeChat messages directly from the notification.
 
-[钛备份](https://wwbs.lanzoub.com/ibbwj0igvrdg) 密码:dkgv
+[Titanium Backup](https://wwbs.lanzoub.com/ibbwj0igvrdg) Password: dkgv
 
-[Quicker 推送工具](https://wwbs.lanzoub.com/iVNZJ0it2wda) 密码:btq7
-> 搭配Windows端[Quicker](https://getquicker.net/Download)的推送服务功能使用
+[Quicker Push Tool](https://wwbs.lanzoub.com/iVNZJ0it2wda) Password: btq7
+> Used in conjunction with the push service feature of [Quicker](https://getquicker.net/Download) on Windows.
 
-[WiFi Master Key 万能钥匙](https://wwbs.lanzoub.com/iBzhE0lnoo8b) 密码:boyt
+[WiFi Master Key](https://wwbs.lanzoub.com/iBzhE0lnoo8b) Password: boyt
 
 ## Ad-block
 
-[李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
+[Li Tiaotiao](https://wwe.lanzouw.com/b01v0g3wj) Password: 1233
 
-[一指禅](https://wwbs.lanzoub.com/iJFee0xhq90b) 密码：aeno
-> [一指禅电报群](https://t.me/xad_fire)
+[Yi Zhi Chan](https://wwbs.lanzoub.com/iJFee0xhq90b) Password: aeno
 
-[AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) 密码:59vb
-> 较全能的广告屏蔽工具
+[AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) Password: 59vb
+> An all-around ad-blocking tool
 
 ## Auto Tasks
 
 [Tasker](https://www.coolapk.com/apk/net.dinglisch.android.taskerm)
 
 [MacroDroid](https://nalankang.lanzouo.com/b00usijgh)
-密码:OJBK
+Password: OJBK
 
-[辅助模块](https://nalankang.lanzouo.com/b00usiqle)
-密码:OJBK
+[Auxiliary module](https://nalankang.lanzouo.com/b00usiqle)
+Password: OJBK
 
-[自动发邮件插件](https://nalankang.lanzouo.com/b00utusqj)
-密码:OJBK
+[Automatic email sending plugin](https://nalankang.lanzouo.com/b00utusqj)
+Password: OJBK
 
-[小转发](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) 密码：466h
-> 可以读取备用手机收到的短信和未接来电，并转发到主力手机的微信上。
+[Xiao Zhuanfa](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) Password: 466h
+> It is possible to read the text messages and missed calls received on the backup phone and forward them to the main phone's WeChat.
 
 ## Virtual Location
 
-[GPS JoyStick 闪电鸟版本](https://wws.lanzoui.com/iwQEbmj70kd) 密码:1ibx
+[GPS JoyStick Lightning Bird UI Version](https://wws.lanzoui.com/iwQEbmj70kd) Password: 1ibx
 
-[GPS JoyStick 急冻鸟版本](https://wws.lanzoui.com/iWa8ymj70ib) 密码:btam
+[GPS JoyStick Frozen Bird UI Version](https://wws.lanzoui.com/iWa8ymj70ib) Password: btam
 
-[GPS JoyStick 火焰鸟UI版本](https://wws.lanzoui.com/iz83Zmj70gj) 密码:dhir
-> 三个版本功能一致，均为去广告全功能版本，仅UI差异。用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)
+[GPS JoyStick Flame Bird UI Version](https://wws.lanzoui.com/iz83Zmj70gj) Password: dhir
+> The three versions have the same functionality, all of which are ad-free and full-featured versions, with only UI differences. They are used for flying in PokemonGo. For detailed information, please refer to [Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd).
 
 ## Virtual Machine
 
-[VMOS Pro 简洁版](https://wwbs.lanzoub.com/iwHoo0imgccb) 密码:gtwp
-> 支持宿主机Android 13
+[VMOS Pro Lite Version](https://wwbs.lanzoub.com/iwHoo0imgccb) Password: gtwp
+> Supports Android 13 on the host machine
 
-[VMOS助手](https://wwbs.lanzoub.com/iaCbh0imgcaj) 密码:d9g8
+[VMOS Assistant](https://wwbs.lanzoub.com/iaCbh0imgcaj) Password: d9g8
 
-[炼妖壶](https://www.coolapk.com/apk/com.oasisfeng.island)
-> 应用多开
+[Lianyao Hu](https://www.coolapk.com/apk/com.oasisfeng.island)
+> App Cloner
 
 ## Game Modifier
 
-[GameGuardian](https://wwbs.lanzoub.com/iaqq20igvqxa) 密码:4rvw
+[GameGuardian](https://wwbs.lanzoub.com/iaqq20igvqxa) Password: 4rvw
 
-[Polygon#](https://wwbs.lanzoub.com/i3Htn0i7zpta) 密码:f7z8
-> PokemonGo的神级辅助插件，详细介绍可查看[Android 玩机技巧 | PokemonGo辅助插件](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd)
+[Polygon#](https://wwbs.lanzoub.com/i3Htn0i7zpta) Password: f7z8
+> The god-level assistant plugin for PokemonGo, for detailed information, please refer to [Android 玩机技巧 | PokemonGo辅助插件](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd).
 
-[WeCatch](https://wwbs.lanzoub.com/iQHLz0i7zmkd) 密码:8pjz
-> 追踪Pokemon，以精准传送。
+[WeCatch](https://wwbs.lanzoub.com/iQHLz0i7zmkd) Password: 8pjz
+> Tracking Pokemon and teleporting with precision.
 
 ## Terminal
 
-[Termux](https://nalankang.lanzouo.com/b00v67ype) 密码:OJBK
+[Termux](https://nalankang.lanzouo.com/b00v67ype) Password: OJBK
 
 [ZeroTermux](https://cloud.189.cn/t/aqam2uZNJ7ny)
 
 [UTermux](https://cloud.189.cn/t/YbmqaiqYniIn)
 
-[终端模拟器](https://nalankang.lanzouo.com/b00v67zte) 密码:OJBK
+[Terminal emulator](https://nalankang.lanzouo.com/b00v67zte) Password: OJBK
 
-[Ansole](https://nalankang.lanzouo.com/b00v681pc) 密码:OJBK
+[Ansole](https://nalankang.lanzouo.com/b00v681pc) Password: OJBK
 
-[NeoTerm](https://nalankang.lanzouo.com/b00v681xa) 密码:OJBK
+[NeoTerm](https://nalankang.lanzouo.com/b00v681xa) Password: OJBK
 
 ## APK Unpacking
 
-[BlackDex](https://nalankang.lanzouo.com/b00um84kf) 密码:OJBK
+[BlackDex](https://nalankang.lanzouo.com/b00um84kf) Password: OJBK
 
-[fdex2](https://nalankang.lanzouo.com/iBdENqkpmng) 密码:OJBK
+[fdex2](https://nalankang.lanzouo.com/iBdENqkpmng) Password: OJBK
 
-[微脱壳](https://nalankang.lanzouo.com/iFfamqkpmoh) 密码:OJBK
+[Wei Tuoke](https://nalankang.lanzouo.com/iFfamqkpmoh) Password: OJBK
 
-[反射大师](https://nalankang.lanzouo.com/b00v2j5ud) 密码:OJBK
+[Reflect Master](https://nalankang.lanzouo.com/b00v2j5ud) Password: OJBK
 
 ## APK Reverse Engineering
 
-[Apk编辑器](https://nalankang.lanzouo.com/b00u06q0d) 密码:OJBK
+[APK Editor](https://nalankang.lanzouo.com/b00u06q0d) Password: OJBK
 
-[APK Editor R3](https://nalankang.lanzouo.com/b00uud6lg) 密码:OJBK
+[APK Editor R3](https://nalankang.lanzouo.com/b00uud6lg) Password: OJBK
 
-[Apktool M](https://nalankang.lanzouo.com/b00uud6kf) 密码:OJBK
+[Apktool M](https://nalankang.lanzouo.com/b00uud6kf) Password: OJBK
 
-[NP管理器](https://nalankang.lanzouo.com/b00u7565e) 密码:OJBK
+[NP Manager](https://nalankang.lanzouo.com/b00u7565e) Password: OJBK
 
-[MT管理器](https://www.coolapk.com/apk/bin.mt.plus)
+[MT Manager](https://www.coolapk.com/apk/bin.mt.plus)

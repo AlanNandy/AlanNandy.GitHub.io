@@ -10,9 +10,9 @@ star: true
 
 # Android端Xposed模块
 
-[Magisk面具中文网](https://magiskcn.com/)
+[Magisk Mask Chinese website](https://magiskcn.com/)
 
-[官方Xposed模块仓库](https://modules.lsposed.org/)
+[Official Xposed Module Repository](https://modules.lsposed.org/)
 
 ## Preface
 

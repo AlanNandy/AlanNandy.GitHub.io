@@ -52,7 +52,10 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 > 梯子
 
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
-> 梯子
+> 请注意，如果提示已损坏无法安装，请打开Terminal输入下面命令:
+```bash
+sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
+```
 
 ## 网盘
 

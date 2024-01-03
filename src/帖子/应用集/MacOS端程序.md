@@ -70,6 +70,8 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 
 [The Unarchiver 压缩工具](https://theunarchiver.com/)
 
+[keka 压缩工具](https://www.keka.io/en/)
+
 ## 社交/通讯
 
 [微信](https://weixin.qq.com/)
@@ -119,6 +121,9 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 
 [KeyClu](https://github.com/Anze/KeyCluCask/releases)
 > 快速查看当前应用程序的快捷键
+
+[RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002?l=zh-Hans-CN&mt=12)
+> 设置鼠标定时自动点击
 
 ## 音乐/播客
 

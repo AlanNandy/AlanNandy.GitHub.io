@@ -68,6 +68,12 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [The Unarchiver](https://theunarchiver.com/)
 > File compression and decompression
 
+[keka](https://www.keka.io/en/)
+> File compression and decompression
+
+[RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002?l=zh-Hans-CN&mt=12)
+> Simple auto-clicker
+
 ## Social
 
 [WeChat](https://weixin.qq.com/)

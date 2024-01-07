@@ -2,27 +2,27 @@
 icon: android
 date: 2023-01-28
 category:
-  - 应用集
+  - Super Applications
 tag:
-  - 模块
-star: true
+  - Modules
+star: false
 ---
 
 # Android端Xposed模块
 
-[Magisk面具中文网](https://magiskcn.com/)
+[Magisk Mask Chinese website](https://magiskcn.com/)
 
-[官方Xposed模块仓库](https://modules.lsposed.org/)
+[Official Xposed Module Repository](https://modules.lsposed.org/)
 
-## 前言
+## Preface
 
-1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
-2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装。**本应用集资源均为网络收集且免费分享。**
-3. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
+1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+3. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+![Nandelion](../../../image/Nandelion.jpg =200x)
 
-## 面具/Xposed的增强/隐藏/屏蔽模块
+## Enhancement Modules for Xposed
 
 [RootCloak(隐藏Root)](https://nalankang.lanzouo.com/iD7LLjks9ab) 密码:OJBK
 
@@ -46,7 +46,7 @@ star: true
 
 [神仙自动救砖模块](https://wws.lanzoui.com/ijNzjmjfqre) 密码:3x0o
 
-## MIUI系统专用模块
+## Specialized Modules for MIUI
 
 [XMiTools(已停更)](https://www.coolapk.com/apk/com.tianma.tweaks.miui)
 
@@ -106,7 +106,7 @@ star: true
 
 [Simplicity Tools(MIUI13自定义工具)](https://nalankang.lanzouo.com/b00vc2p2d) 密码:OJBK
 
-## Flyme系统专用模块
+## Specialized Modules for Flyme
 
 [FXposed](https://nalankang.lanzouo.com/b00tg28vc) 密码:OJBK
 
@@ -116,7 +116,7 @@ star: true
 
 [flyme工具箱(浏览器增强)](https://nalankang.lanzouo.com/b00uyi65e) 密码:OJBK
 
-## H2OS系统专用模块
+## Specialized Modules for H2OS
 
 [万物](https://www.coolapk.com/apk/com.bangtu.opaod)
 
@@ -128,11 +128,11 @@ star: true
 
 [一加状态栏网速](https://www.coolapk.com/apk/me.seasonyuu.xposed.networkspeedindicator.h2os)
 
-## ColorOS系统专用模块
+## Specialized Modules for ColorOS
 
 [ColorOSTool系统增强模块](https://nalankang.lanzouo.com/b00utw46h) 密码:OJBK
 
-## 通用系统增强模块
+## Universal System Enhancement Modules
 
 [GravityBox(安卓8)](https://nalankang.lanzouo.com/b00u9xezc) 密码:OJBK
 
@@ -164,7 +164,7 @@ star: true
 
 [自动沉浸式状态栏](https://nalankang.lanzouo.com/iWnM5stybvi) 密码:OJBK
 
-## 去广吿模块
+## Ad-block
 
 [AD快消](https://nalankang.lanzouo.com/b00u7asef) 密码:OJBK
 
@@ -180,7 +180,7 @@ star: true
 
 [上帝模式](https://nalankang.lanzouo.com/b00um9gha) 密码:OJBK
 
-## 模拟定位
+## Virtual Location
 
 [模拟位置](https://nalankang.lanzouo.com/b00tvpb1i) 密码:OJBK
 
@@ -195,7 +195,7 @@ star: true
 [mockmocklocation](https://wws.lanzoui.com/ig2N7mjh0xg) 密码:gkas
 > 屏蔽模拟定位检测，用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)
 
-## 运动步数修改
+## Virtual Step
 
 [运动修改器](https://nalankang.lanzouo.com/b00to5bpa) 密码:OJBK
 
@@ -203,7 +203,7 @@ star: true
 
 [运动模拟器](https://nalankang.lanzouo.com/iAVp7lridyd) 密码:OJBK
 
-## 学习/办公
+## Education
 
 [霸王强国](https://nalankang.lanzouo.com/b00up7oda) 密码:OJBK
 
@@ -229,7 +229,7 @@ star: true
 
 [科技强国](https://nalankang.lanzouo.com/b00v9lzsf) 密码:OJBK
 
-## 购物/生活
+## Shopping
 
 [建行杀手](https://nalankang.lanzouo.com/insPchnubsj) 密码:OJBK
 
@@ -253,7 +253,7 @@ star: true
 
 [钱迹自动记账插件](https://nalankang.lanzouo.com/b00v7fjjc) 密码:OJBK
 
-## 音乐/播客
+## Music
 
 [云村清洁工](https://nalankang.lanzouo.com/in7DElr49xe) 密码:OJBK
 
@@ -267,7 +267,7 @@ star: true
 
 [DJkwaiching(白嫖音乐VIP)](https://nalankang.lanzouo.com/b00tytm1g) 密码:OJBK
 
-## 视频
+## Video
 
 [哔哩漫游](https://nalankang.lanzouo.com/b00ttp0kj) 密码:OJBK
 
@@ -293,7 +293,7 @@ star: true
 
 [动漫之家增强模块](https://nalankang.lanzouo.com/b00uwt6zi) 密码:OJBK
 
-## 社交/通讯
+## Social
 
 [微博+](https://nalankang.lanzouo.com/b00u8r25i) 密码:OJBK
 
@@ -335,11 +335,11 @@ star: true
 
 [飞书助手](https://nalankang.lanzouo.com/b00tx61rc) 密码:OJBK
 
-## 游戏修改器
+## Game Modifier
 
 [王者人生wifi信息劫持](https://nalankang.lanzouo.com/ib4F3s4471e) 密码:OJBK
 
-## App翻译模块
+## Translation
 
 [AllTrans](https://nalankang.lanzouo.com/b00tngrof) 密码:OJBK
 
@@ -347,11 +347,11 @@ star: true
 
 [Xp快译](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i) 密码:OJBK
 
-## APK逆向模块
+## APK Reverse Engineering
 
 [算法助手(Hook工具)](https://nalankang.lanzouo.com/b00umtq4h) 密码:OJBK
 
-## 整蛊模块
+## Prank
 
 [一个让你感觉卧曹卧曹的模块](https://nalankang.lanzouo.com/ii7Hzgt6zsj) 密码:OJBK
 

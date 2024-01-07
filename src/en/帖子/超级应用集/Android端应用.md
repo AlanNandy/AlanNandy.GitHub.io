@@ -2,7 +2,7 @@
 icon: android
 date: 2023-01-28
 category:
-  - Applications
+  - Super Applications
 tag:
   - Applications
 star: false

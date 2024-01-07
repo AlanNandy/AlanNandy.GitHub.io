@@ -1,8 +1,8 @@
 ---
-icon: note
+icon: computer
 date: 2023-05-28
 category:
-  - 应用集
+  - 超级应用集
 tag:
   - 应用
 star: false

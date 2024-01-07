@@ -2,7 +2,7 @@
 icon: windows
 date: 2023-01-28
 category:
-  - 应用集
+  - 超级应用集
 tag:
   - 应用
 star: false

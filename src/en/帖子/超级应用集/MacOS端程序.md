@@ -1,8 +1,8 @@
 ---
-icon: note
+icon: computer
 date: 2023-05-28
 category:
-  - Applications
+  - Super Applications
 tag:
   - Applications
 star: false

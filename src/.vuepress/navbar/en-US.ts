@@ -5,13 +5,14 @@ export const enNavbar = navbar([
   {
     text: "Post",
     icon: "folder",
-    prefix: "/en/",
+    prefix: "/en/帖子/",
     children: [
       {
         text: "Super Applications",
         icon: "folder",
+        prefix: "超级应用集/",
         children: [
-          { text: "Kill EMO Store", icon: "mini-app", link: "帖子/超级应用集/解忧工具铺" },
+          { text: "Kill EMO Store", icon: "mini-app", link: "解忧工具铺" },
           { text: "Android Applications", icon: "android", link: "Android端应用" },
           { text: "Android Xposed Modules", icon: "android", link: "Android端Xposed模块" },
           { text: "iOS Applications", icon: "mobile", link: "iOS端应用" },

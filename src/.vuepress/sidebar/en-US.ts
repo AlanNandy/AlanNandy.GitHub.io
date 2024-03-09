@@ -6,10 +6,12 @@ export const enSidebar = sidebar({
     {
       text: "Post",
       icon: "folder",
+      prefix: "帖子/",
       children: [
         {
           text: "Super Applications",
           icon: "folder",
+          prefix: "超级应用集/",
           children: [
             { text: "Kill EMO Store", icon: "mini-app", link: "解忧工具铺" },
             { text: "Android Applications", icon: "android", link: "Android端应用" },

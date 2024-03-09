@@ -8,7 +8,7 @@ tag:
 star: false
 ---
 
-# Android端应用
+# Android Applications
 
 ## Preface
 

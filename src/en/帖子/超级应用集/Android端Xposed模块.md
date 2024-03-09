@@ -8,7 +8,7 @@ tag:
 star: false
 ---
 
-# Android端Xposed模块
+# Android Xposed Modules
 
 [Magisk Mask Chinese website](https://magiskcn.com/)
 

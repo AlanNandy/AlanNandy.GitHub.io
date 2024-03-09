@@ -68,6 +68,8 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 
 ## 文件管理
 
+[CleanMyMac X 清理工具](https://apps.apple.com/cn/app/cleanmymac-x/id1339170533)
+
 [The Unarchiver 压缩工具](https://theunarchiver.com/)
 
 [keka 压缩工具](https://www.keka.io/en/)
@@ -83,7 +85,7 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 
 [企业微信](https://work.weixin.qq.com/?from=openApi#indexDownload)
 
-[电报](https://telegram.org/apps)
+[Telegram电报](https://telegram.org/apps)
 > 搭配梯子使用
 
 ## 学习/办公
@@ -114,6 +116,11 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 [Adobe 旗下软件](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
 > 安装前需移除下载镜像的Quarantine属性，在“终端”中输入代码：sudo xattr -r -d com.apple.quarantine+空格+在应用程序中找到App拖入终端里面即可（注意：输入代码中不要带加号）
 
+[美图秀秀](https://mt.meipai.com/)
+
+[Wink](https://wink.meitu.com/)
+> 视频人像精修工具
+
 ## 通用系统增强工具
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
@@ -130,6 +137,8 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 [网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
 
 ## 视频
+
+[抖音](https://www.douyin.com/)
 
 [哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 

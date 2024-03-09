@@ -65,14 +65,13 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 ## File Management
 
+[CleanMyMac X](https://apps.apple.com/cn/app/cleanmymac-x/id1339170533)
+
 [The Unarchiver](https://theunarchiver.com/)
 > File compression and decompression
 
 [keka](https://www.keka.io/en/)
 > File compression and decompression
-
-[RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002?l=zh-Hans-CN&mt=12)
-> Simple auto-clicker
 
 ## Social
 
@@ -113,6 +112,11 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [Various software from Adobe](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
 > To install, you need to remove the Quarantine attribute from the downloaded image. In the "Terminal" application, enter the following command: sudo xattr -r -d com.apple.quarantine + Drag the app from the Applications folder into the Terminal (Note: Do not include the plus sign in the command).
 
+[Meitu Xiuxiu](https://mt.meipai.com/)
+
+[Wink](https://wink.meitu.com/)
+> Video Portrait Retouching Tool
+
 ## Utilities
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
@@ -121,11 +125,16 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [KeyClu](https://github.com/Anze/KeyCluCask/releases)
 > Find shorcuts for any installed application.
 
+[RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002)
+> Simple auto-clicker
+
 ## Music
 
 [NetEase Cloud Music](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
 
 ## Video
+
+[TikTok](https://www.tiktok.com/)
 
 [Bilibili](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 

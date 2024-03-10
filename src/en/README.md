@@ -26,7 +26,7 @@ projects:
   - icon: folder
     name: Wallpapers
     desc: Sharing some aesthetically pleasing wallpapers from AIGC.
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
+    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=3041948870131630083#wechat_redirect
 
   - icon: note
     name: Good Commodities

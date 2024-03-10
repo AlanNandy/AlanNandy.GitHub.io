@@ -26,7 +26,7 @@ projects:
   - icon: folder
     name: 手机壁纸
     desc: 分享一些AIGC的壁纸
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
+    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=3041948870131630083#wechat_redirect
 
   - icon: note
     name: 好物安利

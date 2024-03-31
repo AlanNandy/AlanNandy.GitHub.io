@@ -138,6 +138,10 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 [Bilibili](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 
+## Virtual Machine
+[VMware Fusion](https://www.vmware.com/products/fusion.html)
+> Free permanent virtual machine for personal use
+
 ## Remote Control
 
 [XIANGRIKUI](https://sunlogin.oray.com/)

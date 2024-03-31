@@ -142,6 +142,10 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 
 [哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
 
+## 虚拟机
+[VMware Fusion](https://www.vmware.com/products/fusion.html)
+> 个人使用免费永久的虚拟机
+
 ## 远程操控
 
 [向日葵](https://sunlogin.oray.com/)

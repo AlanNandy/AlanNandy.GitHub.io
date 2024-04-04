@@ -152,6 +152,8 @@ star: false
 
 [醒图](https://wwbs.lanzoub.com/ij9I30lm3waj) 密码:a8w2
 
+[快涂](https://wwz.lanzoue.com/ijtKm1tuz30j) 密码:1fr3
+
 [剪映](https://wwbs.lanzoub.com/iAZF00lm3yne) 密码:80rp
 
 ## 图片/视频
@@ -179,6 +181,10 @@ star: false
 
 [Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 > 纯净无广吿的第三方油管：[Vanced](https://nalankang.lanzouo.com/b00ujce7i) 密码:OJBK、[PureTuber(第三方油管纯净无广吿)](https://nalankang.lanzouo.com/b00usb4ba) 密码:OJBK
+
+## 游戏/娱乐
+
+[摇骰子](https://wwz.lanzoue.com/i1T5x1tuznyd) 密码:g62k
 
 ## 购物/生活
 

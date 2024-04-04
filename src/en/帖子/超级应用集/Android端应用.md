@@ -141,6 +141,8 @@ star: false
 
 [Xingtu](https://wwbs.lanzoub.com/ij9I30lm3waj) Password: a8w2
 
+[Graffiti](https://wwz.lanzoue.com/ijtKm1tuz30j) Password: 1fr3
+
 [Jianying](https://wwbs.lanzoub.com/iAZF00lm3yne) Password: 80rp
 
 ## Entertainment
@@ -163,6 +165,10 @@ star: false
 
 [Youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 > Pure and ad-free third-party YouTube client: [Vanced](https://nalankang.lanzouo.com/b00ujce7i) Password: OJBK, [PureTuber](https://nalankang.lanzouo.com/b00usb4ba) Password: OJBK
+
+## Game
+
+[Dice](https://wwz.lanzoue.com/i1T5x1tuznyd) Password: g62k
 
 ## Shopping
 

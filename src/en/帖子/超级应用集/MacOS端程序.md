@@ -18,8 +18,9 @@ star: false
 ```bash
 defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ```
-4. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
-5. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
+4. More Safari browser extensions can be compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, but there may be stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. Then, in Safari's "Develop" menu bar, allow unsigned extensions. Finally, open the extension and grant it permission to access websites.
+5. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
+6. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
@@ -41,12 +42,6 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 [OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
 > Tab management extension
-
-[CTG Plugins](https://wwbs.lanzoub.com/iNE8616y3h5c)
-> Automatic click extension. Compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, it may have stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. In Safari's "Develop" menu, allow unsigned extensions, then open CTG Plugins and grant it permission to access websites.
-
-[CAOLIAO Plugins](https://wwbs.lanzoub.com/ix0N316y3hbi)
-> Quick QR code generation and decoding plugin. Compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, it may have stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. In Safari's "Develop" menu, allow unsigned extensions, then open CTG Plugins and grant it permission to access websites.
 
 [V2RayX](https://github.com/Cenmrev/V2RayX)
 > Network proxy

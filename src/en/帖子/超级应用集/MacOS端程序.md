@@ -32,7 +32,10 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ## Web Browser
 
 [Tampermonkey](https://www.tampermonkey.net/)
-> The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts.
+> The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts. 🔔If you are unable to open the script's settings, please go to "Safari - Preferences - Websites - Pop-up windows - When visiting other websites" to enable access.
+
+[Immersive Translation](https://immersivetranslate.com/)
+> Bilingual web page translation extension
 
 [Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) Password: e5if
 > Translation extension
@@ -52,6 +55,8 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ## Cloud Storage
 
 [Baidu Netdisk](https://yun.baidu.com/download)
+
+[Quark](https://www.quark.cn/)
 
 ## Downloader
 

@@ -32,7 +32,10 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ## 浏览器
 
 [油猴插件](https://www.tampermonkey.net/)
-> Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。
+> Safari 浏览器的油猴插件需要付费，免费油猴插件可尝试 [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。🔔如果你无法打开脚本的设置，请设置“Safari浏览器-设置-网站-弹出式窗口-访问其他网站时：允许”。
+
+[沉浸式翻译](https://immersivetranslate.com/)
+> 免费好用的双语对照网页翻译插件
 
 [Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) 提取码: e5if
 > 浏览器翻译插件
@@ -55,6 +58,8 @@ sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
 ## 网盘
 
 [百度网盘](https://yun.baidu.com/download)
+
+[夸克](https://www.quark.cn/)
 
 ## 下载器
 

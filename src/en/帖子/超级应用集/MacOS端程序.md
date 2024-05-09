@@ -18,9 +18,13 @@ star: false
 ```bash
 defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ```
-4. More Safari browser extensions can be compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, but there may be stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. Then, in Safari's "Develop" menu bar, allow unsigned extensions. Finally, open the extension and grant it permission to access websites.
-5. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
-6. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
+4. Attention, if you receive a message stating that the file is damaged and cannot be installed, please open Terminal and enter the following command:
+```bash
+sudo xattr -r -d com.apple.quarantine “file_path”
+```
+5. More Safari browser extensions can be compiled using the [Safari Use Chrome Extensions](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd) method, but there may be stability issues. After downloading and extracting the file, move it to the Applications folder in Finder. Then, in Safari's "Develop" menu bar, allow unsigned extensions. Finally, open the extension and grant it permission to access websites.
+6. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
+7. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
 ![Nandelion](../../../image/Nandelion.jpg =200x)
 
@@ -46,11 +50,8 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 [OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
 > Tab management extension
 
-[V2RayX](https://github.com/Cenmrev/V2RayX)
-> Network proxy
-
 [Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) Password: o518
-> Network proxy
+> Network proxy, similar to this is [V2RayX](https://github.com/Cenmrev/V2RayX)
 
 ## Cloud Storage
 
@@ -66,12 +67,13 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 ## File Management
 
 [CleanMyMac X](https://apps.apple.com/cn/app/cleanmymac-x/id1339170533)
+> Disk cleaning software
 
-[The Unarchiver](https://theunarchiver.com/)
-> File compression and decompression
+[XApp](https://www.better365.cn/xapp.html)
+> Uninstall App
 
-[keka](https://www.keka.io/en/)
-> File compression and decompression
+[FastZip](https://www.better365.cn/fastzip.html)
+> Decompression software, similar to this is [The Unarchiver](https://theunarchiver.com/)、[keka](https://www.keka.io/en/)
 
 ## Social
 
@@ -97,20 +99,29 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 > Currently, using [WPS](https://platform.wps.cn/) for office tasks on Mac is more stable. However, there is still a dependency on old data in OneDrive, OneNote, and Outlook, so it is necessary to continue using them as usual.
 
 [Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) Password: 6y8j
+> Mind mapping software
 
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
+> Flowchart software
 
 [AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) Password: 2637
+> Prototyping software
 
 [FreeCAD](https://www.freecad.org)
 
 [HOUYI](https://www.houyicaiji.com/)
 > Web data crawler
 
+[HelloFont](https://www.hellofont.cn/download)
+> Font management software, similar to this is [Zijia](https://www.zijia.com.cn/zijia.html)
+
 ## Photograph
 
-[Various software from Adobe](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
-> To install, you need to remove the Quarantine attribute from the downloaded image. In the "Terminal" application, enter the following command: sudo xattr -r -d com.apple.quarantine + Drag the app from the Applications folder into the Terminal (Note: Do not include the plus sign in the command).
+[Adobe Creative Suite](https://flowus.cn/share/ab4b6b86-34a6-4aa0-a679-b4a221b8e41d)
+> To install, you need to remove the Quarantine attribute from the downloaded image. In the "Terminal" application, enter the following command: 
+```bash
+sudo xattr -r -d com.apple.quarantine “file_path”
+```
 
 [Meitu Xiuxiu](https://mt.meipai.com/)
 
@@ -119,14 +130,20 @@ defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
 
 ## Utilities
 
-[Scroll Reverser](https://pilotmoon.com/scrollreverser/)
-> Individually configuring the trackpad and mouse scrolling on Mac.
+[iScroll](https://www.better365.cn/iscroll.html)
+> Individually configuring the trackpad and mouse scrolling on Mac, similar to this is [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 
-[KeyClu](https://github.com/Anze/KeyCluCask/releases)
-> Find shorcuts for any installed application.
+[FlyKey](https://www.better365.cn/FlyKey.html)
+> Find shorcuts for any installed application, similar to this is [KeyClu](https://github.com/Anze/KeyCluCask/releases)
 
 [RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002)
 > Simple auto-clicker
+
+[iShot](https://www.better365.cn/ishot.html)
+> Screenshot software
+
+[iOCR](https://www.better365.cn/iocr.html)
+> Screenshot OCR software
 
 ## Music
 

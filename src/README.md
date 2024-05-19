@@ -11,7 +11,7 @@ projects:
   - icon: folder
     name: 玩机技巧
     desc: 分享一些搞机技巧
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect
+    link: /帖子/玩机技巧
 
   - icon: folder
     name: 超级应用集
@@ -21,12 +21,7 @@ projects:
   - icon: folder
     name: 手机美化
     desc: 分享一些手机主题包或小插件
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
-    
-  - icon: folder
-    name: 手机壁纸
-    desc: 分享一些AIGC的壁纸
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=3041948870131630083#wechat_redirect
+    link: /帖子/手机美化
 
   - icon: note
     name: 好物安利

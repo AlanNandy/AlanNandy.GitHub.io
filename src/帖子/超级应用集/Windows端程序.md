@@ -4,7 +4,7 @@ date: 2023-01-28
 category:
   - 超级应用集
 tag:
-  - 应用
+  - Windows
 star: false
 ---
 
@@ -47,7 +47,7 @@ star: false
 > 梯子
 
 [小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码：xytc
-> 梯子
+> 使用小猫咪后如果Microsoft Store无法访问，请进入小猫咪的设置中，打卡UWP工具，将Microsoft Store勾选上。
 
 ## 网盘
 
@@ -121,9 +121,7 @@ star: false
 
 [Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码：clw5
 
-[AxureRP 原型图工具](https://ghpym.lanzoui.com/iGS0Nfya0ih)
-
-[Axure RP 9 注册码](https://wwbs.lanzoub.com/iNYTP0iz9iof)
+[AxureRP 原型图工具](https://pan.baidu.com/s/1rMVZHajSD1zppVgmcyJotQ?pwd=q8fg) 提取码：q8fg
 
 [Autodesk Alias 工业设计建模软件](https://pan.baidu.com/s/103lJkZLgpCT8hl6mqZoYMQ?pwd=4sci) 提取码：4sci
 
@@ -139,6 +137,18 @@ star: false
 
 [C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
 
+[绘世启动器](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) 提取码：lmne
+> Stable Diffusion一键启动/修复/更新/模型下载管理全支持！
+
+[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
+> 开源免费AI语音转换软件
+
+[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
+> 伴奏和人声分离软件，以导出人声供[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)训练。
+
+[后羿采集器](https://www.houyicaiji.com/)
+> 网页数据采集软件
+
 ## 拍摄/后期
 
 [FastStone Capture](https://www.faststonecapture.cn/download)
@@ -150,8 +160,7 @@ star: false
 
 [Polarr 泼辣修图](https://polaxiong.com/)
 
-[Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
-> Adobe 软件下载中心
+[Adobe 创意套件](https://www.adobe.com/creativecloud/desktop-app.html)
 
 [Adobe GenP 补丁](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) 提取码：nus7
 
@@ -161,7 +170,7 @@ star: false
 
 [Adobe 辅助插件合集](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) 提取码：kr89
 
-[vectormagic：位图一键转矢量图工具](https://url50.ctfile.com/f/16615350-768270262-c8db5c?p=2637) Passcode: 2637
+[vectormagic：位图一键转矢量图工具](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) 提取码：ol52
 > 其它图片一键处理工具网站：[Pix Fix：图像降噪](https://zh.pixfix.com/)、[Clipping Magic：删除图像背景](https://zh.clippingmagic.com)、[Recompressor：图像压缩](https://zh.recompressor.com)。
 
 [Pano2VR 全景图像转换工具](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) 提取码：sa9z
@@ -185,9 +194,7 @@ star: false
 
 ## 音乐/播客
 
-[Foobar2000 汉化整合版](https://wwbs.lanzoub.com/iVpiz0j00oxc) 密码:1axk
-
-[MuiscTool 音乐下载工具](https://www.yijingying.com/html/musictools/)
+[Foobar2000 汉化整合版](https://pan.baidu.com/s/1rm3gSuQ5ihQrtQMkYdnzpA?pwd=j6ul) 提取码：j6ul
 
 [网易云音乐](https://music.163.com/#/download)
 > [unblockneteasemusic 网易云辅助插件](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) 提取码：cxfs

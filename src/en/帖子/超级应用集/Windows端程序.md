@@ -4,7 +4,7 @@ date: 2023-01-28
 category:
   - Super Applications
 tag:
-  - Applications
+  - Windows
 star: false
 ---
 
@@ -45,6 +45,7 @@ star: false
 [v2rayN](https://v2rayn.org/v2rayn-download/)
 
 [Clash](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) Password: xytc
+> If you are unable to access the Microsoft Store after using Clash, please go to Clash's settings, check the UWP tool, and select the Microsoft Store.
 
 ## Cloud Storage
 
@@ -114,7 +115,7 @@ star: false
 
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
 
-[AxureRP](https://ghpym.lanzoui.com/iGS0Nfya0ih)
+[AxureRP](https://pan.baidu.com/s/1rMVZHajSD1zppVgmcyJotQ?pwd=q8fg) Password: q8fg
 
 [Axure RP 9 registration code](https://wwbs.lanzoub.com/iNYTP0iz9iof)
 
@@ -132,6 +133,18 @@ star: false
 
 [C4D](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) Password: i95m
 
+[Art Creation Launcher](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) Password: lmne
+> Fully supports one-click launch, repair, update, and model download management for Stable Diffusion!
+
+[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
+> Open-source Free AI Voice Conversion Software
+
+[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
+> Accompaniment and vocal separation software for exporting vocals for [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5) training.
+
+[HOUYI](https://www.houyicaiji.com/)
+> Web da
+
 ## Photograph
 
 [FastStone Capture](https://www.faststonecapture.cn/download)
@@ -143,7 +156,7 @@ star: false
 
 [Polarr](https://polaxiong.com/)
 
-[Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
+[Adobe Creative Suite](https://www.adobe.com/creativecloud/desktop-app.html)
 
 [Adobe GenP patch](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) Password: nus7
 
@@ -153,7 +166,7 @@ star: false
 
 [Adobe auxiliary plugin collection](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) Password: kr89
 
-[vectormagic](https://url50.ctfile.com/f/16615350-768270262-c8db5c?p=2637) Passcode: 2637
+[vectormagic](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) Passcode: ol52
 > Other websites for one-click image processing tools: [Pix Fix](https://zh.pixfix.com/)、[Clipping Magic](https://zh.clippingmagic.com)、[Recompressor](https://zh.recompressor.com)。
 
 [Pano2VR](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) Password: sa9z
@@ -176,9 +189,7 @@ star: false
 
 ## Muisc
 
-[Foobar2000](https://wwbs.lanzoub.com/iVpiz0j00oxc) Password: 1axk
-
-[MuiscTool](https://www.yijingying.com/html/musictools/)
+[Foobar2000](https://pan.baidu.com/s/1rm3gSuQ5ihQrtQMkYdnzpA?pwd=j6ul) Password: j6ul
 
 [NetEase Cloud Music](https://music.163.com/#/download)
 > [unblockneteasemusic](https://pan.baidu.com/s/1aEVWwuC9EchfJC9zpT3GIA?pwd=cxfs) Password: cxfs

@@ -4,7 +4,7 @@ date: 2023-05-28
 category:
   - 超级应用集
 tag:
-  - 应用
+  - MacOS
 star: false
 ---
 
@@ -107,12 +107,12 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
 > 流程图软件
 
-[AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) 访问密码: 2637
+[AxureRP](https://www.axure.com/)
 > 原型图软件
 
 [FreeCAD](https://www.freecad.org)
 
-[后裔采集器](https://www.houyicaiji.com/)
+[后羿采集器](https://www.houyicaiji.com/)
 > 网页数据采集软件
 
 [字由](https://www.hellofont.cn/download)

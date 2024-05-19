@@ -4,7 +4,7 @@ date: 2023-01-28
 category:
   - Super Applications
 tag:
-  - Applications
+  - Android
 star: false
 ---
 
@@ -20,22 +20,23 @@ star: false
 
 ## Input Method
 
-[Xunfei Input Method Lite Version](https://wwbs.lanzoub.com/i65s10i81wsd) Password: 8bzg
+[Xunfei Input Method Lite Version](https://pan.baidu.com/s/17-RD6CR-eXJREq0a4tnM7w?pwd=v5kt) Password: v5kt
 
 ## Application Market
 
-[Coolapk](https://wwbs.lanzoub.com/ix2Cu0lm02ri) Password: 43ij
+[Coolapk](https://pan.baidu.com/s/1krEnAWMcByD2Ijj_pNHBjQ?pwd=8kyr) Password: 8kyr
 
-[Coolapk Lite Version](https://wwbs.lanzoub.com/iceEl0i7yeaj) Password: ao1f
+[Coolapk Lite Version](https://pan.baidu.com/s/14yiNz461434JvAr6wZsSJA?pwd=tee5) Password: tee5
 
 [TapTap](https://www.taptap.cn/mobile)
 > Mainly used as a game platform for finding game guides, but its content specificity is definitely not as good as the self-built platforms of various game manufacturers, such as [NetEase Da Shen](https://ds.163.com/download/) and miHoYo [miHoYo Community](https://www.miyoushe.com/).
 
-[Google Play](https://wwbs.lanzoub.com/iDQHP0in0tbc) Password: 8hk3
+[Google Play](https://pan.baidu.com/s/1eAAFOHsYkWQX_6Y7Sopo3g?pwd=uxav) Password: uxav
 
-[Google Installer](https://wws.lanzoui.com/iWkfdmjcw2h) Password: 1ids
+[Google Installer](https://pan.baidu.com/s/1_EXASKzFec4MBv_Kf2bx5Q?pwd=ssxo) Password: ssxo
 
-[APKPure](https://wwbs.lanzoub.com/iP9FW0lm2gbi) Password: 7bv3
+[APKPure](https://apkpure.com/)
+> Third-party Google Play Store
 
 ## Web Browser
 
@@ -46,13 +47,13 @@ star: false
 [Haikuoshijie](https://haikuo.lanzoui.com/u/GoldRiver)
 > An application with explosive comprehensive functionality, where the browser is just an accessory that supports both Via and Greasemonkey plugins.
 
-[v2rayNG](https://wwbs.lanzoub.com/io1MO0xel4jc) Password: 8opt
+[v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
-[Clash](https://wwbs.lanzoub.com/iEkev0xei95a) Password: 5fns
+[Clash](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
 
 ## Cloud Storage
 
-[Baidu Netdisk Lite Version](https://wwbs.lanzoub.com/iXMDK0imgnej) Password: 2ro2
+[Baidu Netdisk Lite Version](https://pan.baidu.com/s/1qDn5I7Jm9v_9lSsg8hb4rA?pwd=eqzf) Password: eqzf
 
 [Google Drive](https://www.google.com/drive/download/)
 
@@ -61,28 +62,28 @@ star: false
 
 [Dropbox](https://www.dropbox.com/install)
 
-[Lanyun](https://wwbs.lanzoub.com/iJbG20imgngb) Password: 1tr1
+[Lanyun](https://pan.baidu.com/s/1X2o1_W3gGfVZMDWPu0mtyA?pwd=c1md) Password: c1md
 
-[Lanzouyun Lite](https://wwbs.lanzoub.com/imDRN0i7yk0f) Password: 1wbq
+[Lanzouyun Lite](https://pan.baidu.com/s/12UKOhZaVzLNhovjPLMI-Bw?pwd=cihp) Password: cihp
 
 ## Downloader
 
-[1DM+](https://wwbs.lanzoub.com/itTbb0i8317i) Password: aku5
+[1DM+](https://pan.baidu.com/s/141JIvgYeDCrglxfkyEzf6w?pwd=2b0i) Password: 2b0i
 > Browsers like Haikuoshijie can be configured to bind 1DM+ as the default downloader. When combined with Greasemonkey plugins, it can accelerate the download of certain files from online storage platforms.
 
-[QScanner](https://wwbs.lanzoub.com/izYZW0in16va) Password: 4ty1
+[QScanner](https://pan.baidu.com/s/1LaSBuQGMP9OBBVratkpcxQ?pwd=tq71) Password: tq71
 > 1DM+ QR code scanner tool
 
 ## File Management
 
-[ES File Explorer Lite Version](https://wwbs.lanzoub.com/ipGXc0i81zxg) Password: 7489
+[ES File Explorer Lite Version](https://pan.baidu.com/s/1lCWkZfu00DaTc7SpZ0qemw?pwd=vwaa) Password: vwaa
 
 ## Social
 
 [WeChat](https://weixin.qq.com/)
 
-[QQ Lite Version](https://wwbs.lanzoub.com/iRsrW0im9s2f) Password: bvqu
-> The major version of QQ Channel is a promising new endeavor.
+[QQ](https://im.qq.com/index/)
+> QQ Channel is a promising new endeavor.
 
 [Telegram](https://telegram.org/apps)
 
@@ -100,16 +101,16 @@ star: false
 
 [Jike](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
 
-[Baidu Tieba Lite Version](https://wwbs.lanzoub.com/iAOzJ0io2o8h) Password: 8207
+[Baidu Tieba Lite Version](https://pan.baidu.com/s/16NS2ODXsQzdbVMi-2grgiQ?pwd=25t8) Password: 25t8
 
 [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 [Douban](https://douban.com/doubanapp/)
 > An extremely advanced rental platform
 
-[Hupu Lite Version](https://wwbs.lanzoub.com/ifne10io38cb) Password: 3cuq
+[Hupu Lite Version](https://pan.baidu.com/s/1jVq7xGB-OjlMzmxIumue5Q?pwd=pt4h) Password: pt4h
 
-[Zhihu-with-module](https://wwbs.lanzoub.com/iinFz0imbcuj) Password: a7gb
+[Zhihu-with-module](https://pan.baidu.com/s/1cujf9AVMTt39OyczV7ub9Q?pwd=v8hu) Password: v8hu
 
 [Quora](https://play.google.com/store/apps/details?id=com.quora.android)
 
@@ -125,7 +126,7 @@ star: false
 
 [QQ Music Lite Version](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
 
-[Spotify](https://wwbs.lanzoub.com/iwrcn118t7pc) Password: 1c56
+[Spotify](https://pan.baidu.com/s/1lIqagqsYfuDh_ccxa2FlkA?pwd=mdmm) Password: mdmm
 
 [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
@@ -135,15 +136,15 @@ star: false
 
 [Google Camera](https://www.xda-developers.com/google-camera-port-hub/)
 
-[Qingyan Camera](https://wwbs.lanzoub.com/i9SCR0lm0x5c) Password: 6gv6
+[Qingyan Camera](https://pan.baidu.com/s/17nE-Fcr0f3TPaBpbHY_04Q?pwd=x96o) Password: x96o
 
-[Snapseed](https://wwbs.lanzoub.com/iDjHo0in6hlg) Password: f14x
+[Snapseed](https://pan.baidu.com/s/1ftgvbDiCzhqDgtfUhViPdA?pwd=bjew) Password: bjew
 
-[Xingtu](https://wwbs.lanzoub.com/ij9I30lm3waj) Password: a8w2
+[Xingtu](https://pan.baidu.com/s/1CNbdFi4jKTYR5QxuAB1KZA?pwd=dq8d) Password: dq8d
 
-[Graffiti](https://wwz.lanzoue.com/ijtKm1tuz30j) Password: 1fr3
+[Graffiti](https://pan.baidu.com/s/1BVKbI7zIxFnvMtljPdri-Q?pwd=5hdn) Password: 5hdn
 
-[Jianying](https://wwbs.lanzoub.com/iAZF00lm3yne) Password: 80rp
+[Jianying](https://pan.baidu.com/s/1M5WMEC1QPD9bajafAancUg?pwd=jx57) Password: jx57
 
 ## Entertainment
 
@@ -168,7 +169,7 @@ star: false
 
 ## Game
 
-[Dice](https://wwz.lanzoue.com/i1T5x1tuznyd) Password: g62k
+[Dice](https://pan.baidu.com/s/1eiDFKfAwq-dWoCmIlaQKbA?pwd=c87h) Password: c87h
 
 ## Shopping
 
@@ -188,9 +189,9 @@ star: false
 
 ## Travel
 
-[Gaode Maps Lite Version](https://wwbs.lanzoub.com/ij9js0io52wh) Password: 7x2v
+[Gaode Maps Lite Version](https://pan.baidu.com/s/1gOzD4k4_ky2v8YUYaKyRjA?pwd=76rv) Password: 76rv
 
-[Baidu Maps Lite Version](https://wwbs.lanzoub.com/i1OMv0io4u5c) Password: ck7a
+[Baidu Maps Lite Version](https://pan.baidu.com/s/1afATgk9RbMcXByKQnMHPuw?pwd=b5gt) Password: b5gt
 
 [Google Map](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
@@ -201,20 +202,18 @@ star: false
 [NetEase Youdao Dictionary](http://cidian.youdao.com/mobile.html)
 > While it may not be the most user-friendly, I still choose Youdao Dictionary due to my attachment to the Youdao Cloud Notes ecosystem. However, for vocabulary learning, I would recommend [Roots and Affixes Dictionary](http://www.dicts.cn/dictword20181/download.html).
 
-[Super Calculator](https://wwbs.lanzoub.com/i5Kyz0zr3f0b) Password: dg9t
+[Super Calculator](https://pan.baidu.com/s/1CbG2qe77B6ahR8pc9Q3OXw?pwd=7i56) Password: 7i56
 
 [Youdao Cloud Notes](https://note.youdao.com/note-download/)
 > A cross-platform note-taking and article bookmarking tool, Youdao Cloud Notes now also supports mind maps and tables. It is a great knowledge aggregation tool.
 
-[WPS Office Professional Edition](https://wwbs.lanzoub.com/iuSKJ0inxg6h) Password: c0zi
-
-[Universal activation key for WPS Office Professional Edition](https://wwbs.lanzoub.com/iI1bi0inxjod)
+[WPS Office Professional Edition](https://pan.baidu.com/s/1D6ZlvYb40w6jpoiJttqihA?pwd=xi86) Password: xi86
 
 ## Reading
 
 [Today's Headlines Lite Version](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=ENC-UID-MS4wLjABAAAAhglHozAGbWyvsE-4PIcj5CI8eWeY_OfD8kMhVHU8dk4&task_id=102&aid=35&enter_from=largefission&enter_from=task_detail&invite_type=largefission&invite_code=Q015415708&invite_money=10800)
 
-[Today's Hot List Lite Version](https://wwbs.lanzoub.com/iPm7c0iylnpc) Password: dw1r
+[Today's Hot List Lite Version](https://pan.baidu.com/s/1Cv5cbRsbLicHZrUixIWWoQ?pwd=p4yu) Password: p4yu
 
 ## Utilities
 
@@ -236,14 +235,14 @@ star: false
 [Scene5](https://www.coolapk.com/apk/com.omarea.vtools)
 > An all-in-one system settings tool
 
-[Scene4](https://wwbs.lanzoub.com/inxtd0igwfuh) Password: i5y6
+[Scene4](https://pan.baidu.com/s/1KjMH-ASbsOfSSWOPW4gkcQ?pwd=qw4i) Password: qw4i
 
-[Scene Advanced Settings](https://wwbs.lanzoub.com/itLHL0ih54sd) Password: 67ze
+[Scene Advanced Settings](https://pan.baidu.com/s/1GAS7M9YE0_8r9T4bP4rdNg?pwd=5mbu) Password: 5mbu
 
 [Thanox](https://www.coolapk.com/apk/github.tornaco.android.thanos)
 > An all-in-one app tuning tool
 
-[DevCheck](https://wwbs.lanzoub.com/iTMGh0ij52fa) Password: 1fqi
+[DevCheck](https://pan.baidu.com/s/1yrQ8FEcL7dlnq1YP7TMeCw?pwd=175r) Password: 175r
 > View device information
 
 [Blocker](https://www.coolapk.com/apk/com.merxury.blocker)
@@ -252,26 +251,26 @@ star: false
 [LibChecker](https://www.coolapk.com/apk/com.absinthe.libchecker)
 > Viewing services and activities of apps, used in conjunction with a blocker
 
-[Greenify](https://wwbs.lanzoub.com/itzNk0ijvk9i) Password: bbf6
+[Greenify](https://pan.baidu.com/s/145mYRdy4pBhI7UFHhonYNA?pwd=0y5b) Password: 0y5b
 > Supports Android 13, an essential app hibernation tool for near-stock Android systems.
 
 [Nevolution](https://www.coolapk.com/apk/com.oasisfeng.nevo)
 > Notification bar enhancement, such as replying to WeChat messages directly from the notification.
 
-[Titanium Backup](https://wwbs.lanzoub.com/ibbwj0igvrdg) Password: dkgv
+[Titanium Backup](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) Password: y5n0
 
-[Quicker Push Tool](https://wwbs.lanzoub.com/iVNZJ0it2wda) Password: btq7
+[Quicker Push Tool](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) Password: ho2m
 > Used in conjunction with the push service feature of [Quicker](https://getquicker.net/Download) on Windows.
 
-[WiFi Master Key](https://wwbs.lanzoub.com/iBzhE0lnoo8b) Password: boyt
+[WiFi Master Key](https://pan.baidu.com/s/1viwU1HJE9DLUAVD5yXe1tw?pwd=4a30) Password: 4a30
 
 ## Ad-block
 
 [Li Tiaotiao](https://wwe.lanzouw.com/b01v0g3wj) Password: 1233
 
-[Yi Zhi Chan](https://wwbs.lanzoub.com/iJFee0xhq90b) Password: aeno
+[Yi Zhi Chan](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) Password: yxfd
 
-[AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) Password: 59vb
+[AdGuard](https://pan.baidu.com/s/1b01aFCnXTJOEnFZFhBeQug?pwd=0v8v) Password: 0v8v
 > An all-around ad-blocking tool
 
 ## Auto Tasks
@@ -287,36 +286,30 @@ Password: OJBK
 [Automatic email sending plugin](https://nalankang.lanzouo.com/b00utusqj)
 Password: OJBK
 
-[Xiao Zhuanfa](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) Password: 466h
+[Xiao Zhuanfa](https://pan.baidu.com/s/1Rx1SFEH1Y5PJx-n7t_Ta1w?pwd=u2js) Password: u2js
 > It is possible to read the text messages and missed calls received on the backup phone and forward them to the main phone's WeChat.
 
 ## Virtual Location
 
-[GPS JoyStick Lightning Bird UI Version](https://wws.lanzoui.com/iwQEbmj70kd) Password: 1ibx
-
-[GPS JoyStick Frozen Bird UI Version](https://wws.lanzoui.com/iWa8ymj70ib) Password: btam
-
-[GPS JoyStick Flame Bird UI Version](https://wws.lanzoui.com/iz83Zmj70gj) Password: dhir
-> The three versions have the same functionality, all of which are ad-free and full-featured versions, with only UI differences. They are used for flying in PokemonGo. For detailed information, please refer to [Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd).
+[GPS JoyStick_Customized UI Version](https://pan.baidu.com/s/19h_rb4i9c3t6h8LShXVc3g?pwd=gqvu) Password: gqvu
+> It is used for flying in PokemonGo. For detailed information, please refer to [Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd).
 
 ## Virtual Machine
 
-[VMOS Pro Lite Version](https://wwbs.lanzoub.com/iwHoo0imgccb) Password: gtwp
+[VMOS Pro Lite Version](https://pan.baidu.com/s/1DCwUThN43ChRPb0VwrVG4Q?pwd=36ia) Password: 36ia
 > Supports Android 13 on the host machine
-
-[VMOS Assistant](https://wwbs.lanzoub.com/iaCbh0imgcaj) Password: d9g8
 
 [Lianyao Hu](https://www.coolapk.com/apk/com.oasisfeng.island)
 > App Cloner
 
 ## Game Modifier
 
-[GameGuardian](https://wwbs.lanzoub.com/iaqq20igvqxa) Password: 4rvw
+[GameGuardian](https://pan.baidu.com/s/1vFbGWKv7y1tr2nUKKhxJlw?pwd=xuk9) Password: xuk9
 
-[Polygon#](https://wwbs.lanzoub.com/i3Htn0i7zpta) Password: f7z8
+[Polygon#](https://pan.baidu.com/s/1iEY6Ep-x9PeexQ70nHdFNw?pwd=aqyy) Password: aqyy
 > The god-level assistant plugin for PokemonGo, for detailed information, please refer to [Android 玩机技巧 | PokemonGo辅助插件](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd).
 
-[WeCatch](https://wwbs.lanzoub.com/iQHLz0i7zmkd) Password: 8pjz
+[WeCatch](https://pan.baidu.com/s/1aBLCv6xdz9tlJy77tiajNQ?pwd=h9td) Password: h9td
 > Tracking Pokemon and teleporting with precision.
 
 ## Terminal
@@ -354,3 +347,13 @@ Password: OJBK
 [NP Manager](https://nalankang.lanzouo.com/b00u7565e) Password: OJBK
 
 [MT Manager](https://www.coolapk.com/apk/bin.mt.plus)
+
+[AndroidKiller](https://pan.baidu.com/s/1EQ4Wn-v7V0JtMsJfcGkQCw?pwd=m4ia) Password: m4ia
+> Android reverse engineering tool, runs in Windows environment.
+
+## Remote Control
+
+[Device Assistant](hhttps://pan.baidu.com/s/14zLIu96A0iBDpNR3OxMWyA?pwd=sys5) Password: sys5
+
+[Androidscreen](https://pan.baidu.com/s/1LVtBOCm4RukmHJppReMScw?pwd=agnu) Password: agnu
+> Android screen mirroring tool, runs in a Windows environment.

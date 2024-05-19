@@ -4,7 +4,7 @@ date: 2023-01-28
 category:
   - 超级应用集
 tag:
-  - 应用
+  - iOS
 star: false
 ---
 
@@ -18,6 +18,11 @@ star: false
 4. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
 ![Nandelion](../../image/Nandelion.jpg =200x)
+
+## 应用商店
+
+[ipadown](https://pan.baidu.com/s/1oezoChQAXOF0jymOtLhbow?pwd=o72r) 提取码：o72r
+> iOS旧版应用下载工具，在Windows环境下运行。
 
 ## 浏览器
 

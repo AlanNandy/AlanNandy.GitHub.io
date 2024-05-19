@@ -11,7 +11,7 @@ projects:
   - icon: folder
     name: Technical Tips
     desc: Sharing some advanced technical tips.
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect
+    link: /en/帖子/玩机技巧
 
   - icon: folder
     name: Super Applications
@@ -21,12 +21,7 @@ projects:
   - icon: folder
     name: Mobile Theme
     desc: Sharing a collection of mobile themes and widgets.
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect
-    
-  - icon: folder
-    name: Wallpapers
-    desc: Sharing some aesthetically pleasing wallpapers from AIGC.
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=3041948870131630083#wechat_redirect
+    link: /en/帖子/手机美化
 
   - icon: note
     name: Good Commodities

@@ -4,7 +4,7 @@ date: 2023-05-28
 category:
   - Super Applications
 tag:
-  - Applications
+  - MacOS
 star: false
 ---
 
@@ -104,7 +104,7 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
 > Flowchart software
 
-[AxureRP](https://url50.ctfile.com/f/16615350-857924676-313741?p=2637) Password: 2637
+[AxureRP](https://www.axure.com/)
 > Prototyping software
 
 [FreeCAD](https://www.freecad.org)

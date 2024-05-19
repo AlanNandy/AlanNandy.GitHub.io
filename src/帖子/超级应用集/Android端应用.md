@@ -4,7 +4,7 @@ date: 2023-01-28
 category:
   - 超级应用集
 tag:
-  - 应用
+  - Android
 star: false
 ---
 
@@ -20,23 +20,23 @@ star: false
 
 ## 输入法
 
-[讯飞输入法清爽版](https://wwbs.lanzoub.com/i65s10i81wsd) 密码:8bzg
+[讯飞输入法清爽版](https://pan.baidu.com/s/17-RD6CR-eXJREq0a4tnM7w?pwd=v5kt) 提取码：v5kt
 
 ## 应用商店
 
-[酷安](https://wwbs.lanzoub.com/ix2Cu0lm02ri) 密码:43ij
+[酷安](https://pan.baidu.com/s/1krEnAWMcByD2Ijj_pNHBjQ?pwd=8kyr) 提取码：8kyr
 > 玩机必备
 
-[酷安 Lite](https://wwbs.lanzoub.com/iceEl0i7yeaj) 密码:ao1f
+[酷安 Lite](https://pan.baidu.com/s/14yiNz461434JvAr6wZsSJA?pwd=tee5) 提取码：tee5
 
 [TapTap](https://www.taptap.cn/mobile)
 > 主要用来找攻略的游戏平台，不过内容专一性肯定不如各游戏厂家自建平台，如[网易大神](https://ds.163.com/download/)、米哈游[米游社](https://www.miyoushe.com/)。
 
-[Google Play](https://wwbs.lanzoub.com/iDQHP0in0tbc) 密码:8hk3
+[Google Play](https://pan.baidu.com/s/1eAAFOHsYkWQX_6Y7Sopo3g?pwd=uxav) 提取码：uxav
 
-[谷歌安装器](https://wws.lanzoui.com/iWkfdmjcw2h) 密码:1ids
+[谷歌安装器](https://pan.baidu.com/s/1_EXASKzFec4MBv_Kf2bx5Q?pwd=ssxo) 提取码：ssxo
 
-[APKPure](https://wwbs.lanzoub.com/iP9FW0lm2gbi) 密码:7bv3
+[APKPure](https://apkpure.com/)
 > 第三方谷歌应用商店
 
 ## 浏览器
@@ -48,15 +48,15 @@ star: false
 [海阔视界](https://haikuo.lanzoui.com/u/GoldRiver)
 > 一个综合功能爆炸的应用，浏览器只是附属品同时支持Via与油猴的插件。
 
-[v2rayNG](https://wwbs.lanzoub.com/io1MO0xel4jc) 密码:8opt
+[v2rayNG](https://github.com/2dust/v2rayNG/releases)
 > 梯子
 
-[小猫咪](https://wwbs.lanzoub.com/iEkev0xei95a) 密码:5fns
+[小猫咪](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
 > 梯子
 
 ## 网盘
 
-[百度网盘简洁版](https://wwbs.lanzoub.com/iXMDK0imgnej) 密码:2ro2
+[百度网盘简洁版](https://pan.baidu.com/s/1qDn5I7Jm9v_9lSsg8hb4rA?pwd=eqzf) 提取码：eqzf
 
 [Google Drive](https://www.google.com/drive/download/)
 
@@ -65,30 +65,30 @@ star: false
 
 [Dropbox](https://www.dropbox.com/install)
 
-[蓝云](https://wwbs.lanzoub.com/iJbG20imgngb) 密码:1tr1
+[蓝云](https://pan.baidu.com/s/1X2o1_W3gGfVZMDWPu0mtyA?pwd=c1md) 提取码：c1md
 > 第三方蓝奏云
 
-[蓝奏云 Lite](https://wwbs.lanzoub.com/imDRN0i7yk0f) 密码:1wbq
+[蓝奏云 Lite](https://pan.baidu.com/s/12UKOhZaVzLNhovjPLMI-Bw?pwd=cihp) 提取码：cihp
 
 ## 下载器
 
-[1DM+](https://wwbs.lanzoub.com/itTbb0i8317i) 密码:aku5
+[1DM+](https://pan.baidu.com/s/141JIvgYeDCrglxfkyEzf6w?pwd=2b0i) 提取码：2b0i
 > 海阔视界等浏览器可以将1DM+绑定为默认下载器，配合油猴插件可以加速某些网盘文件的下载。
 
-[QScanner](https://wwbs.lanzoub.com/izYZW0in16va) 密码:4ty1
+[QScanner](https://pan.baidu.com/s/1LaSBuQGMP9OBBVratkpcxQ?pwd=tq71) 提取码：tq71
 > 1DM+的扫码工具
 
 ## 文件管理
 
-[ES文件浏览器简洁版](https://wwbs.lanzoub.com/ipGXc0i81zxg) 密码:7489
+[ES文件浏览器简洁版](https://pan.baidu.com/s/1lCWkZfu00DaTc7SpZ0qemw?pwd=vwaa) 提取码：vwaa
 
 ## 社交/通讯
 
 [微信](https://weixin.qq.com/)
 > 小而美
 
-[QQ极速版](https://wwbs.lanzoub.com/iRsrW0im9s2f) 密码:bvqu
-> 大版本的QQ频道是不错的新尝试
+[QQ](https://im.qq.com/index/)
+> QQ频道是不错的新尝试
 
 [电报](https://telegram.org/apps)
 > 搭配梯子使用
@@ -108,7 +108,7 @@ star: false
 [即刻](https://m.okjike.com/download?s=ewoidSI6ICI1YmZmNDY3ZmI2NjJlZDAwMTE3OGJlNjUiCn0=)
 > 即吊有表情包生产有限公司
 
-[百度贴吧简洁版](https://wwbs.lanzoub.com/iAOzJ0io2o8h) 密码:8207
+[百度贴吧简洁版](https://pan.baidu.com/s/16NS2ODXsQzdbVMi-2grgiQ?pwd=25t8) 提取码：25t8
 
 [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 > 海外贴吧
@@ -116,9 +116,9 @@ star: false
 [豆瓣](https://douban.com/doubanapp/)
 > 极为先进的租房平台
 
-[虎扑简洁版](https://wwbs.lanzoub.com/ifne10io38cb) 密码:3cuq
+[虎扑简洁版](https://pan.baidu.com/s/1jVq7xGB-OjlMzmxIumue5Q?pwd=pt4h) 提取码：pt4h
 
-[知乎-with-module](https://wwbs.lanzoub.com/iinFz0imbcuj) 密码:a7gb
+[知乎-with-module](https://pan.baidu.com/s/1cujf9AVMTt39OyczV7ub9Q?pwd=v8hu) 提取码：v8hu
 > 分享刚编的故事
 
 [Quora](https://play.google.com/store/apps/details?id=com.quora.android)
@@ -136,7 +136,7 @@ star: false
 
 [QQ音乐简洁版](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
 
-[Spotify](https://wwbs.lanzoub.com/iwrcn118t7pc) 密码:1c56
+[Spotify](https://pan.baidu.com/s/1lIqagqsYfuDh_ccxa2FlkA?pwd=mdmm) 提取码：mdmm
 
 [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
@@ -146,15 +146,15 @@ star: false
 
 [谷歌相机](https://www.xda-developers.com/google-camera-port-hub/)
 
-[轻颜相机](https://wwbs.lanzoub.com/i9SCR0lm0x5c) 密码:6gv6
+[轻颜相机](https://pan.baidu.com/s/17nE-Fcr0f3TPaBpbHY_04Q?pwd=x96o) 提取码：x96o
 
-[Snapseed](https://wwbs.lanzoub.com/iDjHo0in6hlg) 密码:f14x
+[Snapseed](https://pan.baidu.com/s/1ftgvbDiCzhqDgtfUhViPdA?pwd=bjew) 提取码：bjew
 
-[醒图](https://wwbs.lanzoub.com/ij9I30lm3waj) 密码:a8w2
+[醒图](https://pan.baidu.com/s/1CNbdFi4jKTYR5QxuAB1KZA?pwd=dq8d) 提取码：dq8d
 
-[快涂](https://wwz.lanzoue.com/ijtKm1tuz30j) 密码:1fr3
+[快涂](https://pan.baidu.com/s/1BVKbI7zIxFnvMtljPdri-Q?pwd=5hdn) 提取码：5hdn
 
-[剪映](https://wwbs.lanzoub.com/iAZF00lm3yne) 密码:80rp
+[剪映](https://pan.baidu.com/s/1M5WMEC1QPD9bajafAancUg?pwd=jx57) 提取码：jx57
 
 ## 图片/视频
 
@@ -184,7 +184,7 @@ star: false
 
 ## 游戏/娱乐
 
-[摇骰子](https://wwz.lanzoue.com/i1T5x1tuznyd) 密码:g62k
+[摇骰子](https://pan.baidu.com/s/1eiDFKfAwq-dWoCmIlaQKbA?pwd=c87h) 提取码：c87h
 
 ## 购物/生活
 
@@ -204,9 +204,9 @@ star: false
 
 ## 地图导航
 
-[高德地图简洁版](https://wwbs.lanzoub.com/ij9js0io52wh) 密码:7x2v
+[高德地图简洁版](https://pan.baidu.com/s/1gOzD4k4_ky2v8YUYaKyRjA?pwd=76rv) 提取码：76rv
 
-[百度地图简洁版](https://wwbs.lanzoub.com/i1OMv0io4u5c) 密码:ck7a
+[百度地图简洁版](https://pan.baidu.com/s/1afATgk9RbMcXByKQnMHPuw?pwd=b5gt) 提取码：b5gt
 
 [Google Map](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
@@ -218,21 +218,19 @@ star: false
 [网易有道词典](http://cidian.youdao.com/mobile.html)
 > 其实并不好用，但介于用有道云笔记的生态强迫症就选择了有道词典，背单词更推荐[词根词缀字典](http://www.dicts.cn/dictword20181/download.html)。
 
-[超级计算器](https://wwbs.lanzoub.com/i5Kyz0zr3f0b) 密码:dg9t
+[超级计算器](https://pan.baidu.com/s/1CbG2qe77B6ahR8pc9Q3OXw?pwd=7i56) 提取码：7i56
 
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 
-[WPS Office 专业版](https://wwbs.lanzoub.com/iuSKJ0inxg6h) 密码:c0zi
-
-[WPS Office 专业版通用激活密钥](https://wwbs.lanzoub.com/iI1bi0inxjod)
+[WPS Office 专业版](https://pan.baidu.com/s/1D6ZlvYb40w6jpoiJttqihA?pwd=xi86) 提取码：xi86
 
 ## 新闻/读书
 
 [今日头条极速版](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=ENC-UID-MS4wLjABAAAAhglHozAGbWyvsE-4PIcj5CI8eWeY_OfD8kMhVHU8dk4&task_id=102&aid=35&enter_from=largefission&enter_from=task_detail&invite_type=largefission&invite_code=Q015415708&invite_money=10800)
 > 边刷新闻边赚钱
 
-[今日热榜 Lite](https://wwbs.lanzoub.com/iPm7c0iylnpc) 密码:dw1r
+[今日热榜 Lite](https://pan.baidu.com/s/1Cv5cbRsbLicHZrUixIWWoQ?pwd=p4yu) 提取码：p4yu
 
 ## 通用系统增强工具
 
@@ -254,14 +252,14 @@ star: false
 [Scene5](https://www.coolapk.com/apk/com.omarea.vtools)
 > 全能的系统设置工具
 
-[Scene4](https://wwbs.lanzoub.com/inxtd0igwfuh) 密码:i5y6
+[Scene4](https://pan.baidu.com/s/1KjMH-ASbsOfSSWOPW4gkcQ?pwd=qw4i) 提取码：qw4i
 
-[Scene高级设定](https://wwbs.lanzoub.com/itLHL0ih54sd) 密码:67ze
+[Scene高级设定](https://pan.baidu.com/s/1GAS7M9YE0_8r9T4bP4rdNg?pwd=5mbu) 提取码：5mbu
 
 [Thanox](https://www.coolapk.com/apk/github.tornaco.android.thanos)
 > 全能的应用调教工具
 
-[DevCheck](https://wwbs.lanzoub.com/iTMGh0ij52fa) 密码:1fqi
+[DevCheck](https://pan.baidu.com/s/1yrQ8FEcL7dlnq1YP7TMeCw?pwd=175r) 提取码：175r
 > 查看设备信息
 
 [Blocker](https://www.coolapk.com/apk/com.merxury.blocker)
@@ -270,27 +268,27 @@ star: false
 [LibChecker](https://www.coolapk.com/apk/com.absinthe.libchecker)
 > 查看App的服务、活动，配合blocker使用
 
-[绿色守护](https://wwbs.lanzoub.com/itzNk0ijvk9i) 密码:bbf6
+[绿色守护](https://pan.baidu.com/s/145mYRdy4pBhI7UFHhonYNA?pwd=0y5b) 提取码：0y5b
 > 支持Android 13，类原生系统必备的应用休眠工具
 
 [Nevolution](https://www.coolapk.com/apk/com.oasisfeng.nevo)
 > 通知栏增强，比如在通知里回复微信
 
-[钛备份](https://wwbs.lanzoub.com/ibbwj0igvrdg) 密码:dkgv
+[钛备份](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) 提取码：y5n0
 
-[Quicker 推送工具](https://wwbs.lanzoub.com/iVNZJ0it2wda) 密码:btq7
+[Quicker 推送工具](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) 提取码：ho2m
 > 搭配Windows端[Quicker](https://getquicker.net/Download)的推送服务功能使用
 
-[WiFi Master Key 万能钥匙](https://wwbs.lanzoub.com/iBzhE0lnoo8b) 密码:boyt
+[WiFi Master Key 万能钥匙](https://pan.baidu.com/s/1viwU1HJE9DLUAVD5yXe1tw?pwd=4a30) 提取码：4a30
 
 ## 去广告工具
 
 [李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
 
-[一指禅](https://wwbs.lanzoub.com/iJFee0xhq90b) 密码：aeno
+[一指禅](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) 提取码：yxfd
 > [一指禅电报群](https://t.me/xad_fire)
 
-[AdGuard](https://wwbs.lanzoub.com/iEnmW0i83t0j) 密码:59vb
+[AdGuard](https://pan.baidu.com/s/1b01aFCnXTJOEnFZFhBeQug?pwd=0v8v) 提取码：0v8v
 > 较全能的广告屏蔽工具
 
 ## 自动任务工具
@@ -306,36 +304,30 @@ star: false
 [自动发邮件插件](https://nalankang.lanzouo.com/b00utusqj)
 密码:OJBK
 
-[小转发](https://wwbs.lanzoub.com/iG4Tu0xhqmxc) 密码：466h
+[小转发](https://pan.baidu.com/s/1Rx1SFEH1Y5PJx-n7t_Ta1w?pwd=u2js) 提取码：u2js
 > 可以读取备用手机收到的短信和未接来电，并转发到主力手机的微信上。
 
 ## 模拟定位
 
-[GPS JoyStick 闪电鸟UI版本](https://wws.lanzoui.com/iwQEbmj70kd) 密码:1ibx
-
-[GPS JoyStick 急冻鸟UI版本](https://wws.lanzoui.com/iWa8ymj70ib) 密码:btam
-
-[GPS JoyStick 火焰鸟UI版本](https://wws.lanzoui.com/iz83Zmj70gj) 密码:dhir
-> 三个版本功能一致，均为去广告全功能版本，仅UI差异。用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)
+[GPS JoyStick_UI定制版本](https://pan.baidu.com/s/19h_rb4i9c3t6h8LShXVc3g?pwd=gqvu) 提取码：gqvu
+> 用于PokemonGo开飞机，详细介绍请查看[Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd)
 
 ## 虚拟机/应用多开
 
-[VMOS Pro 简洁版](https://wwbs.lanzoub.com/iwHoo0imgccb) 密码:gtwp
+[VMOS Pro 简洁版](https://pan.baidu.com/s/1DCwUThN43ChRPb0VwrVG4Q?pwd=36ia) 提取码：36ia
 > 支持宿主机Android 13
-
-[VMOS助手](https://wwbs.lanzoub.com/iaCbh0imgcaj) 密码:d9g8
 
 [炼妖壶](https://www.coolapk.com/apk/com.oasisfeng.island)
 > 应用多开
 
 ## 游戏修改器
 
-[GameGuardian](https://wwbs.lanzoub.com/iaqq20igvqxa) 密码:4rvw
+[GameGuardian](https://pan.baidu.com/s/1vFbGWKv7y1tr2nUKKhxJlw?pwd=xuk9) 提取码：xuk9
 
-[Polygon#](https://wwbs.lanzoub.com/i3Htn0i7zpta) 密码:f7z8
+[Polygon#](https://pan.baidu.com/s/1iEY6Ep-x9PeexQ70nHdFNw?pwd=aqyy) 提取码：aqyy
 > PokemonGo的神级辅助插件，详细介绍可查看[Android 玩机技巧 | PokemonGo辅助插件](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd)
 
-[WeCatch](https://wwbs.lanzoub.com/iQHLz0i7zmkd) 密码:8pjz
+[WeCatch](https://pan.baidu.com/s/1aBLCv6xdz9tlJy77tiajNQ?pwd=h9td) 提取码：h9td
 > 追踪Pokemon，以精准传送。
 
 ## 终端模拟器
@@ -373,3 +365,13 @@ star: false
 [NP管理器](https://nalankang.lanzouo.com/b00u7565e) 密码:OJBK
 
 [MT管理器](https://www.coolapk.com/apk/bin.mt.plus)
+
+[AndroidKiller](https://pan.baidu.com/s/1EQ4Wn-v7V0JtMsJfcGkQCw?pwd=m4ia) 提取码：m4ia
+> 安卓逆向工具，在Windows环境下运行。
+
+## 远程操控
+
+[搞机助手](https://pan.baidu.com/s/14zLIu96A0iBDpNR3OxMWyA?pwd=sys5) 提取码：sys5
+
+[Androidscreen](https://pan.baidu.com/s/1LVtBOCm4RukmHJppReMScw?pwd=agnu) 提取码：agnu
+> 安卓投屏工具，在Windows环境下运行。

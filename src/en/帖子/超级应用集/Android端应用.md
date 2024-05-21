@@ -267,11 +267,16 @@ star: false
 ## Ad-block
 
 [Li Tiaotiao](https://wwe.lanzouw.com/b01v0g3wj) Password: 1233
+> Discontinued
 
 [Yi Zhi Chan](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) Password: yxfd
+> Discontinued. See [Yizhichan Telegram Group](https://t.me/xad_fire) for details.
+
+[GKD](https://github.com/gkd-kit/gkd/releases)
+> A customizable screen clicking tool with subscription rules. Recommended: [GKD Third-Party Subscription Rules](https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5).
 
 [AdGuard](https://pan.baidu.com/s/1b01aFCnXTJOEnFZFhBeQug?pwd=0v8v) Password: 0v8v
-> An all-around ad-blocking tool
+> A more versatile ad-blocking tool that directly removes ads through a proxy method. It may conflict with VPNs. For details on how to coexist, see [Android Tips | Ad Blocking Tools](https://mp.weixin.qq.com/s/UAZ-Zva4sJ1icqWpsYZIsQ).
 
 ## Auto Tasks
 

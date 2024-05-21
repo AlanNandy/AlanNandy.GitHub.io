@@ -284,12 +284,16 @@ star: false
 ## 去广告工具
 
 [李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
+> 已下架
 
 [一指禅](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) 提取码：yxfd
-> [一指禅电报群](https://t.me/xad_fire)
+> 已下架，详见[一指禅电报群](https://t.me/xad_fire)
+
+[GKD](https://github.com/gkd-kit/gkd/releases)
+> 可订阅规则的自定义屏幕点击工具，推荐[GKD 第三方订阅规则](https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5)
 
 [AdGuard](https://pan.baidu.com/s/1b01aFCnXTJOEnFZFhBeQug?pwd=0v8v) 提取码：0v8v
-> 较全能的广告屏蔽工具
+> 较全能的广告屏蔽工具,通过代理的方式直接去广告,会与梯子冲突，​共存方式详见[Android 玩机技巧 | 抗广告工具](https://mp.weixin.qq.com/s/UAZ-Zva4sJ1icqWpsYZIsQ)。
 
 ## 自动任务工具
 

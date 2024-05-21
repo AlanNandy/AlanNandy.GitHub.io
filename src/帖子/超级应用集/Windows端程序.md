@@ -192,6 +192,9 @@ star: false
 
 [DiskGenius 磁盘工具](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) 提取码：0ced
 
+[Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
+> 能让Windows支持LDAC蓝牙编解码协议。额外的还有[Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/)可以监控蓝牙设备的电量，以及[Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/)扩展Windows的蓝牙功能。
+
 ## 音乐/播客
 
 [Foobar2000 汉化整合版](https://pan.baidu.com/s/1rm3gSuQ5ihQrtQMkYdnzpA?pwd=j6ul) 提取码：j6ul

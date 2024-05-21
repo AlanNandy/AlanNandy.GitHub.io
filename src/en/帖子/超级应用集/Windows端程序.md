@@ -187,6 +187,9 @@ star: false
 
 [DiskGenius](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) Password: 0ced
 
+[Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
+> Enables Windows to support the LDAC Bluetooth codec protocol. Additionally, there is the [Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/) which can monitor the battery level of Bluetooth devices, and the [Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/) which extends the Bluetooth capabilities of Windows.
+
 ## Muisc
 
 [Foobar2000](https://pan.baidu.com/s/1rm3gSuQ5ihQrtQMkYdnzpA?pwd=j6ul) Password: j6ul

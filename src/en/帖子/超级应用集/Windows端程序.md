@@ -45,7 +45,7 @@ star: false
 [v2rayN](https://v2rayn.org/v2rayn-download/)
 
 [Clash](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) Password: xytc
-> If you are unable to access the Microsoft Store after using Clash, please go to Clash's settings, check the UWP tool, and select the Microsoft Store.
+> If you are unable to access the Microsoft Store after using Clash, please go to Clash's settings, check the UWP tool, and select the Microsoft Store. For more detailed usage instructions, please refer to the [Clash for Windows documentation](https://doc.clashforwindows.app/).
 
 ## Cloud Storage
 

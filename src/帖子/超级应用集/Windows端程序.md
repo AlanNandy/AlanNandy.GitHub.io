@@ -47,7 +47,7 @@ star: false
 > 梯子
 
 [小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码：xytc
-> 使用小猫咪后如果Microsoft Store无法访问，请进入小猫咪的设置中，打卡UWP工具，将Microsoft Store勾选上。
+> 使用小猫咪后如果Microsoft Store无法访问，请进入小猫咪的设置中，打卡UWP工具，将Microsoft Store勾选上。其它详细使用说明请查看[Clash for Windows文档](https://doc.clashforwindows.app/)。
 
 ## 网盘
 

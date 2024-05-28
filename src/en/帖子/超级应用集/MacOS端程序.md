@@ -51,7 +51,7 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 > Tab management extension
 
 [Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) Password: o518
-> Network proxy, similar to this is [V2RayX](https://github.com/Cenmrev/V2RayX)
+> Network proxy, similar to this is [V2RayX](https://github.com/Cenmrev/V2RayX). Please refer to the [Clash for Windows documentation](https://doc.clashforwindows.app/) for detailed usage instructions of Clash.
 
 ## Cloud Storage
 

@@ -51,7 +51,7 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 > 标签页管理插件
 
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
-> 梯子，类似的还有[V2RayX](https://github.com/Cenmrev/V2RayX)
+> 梯子，类似的还有[V2RayX](https://github.com/Cenmrev/V2RayX)。小猫咪的详细使用说明请查看[Clash for Windows文档](https://doc.clashforwindows.app/)。
 
 ## 网盘
 

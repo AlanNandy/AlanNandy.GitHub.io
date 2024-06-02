@@ -13,9 +13,67 @@ star: false
 ## 前言
 
 1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
-2. 更多[手机美化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+2. 更多[手机美化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2681301578011951105#wechat_redirect)请关注公众号：
+  
+  ![Nandelion](../../image/Nandelion.jpg =200x)
+
+## Scriptable添加桌面小组件教程
+
+1. 请确保已从App Store下载安装[Scriptable](https://apps.apple.com/app/id1405459188)应用。
+
+2. 按照布局需要将Scriptable的小组件添加到桌面。
+
+    1. 长按桌面,点击右上角加号添加。
+
+      ![长按桌面,点击右上角加号添加](../../image/Scriptable添加桌面小组件教程/Scriptable添加桌面小组件教程_1.png =200x)
+
+    2. 在小组件列表中找到Scriptable。
+
+      ![在小组件列表中找到Scriptable](../../image/Scriptable添加桌面小组件教程/Scriptable添加桌面小组件教程_2.png =200x)
+        
+    3. 按照布局需要选择小组件尺寸，将其添加到桌面。
+
+      ![按照布局需要选择小组件尺寸，将其添加到桌面](../../image/Scriptable添加桌面小组件教程/Scriptable添加桌面小组件教程_3.png =200x)
+
+    4. 点击/长按小组件。
+
+      ![点击/长按小组件](../../image/Scriptable添加桌面小组件教程/Scriptable添加桌面小组件教程_4.png =200x)
+
+    5. 选取小组件脚本，并将小组件触发的动作改为“Run Script”。
+        > 🔔部分小组件还需要在“Parameter”一栏填写参数。
+
+      ![选取小组件脚本，并将小组件触发的动作改为“Run Script”](../../image/Scriptable添加桌面小组件教程/Scriptable添加桌面小组件教程_5.png =200x)
+
+## iFont添加字体教程
+
+1. 请确保已从App Store下载安装[iFont](https://apps.apple.com/app/id1173222289)应用。
+
+2. 下载ttf字体包并安装到iOS。
+
+    1. 打开iFont，在“Font Finder”的页面中点击“Open File”。
+
+      ![打开iFont，在“Font Finder”的页面中点击“Open File”](../../image/iFont添加字体教程/iFont添加字体教程_1.png =200x)
+
+    2. 找到对应的ttf字体包，选择并点击右上角的“Open”打开。
+
+      ![找到对应的ttf字体包，选择并点击右上角的“Open”打开](../../image/iFont添加字体教程/iFont添加字体教程_2.png =200x)
+
+    3. 回到iFont首页，找到对应的字体包，点击“install”安装。
+
+      ![回到iFont首页，找到对应的字体包，点击“install”安装](../../image/iFont添加字体教程/iFont添加字体教程_3.png =200x)
+
+    4. 提示下载配置文件，点击“Allow”同意。
+
+      ![提示下载配置文件，点击“Allow”同意"](../../image/iFont添加字体教程/iFont添加字体教程_4.png =200x)
+
+    5. 随后iFont会指引你找到“系统-通用-VPN与设备管理”的页面，在此页面找到对应的字体包配置文件，点击进入。
+
+      ![随后iFont会指引你找到“系统-通用-VPN与设备管理”的页面，在此页面找到对应的字体包配置文件，点击进入](../../image/iFont添加字体教程/iFont添加字体教程_5.png =200x)
+
+    6. 点击右上角“install”安装即可。
+    
+      ![点击右上角“install”安装即可](../../image/iFont添加字体教程/iFont添加字体教程_6.png =200x)
 
 ## Bing必应每日壁纸主题
 

@@ -285,11 +285,10 @@ star: false
 
 ## 去广告工具
 
-[李跳跳](https://wwe.lanzouw.com/b01v0g3wj) 密码:1233
-> 已下架
+[李跳跳](https://pan.baidu.com/s/17WIbzmK15W6bPpHFvOMYCA?pwd=ifsd) 密码:ifsd
 
 [一指禅](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) 提取码：yxfd
-> 已下架，详见[一指禅电报群](https://t.me/xad_fire)
+> 详见[一指禅电报群](https://t.me/xad_fire)
 
 [GKD](https://github.com/gkd-kit/gkd/releases)
 > 可订阅规则的自定义屏幕点击工具，推荐[GKD 第三方订阅规则](https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5)

@@ -57,7 +57,7 @@ star: false
 > Tab management extension
 
 [Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) Password: o518
-> Network proxy, similar to this is [V2RayX](https://github.com/Cenmrev/V2RayX). Please refer to the [Clash for Windows documentation](https://doc.clashforwindows.app/) for detailed usage instructions of Clash.
+> Network proxy, similar to this is [V2RayX](https://github.com/Cenmrev/V2RayX). Please refer to the [Clash Verge Rev Docs](https://clash-verge-rev.github.io/index.html) for detailed usage instructions of Clash.
 
 ## Cloud Storage
 

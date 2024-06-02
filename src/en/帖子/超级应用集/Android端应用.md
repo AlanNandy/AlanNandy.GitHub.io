@@ -268,11 +268,10 @@ star: false
 
 ## Ad-block
 
-[Li Tiaotiao](https://wwe.lanzouw.com/b01v0g3wj) Password: 1233
-> Discontinued
+[Li Tiaotiao](https://pan.baidu.com/s/17WIbzmK15W6bPpHFvOMYCA?pwd=ifsd) Password: ifsd
 
 [Yi Zhi Chan](https://pan.baidu.com/s/1z-ealqh37LFaVreDFyHmYA?pwd=yxfd) Password: yxfd
-> Discontinued. See [Yizhichan Telegram Group](https://t.me/xad_fire) for details.
+> See [Yizhichan Telegram Group](https://t.me/xad_fire) for details.
 
 [GKD](https://github.com/gkd-kit/gkd/releases)
 > A customizable screen clicking tool with subscription rules. Recommended: [GKD Third-Party Subscription Rules](https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5).

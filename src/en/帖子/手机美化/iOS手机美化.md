@@ -79,7 +79,7 @@ star: false
 
 ### Preview
 
-|![Lock Screen](../../../image/Bing必应每日壁纸主题_1.jpg =200x)|![Desktop & Widgets](../../../image/Bing必应每日壁纸主题_2.jpg =200x)|
+|![Lock Screen](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_1.jpg =200x)|![Desktop & Widgets](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_2.jpg =200x)|
 |---|---|
 |Lock Screen:<br>Automatically updates the lock screen wallpaper at 00:00 every day.|Desktop:<br>Automatically updates the desktop wallpaper at 00:00 every day.<br>Widgets:<br>1. Supports adaptive sizes (large, medium, small).<br>2. Tap the small airplane in the top left corner to download the original image.<br>3. Displays the date and wallpaper title in the bottom left corner.<br>4. The widget defaults to showing Bing's daily wallpaper, automatically updating at 00:00 every day.|
 

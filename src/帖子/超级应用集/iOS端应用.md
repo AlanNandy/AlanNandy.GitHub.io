@@ -13,11 +13,14 @@ star: false
 ## 前言
 
 1. 使用网站的目录或者浏览器的查找功能可以快速定位到需要的资源。
+
 2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装。**本应用集资源均为网络收集且免费分享。**
+
 3. 购买Apple Store礼品卡，可以去支付宝的[PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy)小程序。
+
 4. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../image/Nandelion.jpg =200x)
 
 ## 应用商店
 

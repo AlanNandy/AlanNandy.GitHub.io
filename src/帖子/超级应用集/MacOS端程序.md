@@ -13,20 +13,26 @@ star: false
 ## 前言
 
 1. 使用网站的目录或者“Command-F”查找功能可以快速定位到需要的资源。
+
 2. 本应用集出发点是在于方便个人偶尔刷机装机能更快速检索下载安装，主要为应用精简版、破解版。**本应用集资源均为网络收集且免费分享。**
+
 3. 安装过多应用或者系统语言切换后，Launchpad的应用排序会变乱，可以通过在终端输入以下代码对Launchpad进行重置：
-```bash
-defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
-```
+    ```bash
+    defaults write com.apple.dock ResetLaunchPad -bool TRUE;killall Dock
+    ```
+
 4. 请注意，如果提示已损坏无法安装，请打开Terminal输入下面命令:
-```bash
-sudo xattr -r -d com.apple.quarantine “文件路径”
-```
+    ```bash
+    sudo xattr -r -d com.apple.quarantine “文件路径”
+    ```
+
 5. 更多Safari浏览器扩展可以通过[Safari使用Chrome 扩展](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247484122&idx=1&sn=4232742cb84a9ad916f2b8e61b837b01&chksm=cfd4a113f8a328056db550cab3d96b1cebea05f7c817a19fe7b6eae79db4428648083c37e7b5#rd)的方法编译，可能存在稳定性问题。下载解压后将文件移动到访达的应用程序文件夹中，在Safari的“开发”菜单栏中允许未签名的扩展后，打开扩展并授予访问网站的权限即可。
+
 6. 购买Apple Store礼品卡，可以去支付宝的[PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy)小程序。
+
 7. 更多[玩机技巧](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect)请关注公众号：
 
-![Nandelion](../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../image/Nandelion.jpg =200x)
 
 ## 输入法
 

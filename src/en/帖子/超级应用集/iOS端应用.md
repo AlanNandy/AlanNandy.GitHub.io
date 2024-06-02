@@ -13,11 +13,14 @@ star: false
 ## Preface
 
 1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+
 2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+
 3. To purchase Apple Store gift cards, you can utilize the [PockytShop](https://ur.alipay.com/_3XGfO0S4VxjNAVEYpUfAUy) mini program, which supports Alipay.
+
 4. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
-![Nandelion](../../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## Application Market
 

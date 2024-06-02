@@ -13,9 +13,10 @@ star: false
 ## Preface
 
 1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+
 2. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
-![Nandelion](../../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## Automatically Broadcast Weather Forecast when iPhone Wakes Up Every Day
 

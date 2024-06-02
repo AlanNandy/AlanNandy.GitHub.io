@@ -13,10 +13,12 @@ star: false
 ## Preface
 
 1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+
 2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+
 3. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
-![Nandelion](../../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## Assembling System
 
@@ -72,7 +74,7 @@ star: false
 [Everything](https://pan.baidu.com/s/1UM3qQftrzkkFRw3cucC5Bw?pwd=ljqg) Password: ljqg
 
 [FreeFileSync](https://freefilesync.org/download.php)
-> To create a symbolic link for the User folder on the C drive to another drive using CMD, you can refer to the detailed instructions in [Widnows 玩机技巧 | 运用软链接实现文件搬家](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
+> To create a symbolic link for the User folder on the C drive to another drive using CMD, you can refer to the detailed instructions in [Windows Tips | Use Symbolic Links to Move Files](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483850&idx=1&sn=2336644133730044cc5c68683ed4a281&chksm=cfd4a203f8a32b155dc77bcaecfbc1cc986640d04a8ab174eae1588e1e5000bec87198446dcc#rd)
 
 ## Social
 

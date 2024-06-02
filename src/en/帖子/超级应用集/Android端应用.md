@@ -13,10 +13,12 @@ star: false
 ## Preface
 
 1. Utilize the website's directory or the browser's search functionality to locate the desired resources.
+
 2. The underlying intention behind this collection is to facilitate a quicker reinstallation of the system for personal convenience. It primarily consists of streamlined and cracked versions of applications. **All the resources in this collection have been gathered from the internet and are shared freely.**
+
 3. For more [Digital Product Tips](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDg3NzYwNg==&action=getalbum&album_id=2686321010140561411#wechat_redirect), please follow the official account:
 
-![Nandelion](../../../image/Nandelion.jpg =200x)
+  ![Nandelion](../../../image/Nandelion.jpg =200x)
 
 ## Input Method
 
@@ -297,7 +299,7 @@ Password: OJBK
 ## Virtual Location
 
 [GPS JoyStick_Customized UI Version](https://pan.baidu.com/s/19h_rb4i9c3t6h8LShXVc3g?pwd=gqvu) Password: gqvu
-> It is used for flying in PokemonGo. For detailed information, please refer to [Android 玩机技巧 | PokemonGo飞机新刷机法](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd).
+> It is used for flying in PokemonGo. For detailed information, please refer to [Android Tips | New Method for Spoofing in Pokemon Go](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483749&idx=1&sn=3015b33b91d520c85bc3f1b7cd05cb7e&chksm=cfd4a2acf8a32bbac2d781f783529e7526e824e8a7f308c74cd9bf96bdd80427cf24f83d195c#rd).
 
 ## Virtual Machine
 
@@ -312,7 +314,7 @@ Password: OJBK
 [GameGuardian](https://pan.baidu.com/s/1vFbGWKv7y1tr2nUKKhxJlw?pwd=xuk9) Password: xuk9
 
 [Polygon#](https://pan.baidu.com/s/1iEY6Ep-x9PeexQ70nHdFNw?pwd=aqyy) Password: aqyy
-> The god-level assistant plugin for PokemonGo, for detailed information, please refer to [Android 玩机技巧 | PokemonGo辅助插件](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd).
+> The god-level assistant plugin for PokemonGo, for detailed information, please refer to [Android Tips | PokemonGo Assistant Plugin](https://mp.weixin.qq.com/s?__biz=Mzg5MDg3NzYwNg==&mid=2247483781&idx=1&sn=91b7d27a64791ba87529960718795846&chksm=cfd4a24cf8a32b5a71519cfd15b7d190173431baa57c4c2d36e48942dc64f8b5a0b910ad2835#rd).
 
 [WeCatch](https://pan.baidu.com/s/1aBLCv6xdz9tlJy77tiajNQ?pwd=h9td) Password: h9td
 > Tracking Pokemon and teleporting with precision.

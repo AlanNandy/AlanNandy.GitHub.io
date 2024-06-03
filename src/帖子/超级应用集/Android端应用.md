@@ -148,15 +148,15 @@ star: false
 
 [谷歌相机](https://www.xda-developers.com/google-camera-port-hub/)
 
-[轻颜相机](https://pan.baidu.com/s/17nE-Fcr0f3TPaBpbHY_04Q?pwd=x96o) 提取码：x96o
+[轻颜相机](https://m.ulikecam.com/)
 
 [Snapseed](https://pan.baidu.com/s/1ftgvbDiCzhqDgtfUhViPdA?pwd=bjew) 提取码：bjew
 
-[醒图](https://pan.baidu.com/s/1CNbdFi4jKTYR5QxuAB1KZA?pwd=dq8d) 提取码：dq8d
+[醒图](https://www.retouchpics.com/)
 
 [快涂](https://pan.baidu.com/s/1BVKbI7zIxFnvMtljPdri-Q?pwd=5hdn) 提取码：5hdn
 
-[剪映](https://pan.baidu.com/s/1M5WMEC1QPD9bajafAancUg?pwd=jx57) 提取码：jx57
+[剪映](https://www.capcut.cn/)
 
 ## 图片/视频
 

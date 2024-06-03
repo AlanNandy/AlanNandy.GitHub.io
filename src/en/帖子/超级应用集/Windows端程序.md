@@ -136,7 +136,7 @@ star: false
 [C4D](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) Password: i95m
 
 [Art Creation Launcher](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) Password: lmne
-> Fully supports one-click launch, repair, update, and model download management for Stable Diffusion!
+> Fully supports one-click launch, repair, update, and model download management for Stable Diffusion! Stability-AI also has other open-source products: [Stable Audio](https://github.com/Stability-AI/stable-audio-tools), [StableLM](https://github.com/Stability-AI/StableLM).
 
 [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
 > Open-source Free AI Voice Conversion Software

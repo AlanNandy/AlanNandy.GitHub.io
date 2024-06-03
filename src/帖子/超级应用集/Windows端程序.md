@@ -140,7 +140,7 @@ star: false
 [C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
 
 [绘世启动器](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) 提取码：lmne
-> Stable Diffusion一键启动/修复/更新/模型下载管理全支持！
+> Stable Diffusion一键启动/修复/更新/模型下载管理全支持！Stability-AI还有其它开源产品：[Stable Audio](https://github.com/Stability-AI/stable-audio-tools)、[StableLM](https://github.com/Stability-AI/StableLM)。
 
 [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
 > 开源免费AI语音转换软件

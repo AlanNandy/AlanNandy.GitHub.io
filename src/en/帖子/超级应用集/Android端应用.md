@@ -138,15 +138,15 @@ star: false
 
 [Google Camera](https://www.xda-developers.com/google-camera-port-hub/)
 
-[Qingyan Camera](https://pan.baidu.com/s/17nE-Fcr0f3TPaBpbHY_04Q?pwd=x96o) Password: x96o
+[Qingyan Camera](https://m.ulikecam.com/)
 
 [Snapseed](https://pan.baidu.com/s/1ftgvbDiCzhqDgtfUhViPdA?pwd=bjew) Password: bjew
 
-[Xingtu](https://pan.baidu.com/s/1CNbdFi4jKTYR5QxuAB1KZA?pwd=dq8d) Password: dq8d
+[Xingtu](https://www.retouchpics.com/)
 
 [Graffiti](https://pan.baidu.com/s/1BVKbI7zIxFnvMtljPdri-Q?pwd=5hdn) Password: 5hdn
 
-[Jianying](https://pan.baidu.com/s/1M5WMEC1QPD9bajafAancUg?pwd=jx57) Password: jx57
+[Jianying](https://www.capcut.cn/)
 
 ## Entertainment
 

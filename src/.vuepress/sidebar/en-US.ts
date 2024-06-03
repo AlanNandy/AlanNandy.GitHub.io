@@ -11,17 +11,20 @@ export const enSidebar = sidebar({
         {
           text: "Technical Tips",
           icon: "folder",
-          link: "玩机技巧/",
+          prefix: "玩机技巧/",
+          children: ["iOS玩机技巧.md"]
         },
         {
           text: "Super Applications",
           icon: "folder",
-          link: "超级应用集/",
+          prefix: "超级应用集/",
+          children: ["解忧工具铺.md","Android端应用.md","Android端Xposed模块.md","iOS端应用.md","Windows端程序.md","MacOS端程序.md"]
         },
         {
           text: "Mobile Theme",
           icon: "folder",
-          link: "手机美化/"
+          prefix: "手机美化/",
+          children: ["iOS手机美化.md"]
         },
         {
           text: "Good Commodities",

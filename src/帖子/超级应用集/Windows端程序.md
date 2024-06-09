@@ -212,6 +212,7 @@ star: false
 > 功能全面的媒体播放工具，但个人一般用来播放 IPTV，搭配[TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9)转直播源文件格式。
 
 [ZY Player](https://github.com/Hiram-Wong/ZyPlayer/releases)
+> [源分享](https://github.com/Hiram-Wong/ZyPlayer/discussions/48)
 
 [爱奇艺](https://app.iqiyi.com/pc/player/index.html#pcplayer)
 

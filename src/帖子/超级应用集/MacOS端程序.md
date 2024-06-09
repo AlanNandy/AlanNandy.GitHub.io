@@ -148,7 +148,7 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 [RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002?l=zh-Hans-CN&mt=12)
 > 设置鼠标定时自动点击
 
-[iShot](https://www.better365.cn/ishot.html)
+[iShot](https://pan.baidu.com/s/1QwRkvYAjiFIBvgGdnXjoRg?pwd=571c) 提取码: 571c
 > 截图软件
 
 [iOCR](https://www.better365.cn/iocr.html)

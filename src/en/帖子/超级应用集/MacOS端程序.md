@@ -145,7 +145,7 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 [RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002)
 > Simple auto-clicker
 
-[iShot](https://www.better365.cn/ishot.html)
+[iShot](https://pan.baidu.com/s/1QwRkvYAjiFIBvgGdnXjoRg?pwd=571c) Password: 571c
 > Screenshot software
 
 [iOCR](https://www.better365.cn/iocr.html)

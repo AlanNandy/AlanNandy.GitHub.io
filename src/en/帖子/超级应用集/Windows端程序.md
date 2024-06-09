@@ -207,6 +207,7 @@ star: false
 > A comprehensive media player tool, but personally, I usually use it to play IPTV, paired with [TeleList](https://pan.baidu.com/s/1erWu7-xPX0hnk6mA3lSc3A?pwd=ihx9) to convert live stream source file formats.
 
 [ZY Player](https://github.com/Hiram-Wong/ZyPlayer/releases)
+> [Source Share](https://github.com/Hiram-Wong/ZyPlayer/discussions/48)
 
 [iQiyi](https://app.iqiyi.com/pc/player/index.html#pcplayer)
 

@@ -110,7 +110,7 @@ star: false
 
 1. 从App Store下载安装[iFont](https://apps.apple.com/app/id1173222289)。‍‍
 
-2. 下载[字体](https://apps.apple.com/app/id1173222289)
+2. 下载[庞门正道粗书体](https://pan.baidu.com/s/1Hm17FESycIP_IFwtwQ3AxA?pwd=ji6u) 提取码：ji6u
 
 3. 安装字体，详见[iFont添加字体教程](https://alannandy.github.io/%E5%B8%96%E5%AD%90/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/iOS%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96.html#ifont%E6%B7%BB%E5%8A%A0%E5%AD%97%E4%BD%93%E6%95%99%E7%A8%8B)
 

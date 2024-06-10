@@ -81,19 +81,48 @@ star: false
 
 |![Lock Screen](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_1.jpg =200x)|![Desktop & Widgets](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_2.jpg =200x)|
 |---|---|
-|Lock Screen:<br>Automatically updates the lock screen wallpaper at 00:00 every day.|Desktop:<br>Automatically updates the desktop wallpaper at 00:00 every day.<br>Widgets:<br>1. Supports adaptive sizes (large, medium, small).<br>2. Tap the small airplane in the top left corner to download the original image.<br>3. Displays the date and wallpaper title in the bottom left corner.<br>4. The widget defaults to showing Bing's daily wallpaper, automatically updating at 00:00 every day.|
+|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|Desktop:<br>Automatically updates the desktop wallpaper daily at 00:00.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Small airplane icon in the top left corner to download the original image.<br>3. Displays date and wallpaper title in the bottom left corner.<br>4. Automatically updates the widget wallpaper daily at 00:00.|
 
 ### Installation Guide
 
 1. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
 
-2. Install the "必应每日壁纸主题助手" script via the "必应每日壁纸小组件" shortcut.
-> Send "必应每日壁纸主题" to the WeChat official account @Nandelion to get the shortcut link and import it directly.
+2. Use the "必应每日壁纸主题助手" shortcut to install the "必应每日壁纸小组件" script.
+> Send "必应每日壁纸主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
 
-3. Add Scriptable widgets to your desktop as needed. For details, see [Scriptable Widget Tutorial](https://github.com/AlanNandy/Scriptables#scriptable%E6%B7%BB%E5%8A%A0%E6%A1%8C%E9%9D%A2%E5%B0%8F%E7%BB%84%E4%BB%B6%E6%95%99%E7%A8%8B).
+3. Add the Scriptable widget to your desktop according to your layout needs. See [Scriptable Add Widget to Desktop Tutorial](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
-4. Install the "必应每日壁纸主题助手" shortcut via the "必应每日壁纸" shortcut. Run it after installation.
+4. Use the "必应每日壁纸主题助手" shortcut to install the "必应每日壁纸" shortcut. Run it after successful installation.
 
-5. Create a new automation in iOS Shortcuts: At 00:00 every day, run "Bing Daily Image".
+5. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "必应每日壁纸".
 
-6. This will automatically update the widget, desktop wallpaper, and lock screen to Bing's daily wallpaper every day.
+6. This will automatically change the widget, desktop wallpaper, and lock screen to the Bing Daily Wallpaper every day.
+
+## Today's Poetry · Ancient Style Girl Theme
+
+### Preview
+
+|![Lock Screen](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_1.jpg =200x)|![Desktop & Widgets](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_2.jpg =200x)|
+|---|---|
+|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|Desktop:<br>The desktop background is rice paper color.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
+
+### Installation Guide
+
+1. Download and install [iFont](https://apps.apple.com/app/id1173222289) from the App Store.‍‍
+
+2. Download [Pangmen Zhengdao Crude Book Font](https://pan.baidu.com/s/1Hm17FESycIP_IFwtwQ3AxA?pwd=ji6u) Extraction code: ji6u
+
+3. Install the font. See [iFont Add Font Tutorial](#ifont-font-installation-tutorial) for details.
+
+4. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
+
+5. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女小组件" script.
+> Send "今日诗词·古风少女主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
+
+6. Add the Scriptable widget to your desktop according to your layout needs. See [Scriptable Add Widget to Desktop Tutorial](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
+
+7. Use the "今日诗词·古风少女主题助手" shortcut to set the desktop background.
+
+8. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女壁纸" shortcut. Run it after successful installation.
+
+9. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词·古风少女壁纸".

@@ -77,11 +77,10 @@ star: false
 
 ## Bing Daily Wallpaper Theme
 
-### Preview
-
-|![Lock Screen](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_1.jpg =200x)|![Desktop & Widgets](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_2.jpg =200x)|
+|Preview|Description|
 |---|---|
-|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|Desktop:<br>Automatically updates the desktop wallpaper daily at 00:00.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Small airplane icon in the top left corner to download the original image.<br>3. Displays date and wallpaper title in the bottom left corner.<br>4. Automatically updates the widget wallpaper daily at 00:00.|
+|![Lock Screen](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
+|![Desktop & Widgets](../../../image/Bing必应每日壁纸主题/Bing必应每日壁纸主题_2.jpg =200x)|Desktop:<br>Automatically updates the desktop wallpaper daily at 00:00.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Small airplane icon in the top left corner to download the original image.<br>3. Displays date and wallpaper title in the bottom left corner.<br>4. Automatically updates the widget wallpaper daily at 00:00.|
 
 ### Installation Guide
 
@@ -100,11 +99,10 @@ star: false
 
 ## Today's Poetry · Ancient Style Girl Theme
 
-### Preview
-
-|![Lock Screen](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_1.jpg =200x)|![Desktop & Widgets](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_2.jpg =200x)|
+|Preview|Description|
 |---|---|
-|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|Desktop:<br>The desktop background is rice paper color.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
+|![Lock Screen](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
+|![Desktop & Widgets](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_2.jpg =200x)|Desktop:<br>The desktop background is rice paper color.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
 
 ### Installation Guide
 

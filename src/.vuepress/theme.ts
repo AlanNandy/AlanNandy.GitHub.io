@@ -3,7 +3,6 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 import { enNavbar } from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
-import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
 
 export default hopeTheme({
 
@@ -66,8 +65,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      // "/帖子/应用集/Android端Xposed模块.html": "bageling",
-      // "/en/帖子/应用集/Android端Xposed模块.html": "bageling",
+      "/帖子/超级应用集/Android端Xposed模块.html": "bageling",
+      "/en/帖子/超级应用集/Android端Xposed模块.html": "bageling",
     },
   },
 
@@ -187,9 +186,9 @@ export default hopeTheme({
         ],
         shortcuts: [
           {
-            name: "Demo",
-            short_name: "Demo",
-            url: "/demo/",
+            name: "Alan Nandy's Blog",
+            short_name: "Alan",
+            url: "https://alannandy.github.io",
             icons: [
               {
                 src: "/assets/icon/guide-maskable.png",

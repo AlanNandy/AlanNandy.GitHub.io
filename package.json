@@ -1,7 +1,7 @@
 {
   "name": "alannandy-blog",
   "version": "1.0.0",
-  "description": "AlanNandy's blog",
+  "description": "Alan Nandy's Blog",
   "license": "MIT",
   "type": "module",
   "scripts": {

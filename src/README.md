@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: 首页
 heroImage: /logo.svg
-heroText: Alan Nandy
-tagline: All is well.
+heroText: Alan Nandy's Blog
+tagline: 新数字生活指南
 heroFullScreen: true
 projects:
   - icon: folder

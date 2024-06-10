@@ -7,11 +7,11 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Alan Nandy",
+      title: "Alan Nandy's Blog",
     },
     "/en/": {
       lang: "en-US",
-      title: "Alan Nandy",
+      title: "Alan Nandy's Blog",
     },
   },
 

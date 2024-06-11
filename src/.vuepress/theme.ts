@@ -6,7 +6,7 @@ import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
 
-  hostname:"https://alannandy.github.io",
+  hostname: "https://alannandy.github.io",
 
   author: {
     name: "Alan Nandy",
@@ -20,11 +20,11 @@ export default hopeTheme({
 
   editLink: true,
 
-  docsRepo:'https://github.com/AlanNandy/AlanNandy.GitHub.io',
+  docsRepo: 'https://github.com/AlanNandy/AlanNandy.GitHub.io',
 
-  docsBranch:'repository',
+  docsBranch: 'repository',
 
-  docsDir:'/src/',
+  docsDir: '/src/',
 
   blog: {
     medias: {
@@ -72,7 +72,7 @@ export default hopeTheme({
 
   plugins: {
     autoCatalog: {
-        index: false,
+      index: false,
     },
 
     blog: true,

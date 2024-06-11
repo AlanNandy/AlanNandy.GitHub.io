@@ -1,7 +1,7 @@
 {
   "name": "alannandy-blog",
   "version": "1.0.0",
-  "description": "Alan Nandy's Blog",
+  "description": "Alan Nandy's blog",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -10,14 +10,10 @@
     "docs:dev": "vuepress dev src"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-beta.66",
     "@vuepress/client": "2.0.0-beta.66",
     "vue": "^3.3.4",
-    "vuepress": "^2.0.0-beta.66",
+    "vuepress": "2.0.0-beta.66",
     "vuepress-plugin-auto-catalog": "2.0.0-beta.235",
     "vuepress-theme-hope": "2.0.0-beta.235"
-  },
-  "dependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-beta.66"
   }
 }

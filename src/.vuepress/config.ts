@@ -1,7 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { docsearchPlugin } from '@vuepress/plugin-docsearch';
-import { viteBundler } from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
   base: "/",
@@ -115,9 +114,4 @@ export default defineUserConfig({
       },
     }),
   ],
-  
-  bundler: viteBundler({
-    viteOptions: {},
-    vuePluginOptions: {},
-  }),
 });

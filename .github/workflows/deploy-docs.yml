@@ -22,7 +22,6 @@ jobs:
         with:
           version: latest
           run_install: true
-          frozen_lockfile: false
 
       - name: 设置 Node.js
         uses: actions/setup-node@v3

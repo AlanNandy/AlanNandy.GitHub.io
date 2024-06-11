@@ -17,6 +17,9 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           submodules: true
 
+      - name: 同步 pnpm-lock.yaml
+        run: pnpm install
+
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:

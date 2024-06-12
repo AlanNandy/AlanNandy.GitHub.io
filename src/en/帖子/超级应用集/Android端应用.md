@@ -1,11 +1,9 @@
 ---
 icon: android
-date: 2023-01-28
 category:
   - Super Applications
 tag:
   - Android
-star: false
 ---
 
 # Android Applications

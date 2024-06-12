@@ -1,11 +1,9 @@
 ---
 icon: computer
-date: 2023-05-28
 category:
   - 超级应用集
 tag:
   - MacOS
-star: false
 ---
 
 # MacOS端程序

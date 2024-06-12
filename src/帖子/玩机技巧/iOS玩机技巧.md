@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2024-04-07
 category:
   - 玩机技巧
 tag:
   - iOS
-star: false
 ---
 
 # iOS玩机技巧

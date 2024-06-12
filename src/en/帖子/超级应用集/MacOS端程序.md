@@ -1,11 +1,9 @@
 ---
 icon: computer
-date: 2023-05-28
 category:
   - Super Applications
 tag:
   - MacOS
-star: false
 ---
 
 # MacOS Applications

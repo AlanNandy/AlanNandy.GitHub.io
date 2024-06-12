@@ -72,7 +72,7 @@ export default hopeTheme({
 
   plugins: {
     autoCatalog: {
-      index: false,
+      index: true,
     },
 
     blog: true,

@@ -1,11 +1,9 @@
 ---
 icon: windows
-date: 2023-01-28
 category:
   - 超级应用集
 tag:
   - Windows
-star: false
 ---
 
 # Windows端程序

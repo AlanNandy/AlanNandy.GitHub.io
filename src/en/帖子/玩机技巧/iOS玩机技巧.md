@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2024-04-07
 category:
   - Technical Tips
 tag:
   - iOS
-star: false
 ---
 
 # iOS Tips

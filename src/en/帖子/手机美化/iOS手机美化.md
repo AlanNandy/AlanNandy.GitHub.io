@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2024-04-07
 category:
   - Mobile Theme
 tag:
   - iOS
-star: false
 ---
 
 # iOS Theme

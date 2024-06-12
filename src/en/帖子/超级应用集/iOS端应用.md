@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2023-01-28
 category:
   - Super Applications
 tag:
   - iOS
-star: false
 ---
 
 # iOS Applications

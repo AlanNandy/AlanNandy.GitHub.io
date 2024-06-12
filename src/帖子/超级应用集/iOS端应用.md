@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2023-01-28
 category:
   - 超级应用集
 tag:
   - iOS
-star: false
 ---
 
 # iOS端应用

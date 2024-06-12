@@ -1,11 +1,9 @@
 ---
 icon: mobile
-date: 2024-04-07
 category:
   - 手机美化
 tag:
   - iOS
-star: false
 ---
 
 # iOS手机美化

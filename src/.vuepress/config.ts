@@ -25,9 +25,6 @@ export default defineUserConfig({
       apiKey: '253689521039807eea9b5f647119210b',
       indexName: 'alannandyio',
       appId: 'BY78LA97M6',
-      searchParameters: {
-        facetFilters: ['tags:v2'],
-      },
       locales: {
         '/': {
           placeholder: '搜索文档',
@@ -71,11 +68,11 @@ export default defineUserConfig({
           },
         },
         '/en/': {
-          placeholder: 'Search Documentation',
+          placeholder: 'Search Documents',
           translations: {
             button: {
-              buttonText: 'Search Documentation',
-              buttonAriaLabel: 'Search Documentation',
+              buttonText: 'Search Documents',
+              buttonAriaLabel: 'Search Documents',
             },
             modal: {
               searchBox: {

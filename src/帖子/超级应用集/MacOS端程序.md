@@ -152,6 +152,9 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 [iOCR](https://www.better365.cn/iocr.html)
 > 截图OCR软件
 
+[Battery](https://apps.apple.com/us/app/id6476085628)
+> 电池健康充电保护管理软件
+
 ## 音乐/播客
 
 [网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)

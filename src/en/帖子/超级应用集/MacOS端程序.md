@@ -149,6 +149,9 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 [iOCR](https://www.better365.cn/iocr.html)
 > Screenshot OCR software
 
+[Battery](https://apps.apple.com/us/app/id6476085628)
+> Battery health charging protection management software
+
 ## Music
 
 [NetEase Cloud Music](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)

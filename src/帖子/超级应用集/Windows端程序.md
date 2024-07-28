@@ -149,6 +149,9 @@ tag:
 [后羿采集器](https://www.houyicaiji.com/)
 > 网页数据采集软件
 
+[FOCUSKY万彩演示大师](https://www.focusky.com.cn/download/)
+> 类似Prezi的演示软件
+
 ## 拍摄/后期
 
 [FastStone Capture](https://www.faststonecapture.cn/download)

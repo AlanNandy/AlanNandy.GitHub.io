@@ -143,7 +143,10 @@ tag:
 > Accompaniment and vocal separation software for exporting vocals for [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5) training.
 
 [HOUYI](https://www.houyicaiji.com/)
-> Web da
+> Web data crawler
+
+[FOCUSKY](https://www.focusky.com.cn/download/)
+> Presentation software similar to Prezi
 
 ## Photograph
 

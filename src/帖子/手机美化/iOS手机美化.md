@@ -95,6 +95,34 @@ tag:
 
 6. 即可实现每天自动将小组件、桌面墙纸、锁屏更换为Bing必应每日壁纸。
 
+## Unsplash随机壁纸主题
+
+|预览|说明|
+|---|---|
+|![锁屏](../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_1.jpg =200x)|锁屏：<br>每天日出自动更新锁屏壁纸。|
+|![桌面&小组件](../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_2.jpg =200x)|桌面：<br>每天日出自动更新桌面壁纸。<br>小组件：<br>1. 支持大中小自适应。<br>2. 左上角小飞机可前往下载原图。<br>3. 左下角显示日期。<br>4. 每天00:00自动更新小组件壁纸。|
+
+### 安装指南
+
+1. 从App Store下载安装[Scriptable](https://apps.apple.com/app/id1405459188)。‍‍
+
+2. 通过“Unsplash随机壁纸主题助手”快捷指令安装“Unsplash随机壁纸小组件”脚本。
+> 发送“Unsplash随机壁纸主题”到公众号@Nandelion，获取快捷指令分享链接直接导入。
+
+3. 按照布局需要将Scriptable的小组件添加到桌面，详见[Scriptable添加桌面小组件教程](#scriptable添加桌面小组件教程)。
+
+4. 前往[https://source.unsplash.com/]申请Access Key密钥。
+
+5. 在Scriptable App中点击“Unsplash随机壁纸小组件”脚本，在弹窗中填写Access Key密钥以及图片关键词（仅支持英文），确定保存。
+    
+  ![填写Access Key密钥以及图片关键词](../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_3.jpg =200x)
+
+6. 通过“Unsplash随机壁纸主题助手”快捷指令安装“Unsplash随机壁纸”快捷指令，安装成功后试运行。
+
+7. 在iOS快捷指令中新建自动化：当每天日出时，执行“Unsplash随机壁纸”。
+
+8. 即可实现每天自动将小组件、桌面墙纸、锁屏更换为Unsplash随机壁纸。
+
 ## 今日诗词·古风少女主题
 
 |预览|说明|

@@ -87,7 +87,7 @@ tag:
 2. Use the "必应每日壁纸主题助手" shortcut to install the "必应每日壁纸小组件" script.
 > Send "必应每日壁纸主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
 
-3. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#Tutorial-for-Adding-Scriptable-Widgets-to-the-Home-Screen) for details.
+3. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
 4. Use the "必应每日壁纸主题助手" shortcut to install the "必应每日壁纸" shortcut. Run it after successful installation.
 
@@ -109,7 +109,7 @@ tag:
 2. Install the "Unsplash随机壁纸小组件" script via the "Unsplash随机壁纸主题助手" shortcut.
 > Send "Unsplash随机壁纸主题" to the official account @Nandelion to receive the shortcut link for direct import.
 
-3. Add the Scriptable widget to your home screen as needed for layout. See the [Tutorial for Adding Scriptable Widgets to the Home Screen](#Tutorial-for-Adding-Scriptable-Widgets-to-the-Home-Screen) for details.
+3. Add the Scriptable widget to your home screen as needed for layout. See the [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
 4. Apply for an Access Key at [Unsplash](https://source.unsplash.com/).
 
@@ -136,14 +136,14 @@ tag:
 
 2. Download [Pangmen Zhengdao Crude Book Font](https://pan.baidu.com/s/1Hm17FESycIP_IFwtwQ3AxA?pwd=ji6u) Extraction code: ji6u
 
-3. Install the font. See [iFont Font Installation Tutorial](#iFont-Font-Installation-Tutorial) for details.
+3. Install the font. See [iFont Font Installation Tutorial](#ifont-font-installation-tutorial) for details.
 
 4. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
 
 5. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女小组件" script.
 > Send "今日诗词·古风少女主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
 
-6. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#Tutorial-for-Adding-Scriptable-Widgets-to-the-Home-Screen) for details.
+6. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
 7. Use the "今日诗词·古风少女主题助手" shortcut to set the desktop background.
 

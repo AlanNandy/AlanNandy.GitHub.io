@@ -111,7 +111,7 @@ tag:
 
 3. 按照布局需要将Scriptable的小组件添加到桌面，详见[Scriptable添加桌面小组件教程](#scriptable添加桌面小组件教程)。
 
-4. 前往[https://source.unsplash.com/]申请Access Key密钥。
+4. 前往[Unsplash](https://source.unsplash.com/)申请Access Key密钥。
 
 5. 在Scriptable App中点击“Unsplash随机壁纸小组件”脚本，在弹窗中填写Access Key密钥以及图片关键词（仅支持英文），确定保存。
     

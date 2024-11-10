@@ -111,7 +111,7 @@ tag:
 
 3. Add the Scriptable widget to your home screen as needed for layout. See the [Tutorial for Adding Scriptable Widgets to the Home Screen](#Tutorial-for-Adding-Scriptable-Widgets-to-the-Home-Screen) for details.
 
-4. Apply for an Access Key at [https://source.unsplash.com/].
+4. Apply for an Access Key at [Unsplash](https://source.unsplash.com/).
 
 5. In the Scriptable App, open the "Unsplash随机壁纸小组件" script, enter your Access Key and image keywords (English only) in the pop-up, then confirm to save.
     

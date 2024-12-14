@@ -99,8 +99,8 @@ tag:
 
 |Preview|Description|
 |---|---|
-|![Lock Screen](../../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_1.jpg =200x)|**Lock Screen**:<br>Automatically updates the lock screen wallpaper daily at sunrise.|
-|![Home Screen & Widgets](../../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_2.jpg =200x)|**Home Screen**:<br>Automatically updates the home screen wallpaper daily at sunrise.<br>**Widgets**:<br>1. Supports automatic resizing for small, medium, and large widgets.<br>2. Small airplane icon in the top left leads to the original image download.<br>3. Date displayed in the bottom left corner.<br>4. Automatically updates widget wallpaper at midnight.|
+|![Lock Screen](../../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_1.jpg =200x)|**Lock Screen**:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
+|![Home Screen & Widgets](../../../image/Unsplash随机壁纸主题/Unsplash随机壁纸主题_2.jpg =200x)|**Home Screen**:<br>Automatically updates the home screen wallpaper daily at 00:00.<br>**Widgets**:<br>1. Supports automatic resizing for small, medium, and large widgets.<br>2. Small airplane icon in the top left leads to the original image download.<br>3. Date displayed in the bottom left corner.<br>4. Automatically updates widget wallpaper at midnight.|
 
 ### Installation Guide
 
@@ -119,7 +119,7 @@ tag:
 
 6. Use the "Unsplash随机壁纸主题助手" shortcut to install the "Unsplash随机壁纸" shortcut, then try running it.
 
-7. Create an iOS Automation in Shortcuts: When sunrise occurs daily, run "Unsplash随机壁纸"
+7. Create an iOS Automation in Shortcuts: At 00:00 daily, execute "Unsplash随机壁纸"
 
 8. Enjoy automatic updates of the widget, home screen wallpaper, and lock screen wallpaper with random Unsplash images daily.
 

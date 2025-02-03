@@ -24,10 +24,11 @@ tag:
 
 ## 应用商店
 
-[酷安](https://pan.baidu.com/s/1krEnAWMcByD2Ijj_pNHBjQ?pwd=8kyr) 提取码：8kyr
-> 玩机必备
+[酷安](https://pan.baidu.com/s/107ia1-musIGMHF67a9K8EA?pwd=b3ux) 提取码：b3ux
+> 玩机必备，含应用商店版本
 
 [酷安 Lite](https://pan.baidu.com/s/14yiNz461434JvAr6wZsSJA?pwd=tee5) 提取码：tee5
+> 纯应用商店版本
 
 [TapTap](https://www.taptap.cn/mobile)
 > 主要用来找攻略的游戏平台，不过内容专一性肯定不如各游戏厂家自建平台，如[网易大神](https://ds.163.com/download/)、米哈游[米游社](https://www.miyoushe.com/)。
@@ -51,7 +52,7 @@ tag:
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 > 梯子
 
-[小猫咪](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
+[Clash](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
 > 梯子
 
 ## 网盘
@@ -90,7 +91,7 @@ tag:
 [QQ](https://im.qq.com/index/)
 > QQ频道是不错的新尝试
 
-[电报](https://telegram.org/apps)
+[Telegram](https://telegram.org/apps)
 > 搭配梯子使用
 
 [Discord](https://discord.com/download)
@@ -132,9 +133,9 @@ tag:
 [歌词匹配](https://gcsp.lanzoux.com/b0e895h2b)
 > 朴实的名称却有着超乎预期的功能。
 
-[网易云音乐-with-module](https://url50.ctfile.com/f/16615350-747241736-67eb62?p=2637) Passcode:2637
+[网易云音乐-with-module](https://pan.baidu.com/s/1q5NBZvy1vaotON2121fgkg?pwd=aafc) 提取码：aafc
 
-[QQ音乐简洁版](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
+[QQ音乐简洁版](https://apkpure.com/cn/qqyin-le-jian-ji-ban/com.tencent.qqmusiclite)
 
 [Spotify](https://pan.baidu.com/s/1lIqagqsYfuDh_ccxa2FlkA?pwd=mdmm) 提取码：mdmm
 
@@ -163,7 +164,7 @@ tag:
 [抖音极速版](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
 > 边刷视频边赚钱
 
-[TikTok](https://url50.ctfile.com/f/16615350-773106829-defdc9?p=2637) 访问密码：2637
+[TikTok](https://pan.baidu.com/s/15fm6BfqgyfyFV8Ndz5BzgQ?pwd=w5ip) 提取码：w5ip
 > 抖音海外版+插件，需自备梯子（美国节点+全局代理）
 
 [快手极速版](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
@@ -174,7 +175,7 @@ tag:
 [爱奇艺视频极速版](http://iqiyi.cn/efxOSFt-a1)
 > 边刷视频边赚钱
 
-[哔哩哔哩-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
+[哔哩哔哩-with-module](https://pan.baidu.com/s/17zS1EBIlNkG4XU6Ly-L5Ig?pwd=3x9n) 提取码：3x9n
 > 电子榨菜
 
 [Acfun](https://open.app.acfun.cn/home/)
@@ -240,7 +241,7 @@ tag:
 
 [搞机助手2](https://nalankang.lanzouo.com/b00uks28j) 密码:OJBK
 
-[Shizuku](https://www.coolapk.com/apk/moe.shizuku.privileged.api)
+[Shizuku](https://shizuku.rikka.app/zh-hans/)
 > 无需root，可以授予其它App以adb权限，自身需要使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
 
 [黑域](https://www.coolapk.com/apk/me.piebridge.brevent)
@@ -249,29 +250,32 @@ tag:
 [冰箱](https://www.coolapk.com/apk/com.catchingnow.icebox)
 > 搭配shizuku使用，或者直接使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
 
-[Scene5](https://www.coolapk.com/apk/com.omarea.vtools)
+[App Ops](https://apkpure.com/cn/search?q=app+ops)
+> 搭配shizuku使用，权限管理
+
+[Scene](https://apkpure.com/cn/scene/com.omarea.vtools)
 > 全能的系统设置工具
 
 [Scene4](https://pan.baidu.com/s/1KjMH-ASbsOfSSWOPW4gkcQ?pwd=qw4i) 提取码：qw4i
 
 [Scene高级设定](https://pan.baidu.com/s/1GAS7M9YE0_8r9T4bP4rdNg?pwd=5mbu) 提取码：5mbu
 
-[Thanox](https://www.coolapk.com/apk/github.tornaco.android.thanos)
+[Thanox](https://tornaco.github.io/Thanox/)
 > 全能的应用调教工具
 
 [DevCheck](https://pan.baidu.com/s/1yrQ8FEcL7dlnq1YP7TMeCw?pwd=175r) 提取码：175r
 > 查看设备信息
 
-[Blocker](https://www.coolapk.com/apk/com.merxury.blocker)
+[Blocker](https://apkpure.com/blocker-app-controller/com.merxury.blocker)
 > 可以查看并且禁用App的服务、活动，尤其用来禁用App里植入的广告有奇效
 
-[LibChecker](https://www.coolapk.com/apk/com.absinthe.libchecker)
+[LibChecker](https://apkpure.com/libchecker-view-apps-info/com.absinthe.libchecker)
 > 查看App的服务、活动，配合blocker使用
 
 [绿色守护](https://pan.baidu.com/s/145mYRdy4pBhI7UFHhonYNA?pwd=0y5b) 提取码：0y5b
 > 支持Android 13，类原生系统必备的应用休眠工具
 
-[Nevolution](https://www.coolapk.com/apk/com.oasisfeng.nevo)
+[Nevolution](https://apkpure.com/nevolution/com.oasisfeng.nevo)
 > 通知栏增强，比如在通知里回复微信
 
 [钛备份](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) 提取码：y5n0
@@ -279,7 +283,7 @@ tag:
 [Quicker 推送工具](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) 提取码：ho2m
 > 搭配Windows端[Quicker](https://getquicker.net/Download)的推送服务功能使用
 
-[WiFi Master Key 万能钥匙](https://pan.baidu.com/s/1viwU1HJE9DLUAVD5yXe1tw?pwd=4a30) 提取码：4a30
+[WiFi Master Key 万能钥匙](https://pan.baidu.com/s/1A8ga7i9IPkP8bAEhjTYWhw?pwd=6mvc) 提取码：6mvc
 
 ## 去广告工具
 
@@ -296,7 +300,7 @@ tag:
 
 ## 自动任务工具
 
-[Tasker](https://www.coolapk.com/apk/net.dinglisch.android.taskerm)
+[Tasker](https://apkpure.com/tasker/net.dinglisch.android.taskerm)
 
 [MacroDroid](https://nalankang.lanzouo.com/b00usijgh)
 密码:OJBK
@@ -320,7 +324,7 @@ tag:
 [VMOS Pro 简洁版](https://pan.baidu.com/s/1DCwUThN43ChRPb0VwrVG4Q?pwd=36ia) 提取码：36ia
 > 支持宿主机Android 13
 
-[炼妖壶](https://www.coolapk.com/apk/com.oasisfeng.island)
+[炼妖壶](https://apkpure.com/island/com.oasisfeng.island)
 > 应用多开
 
 ## 游戏修改器
@@ -367,7 +371,7 @@ tag:
 
 [NP管理器](https://nalankang.lanzouo.com/b00u7565e) 密码:OJBK
 
-[MT管理器](https://www.coolapk.com/apk/bin.mt.plus)
+[MT管理器](https://apkpure.com/mt-manager/bin.mt.plus)
 
 [AndroidKiller](https://pan.baidu.com/s/1EQ4Wn-v7V0JtMsJfcGkQCw?pwd=m4ia) 提取码：m4ia
 > 安卓逆向工具，在Windows环境下运行。

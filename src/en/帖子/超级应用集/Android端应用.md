@@ -24,7 +24,7 @@ tag:
 
 ## Application Market
 
-[Coolapk](https://pan.baidu.com/s/1krEnAWMcByD2Ijj_pNHBjQ?pwd=8kyr) Password: 8kyr
+[Coolapk](https://pan.baidu.com/s/107ia1-musIGMHF67a9K8EA?pwd=b3ux) Password: b3ux
 
 [Coolapk Lite Version](https://pan.baidu.com/s/14yiNz461434JvAr6wZsSJA?pwd=tee5) Password: tee5
 
@@ -122,9 +122,9 @@ tag:
 [Lyric matching](https://gcsp.lanzoux.com/b0e895h2b)
 > Simple and straightforward name, yet with unexpected functionality.
 
-[NetEase Cloud Music-with-module](https://url50.ctfile.com/f/16615350-747241736-67eb62?p=2637) Passcode:2637
+[NetEase Cloud Music-with-module](https://pan.baidu.com/s/1q5NBZvy1vaotON2121fgkg?pwd=aafc) Passcode:aafc
 
-[QQ Music Lite Version](https://www.coolapk.com/apk/com.tencent.qqmusiclite)
+[QQ Music Lite Version](https://apkpure.com/cn/qqyin-le-jian-ji-ban/com.tencent.qqmusiclite)
 
 [Spotify](https://pan.baidu.com/s/1lIqagqsYfuDh_ccxa2FlkA?pwd=mdmm) Password: mdmm
 
@@ -152,7 +152,7 @@ tag:
 
 [Douyin Lite Version](https://aweme.snssdk.com/luckycat/aweme_fission/page/share_invite/?u_code=NjkxMDM3NjkzODY=&aid=2329&landing_channel=invite_friend_page_qrcode_bonus&enter_from=&utm_source=qrcode)
 
-[TikTok](https://url50.ctfile.com/f/16615350-773106829-defdc9?p=2637) Password: 2637
+[TikTok](https://pan.baidu.com/s/15fm6BfqgyfyFV8Ndz5BzgQ?pwd=w5ip) Password: w5ip
 
 [Kuaishou Lite Version](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
 
@@ -160,7 +160,7 @@ tag:
 
 [iQiyi Video Lite Version](http://iqiyi.cn/efxOSFt-a1)
 
-[Bilibili-with-module](https://url50.ctfile.com/f/16615350-747241734-18fc5c?p=2637) Passcode: 2637
+[Bilibili-with-module](https://pan.baidu.com/s/17zS1EBIlNkG4XU6Ly-L5Ig?pwd=3x9n) Passcode: 3x9n
 
 [Acfun](https://open.app.acfun.cn/home/)
 
@@ -223,7 +223,7 @@ tag:
 
 [Gaoji Assistant 2](https://nalankang.lanzouo.com/b00uks28j) Password: OJBK
 
-[Shizuku](https://www.coolapk.com/apk/moe.shizuku.privileged.api)
+[Shizuku](https://shizuku.rikka.app/)
 > Without the need for root, it can grant other apps adb permissions. It requires the use of "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
 [Brevent](https://www.coolapk.com/apk/me.piebridge.brevent)
@@ -232,29 +232,32 @@ tag:
 [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox)
 > It can be used in conjunction with Shizuku, or directly with "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
-[Scene5](https://www.coolapk.com/apk/com.omarea.vtools)
+[App Ops](https://apkpure.com/cn/search?q=app+ops)
+> Use it in conjunction with Shizuku for permission management.
+
+[Scene](https://apkpure.com/cn/scene/com.omarea.vtools)
 > An all-in-one system settings tool
 
 [Scene4](https://pan.baidu.com/s/1KjMH-ASbsOfSSWOPW4gkcQ?pwd=qw4i) Password: qw4i
 
 [Scene Advanced Settings](https://pan.baidu.com/s/1GAS7M9YE0_8r9T4bP4rdNg?pwd=5mbu) Password: 5mbu
 
-[Thanox](https://www.coolapk.com/apk/github.tornaco.android.thanos)
+[Thanox](https://tornaco.github.io/Thanox/)
 > An all-in-one app tuning tool
 
 [DevCheck](https://pan.baidu.com/s/1yrQ8FEcL7dlnq1YP7TMeCw?pwd=175r) Password: 175r
 > View device information
 
-[Blocker](https://www.coolapk.com/apk/com.merxury.blocker)
+[Blocker](https://apkpure.com/blocker-app-controller/com.merxury.blocker)
 > You can view and disable services and activities of apps, which is particularly effective for disabling embedded ads in apps.
 
-[LibChecker](https://www.coolapk.com/apk/com.absinthe.libchecker)
+[LibChecker](https://apkpure.com/libchecker-view-apps-info/com.absinthe.libchecker)
 > Viewing services and activities of apps, used in conjunction with a blocker
 
 [Greenify](https://pan.baidu.com/s/145mYRdy4pBhI7UFHhonYNA?pwd=0y5b) Password: 0y5b
 > Supports Android 13, an essential app hibernation tool for near-stock Android systems.
 
-[Nevolution](https://www.coolapk.com/apk/com.oasisfeng.nevo)
+[Nevolution](https://apkpure.com/nevolution/com.oasisfeng.nevo)
 > Notification bar enhancement, such as replying to WeChat messages directly from the notification.
 
 [Titanium Backup](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) Password: y5n0
@@ -262,7 +265,7 @@ tag:
 [Quicker Push Tool](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) Password: ho2m
 > Used in conjunction with the push service feature of [Quicker](https://getquicker.net/Download) on Windows.
 
-[WiFi Master Key](https://pan.baidu.com/s/1viwU1HJE9DLUAVD5yXe1tw?pwd=4a30) Password: 4a30
+[WiFi Master Key](https://pan.baidu.com/s/1A8ga7i9IPkP8bAEhjTYWhw?pwd=6mvc) Password: 6mvc
 
 ## Ad-block
 
@@ -279,7 +282,7 @@ tag:
 
 ## Auto Tasks
 
-[Tasker](https://www.coolapk.com/apk/net.dinglisch.android.taskerm)
+[Tasker](https://apkpure.com/tasker/net.dinglisch.android.taskerm)
 
 [MacroDroid](https://nalankang.lanzouo.com/b00usijgh)
 Password: OJBK
@@ -303,7 +306,7 @@ Password: OJBK
 [VMOS Pro Lite Version](https://pan.baidu.com/s/1DCwUThN43ChRPb0VwrVG4Q?pwd=36ia) Password: 36ia
 > Supports Android 13 on the host machine
 
-[Lianyao Hu](https://www.coolapk.com/apk/com.oasisfeng.island)
+[Lianyao Hu](https://apkpure.com/island/com.oasisfeng.island)
 > App Cloner
 
 ## Game Modifier
@@ -350,7 +353,7 @@ Password: OJBK
 
 [NP Manager](https://nalankang.lanzouo.com/b00u7565e) Password: OJBK
 
-[MT Manager](https://www.coolapk.com/apk/bin.mt.plus)
+[MT Manager](https://apkpure.com/mt-manager/bin.mt.plus)
 
 [AndroidKiller](https://pan.baidu.com/s/1EQ4Wn-v7V0JtMsJfcGkQCw?pwd=m4ia) Password: m4ia
 > Android reverse engineering tool, runs in Windows environment.

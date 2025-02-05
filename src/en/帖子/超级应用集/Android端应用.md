@@ -207,6 +207,8 @@ tag:
 [Youdao Cloud Notes](https://note.youdao.com/note-download/)
 > A cross-platform note-taking and article bookmarking tool, Youdao Cloud Notes now also supports mind maps and tables. It is a great knowledge aggregation tool.
 
+[Netease Mailbox Master](https://dashi.163.com/)
+
 [WPS Office Professional Edition](https://pan.baidu.com/s/1D6ZlvYb40w6jpoiJttqihA?pwd=xi86) Password: xi86
 
 ## Reading

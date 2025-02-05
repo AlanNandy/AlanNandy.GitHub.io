@@ -18,6 +18,23 @@ tag:
 
   ![Nandelion](../../../image/Nandelion.jpg =200x)
 
+## AI
+
+[Ollama](https://ollama.com/download)
+> Open-source large language deployment service software. Please download the models from the [Ollama Repository](https://ollama.com/library). Please refer to the [Windows Tips | DeepSeek-R1 Local Deployment Guide](https://mp.weixin.qq.com/s/WPAhZ0OaJYeoGctDFBO4gg).
+
+[Chatbox](https://chatboxai.app/en#)
+> The AI client application allows for more intuitive access to the Ollama local API.
+
+[Art Creation Launcher](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) Password: lmne
+> Fully supports one-click launch, repair, update, and model download management for Stable Diffusion! Stability-AI also has other open-source products: [Stable Audio](https://github.com/Stability-AI/stable-audio-tools), [StableLM](https://github.com/Stability-AI/StableLM).
+
+[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
+> Open-source Free AI Voice Conversion Software
+
+[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
+> Accompaniment and vocal separation software for exporting vocals for [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5) training.
+
 ## Assembling System
 
 [WePE](https://www.wepe.com.cn/download.html)
@@ -94,6 +111,8 @@ tag:
 [Youdao Cloud Notes](https://note.youdao.com/note-download/)
 > A cross-platform note-taking and article bookmarking tool, Youdao Cloud Notes has now added support for mind maps and tables, making it a versatile knowledge aggregation tool. It is quite impressive.
 
+[Netease Mailbox Master](https://dashi.163.com/)
+
 [Tencent Meeting](https://meeting.tencent.com/download/)
 
 [TickTick](https://www.dida365.com/about/download)
@@ -132,15 +151,6 @@ tag:
 [ArtiosCAD](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) Password: ahnl
 
 [C4D](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) Password: i95m
-
-[Art Creation Launcher](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) Password: lmne
-> Fully supports one-click launch, repair, update, and model download management for Stable Diffusion! Stability-AI also has other open-source products: [Stable Audio](https://github.com/Stability-AI/stable-audio-tools), [StableLM](https://github.com/Stability-AI/StableLM).
-
-[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
-> Open-source Free AI Voice Conversion Software
-
-[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
-> Accompaniment and vocal separation software for exporting vocals for [So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5) training.
 
 [HOUYI](https://www.houyicaiji.com/)
 > Web data crawler

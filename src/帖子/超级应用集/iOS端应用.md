@@ -196,6 +196,8 @@ tag:
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 
+[网易邮箱大师](https://dashi.163.com/)
+
 [WPS Office](https://apps.apple.com/cn/app/id599852710)
 
 ## 新闻/读书

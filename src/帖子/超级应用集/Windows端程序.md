@@ -18,6 +18,23 @@ tag:
 
   ![Nandelion](../../image/Nandelion.jpg =200x)
 
+## AI
+
+[Ollama](https://ollama.com/download)
+> 开源的大语言部署服务软件，下载模型请前往[Ollama仓库](https://ollama.com/library)，部署指南请参考[Widnows 玩机技巧 | DeepSeek-R1本地部署](https://mp.weixin.qq.com/s/WPAhZ0OaJYeoGctDFBO4gg)
+
+[Chatbox](https://chatboxai.app/zh)
+> AI客户端应用，可以更直观地调用Ollama本地API
+
+[绘世启动器](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) 提取码：lmne
+> Stable Diffusion一键启动/修复/更新/模型下载管理全支持！Stability-AI还有其它开源产品：[Stable Audio](https://github.com/Stability-AI/stable-audio-tools)、[StableLM](https://github.com/Stability-AI/StableLM)。
+
+[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
+> 开源免费AI语音转换软件
+
+[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
+> 伴奏和人声分离软件，以导出人声供[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)训练。
+
 ## 装机
 
 [微PE工具箱](https://www.wepe.com.cn/download.html)
@@ -99,6 +116,8 @@ tag:
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 
+[网易邮箱大师](https://dashi.163.com/)
+
 [腾讯会议](https://meeting.tencent.com/download/)
 
 [滴答清单](https://www.dida365.com/about/download)
@@ -136,15 +155,6 @@ tag:
 [ArtiosCAD 包装建模软件](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) 提取码：ahnl
 
 [C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
-
-[绘世启动器](https://pan.baidu.com/s/1hcKFuUaOTN7B5oV-Hgd9Kw?pwd=lmne) 提取码：lmne
-> Stable Diffusion一键启动/修复/更新/模型下载管理全支持！Stability-AI还有其它开源产品：[Stable Audio](https://github.com/Stability-AI/stable-audio-tools)、[StableLM](https://github.com/Stability-AI/StableLM)。
-
-[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)
-> 开源免费AI语音转换软件
-
-[Ultimate Vocal Remover 5](https://ultimatevocalremover.com/)
-> 伴奏和人声分离软件，以导出人声供[So-VITS-SVC](https://www.yuque.com/umoubuton/ueupp5)训练。
 
 [后羿采集器](https://www.houyicaiji.com/)
 > 网页数据采集软件

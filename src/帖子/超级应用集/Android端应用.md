@@ -224,6 +224,8 @@ tag:
 [有道云笔记](https://note.youdao.com/note-download/)
 > 跨平台笔记与文章收藏，目前又额外支持了导图与表格，还不错的知识汇总工具。
 
+[网易邮箱大师](https://dashi.163.com/)
+
 [WPS Office 专业版](https://pan.baidu.com/s/1D6ZlvYb40w6jpoiJttqihA?pwd=xi86) 提取码：xi86
 
 ## 新闻/读书

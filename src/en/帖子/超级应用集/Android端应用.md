@@ -122,7 +122,7 @@ tag:
 [Lyric matching](https://gcsp.lanzoux.com/b0e895h2b)
 > Simple and straightforward name, yet with unexpected functionality.
 
-[NetEase Cloud Music-with-module](https://pan.baidu.com/s/1q5NBZvy1vaotON2121fgkg?pwd=aafc) Passcode:aafc
+[NetEase Cloud Music-with-module](https://pan.baidu.com/s/1Xjw9H7aPL13udsHPj4XrVA?pwd=5wm7) Passcode:5wm7
 
 [QQ Music Lite Version](https://apkpure.com/cn/qqyin-le-jian-ji-ban/com.tencent.qqmusiclite)
 
@@ -226,7 +226,7 @@ tag:
 [Gaoji Assistant 2](https://nalankang.lanzouo.com/b00uks28j) Password: OJBK
 
 [Shizuku](https://shizuku.rikka.app/)
-> Without the need for root, it can grant other apps adb permissions. It requires the use of "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
+> Without the need for root, it can grant other apps adb permissions. It requires the use of "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload). For some known applications that can utilize Shizuku's features, please refer to [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/tree/master?tab=readme-ov-file).
 
 [Brevent](https://www.coolapk.com/apk/me.piebridge.brevent)
 > It can be used in conjunction with Shizuku, or directly with "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
@@ -234,8 +234,14 @@ tag:
 [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox)
 > It can be used in conjunction with Shizuku, or directly with "adb on the computer" or activation through [Gaoji Assistant](https://lsdy.top/gjzsdownload).
 
+[Shizutools](https://github.com/legendsayantan/ShizuTools)
+> Use with Shizuku.
+
 [App Ops](https://apkpure.com/cn/search?q=app+ops)
 > Use it in conjunction with Shizuku for permission management.
+
+[LSPatch](https://github.com/LSPosed/LSPatch)
+> Use with Shizuku, the non-root Xposed framework extended from LSPod, can inject cracking modules into apps, such as Fuck for VIP, etc. For more modules, please check out [Android Xposed Modules](Android端Xposed模块.md).
 
 [Scene](https://apkpure.com/cn/scene/com.omarea.vtools)
 > An all-in-one system settings tool

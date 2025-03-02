@@ -133,7 +133,7 @@ tag:
 [歌词匹配](https://gcsp.lanzoux.com/b0e895h2b)
 > 朴实的名称却有着超乎预期的功能。
 
-[网易云音乐-with-module](https://pan.baidu.com/s/1q5NBZvy1vaotON2121fgkg?pwd=aafc) 提取码：aafc
+[网易云音乐-with-module](https://pan.baidu.com/s/1Xjw9H7aPL13udsHPj4XrVA?pwd=5wm7) 提取码: 5wm7
 
 [QQ音乐简洁版](https://apkpure.com/cn/qqyin-le-jian-ji-ban/com.tencent.qqmusiclite)
 
@@ -244,7 +244,7 @@ tag:
 [搞机助手2](https://nalankang.lanzouo.com/b00uks28j) 密码:OJBK
 
 [Shizuku](https://shizuku.rikka.app/zh-hans/)
-> 无需root，可以授予其它App以adb权限，自身需要使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
+> 无需root，可以授予其它App以adb权限，自身需要使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活。一些已知可利用 Shizuku 功能的应用程序请查看[awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/blob/master/README_cn.md)
 
 [黑域](https://www.coolapk.com/apk/me.piebridge.brevent)
 > 搭配shizuku使用，或者直接使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
@@ -252,8 +252,14 @@ tag:
 [冰箱](https://www.coolapk.com/apk/com.catchingnow.icebox)
 > 搭配shizuku使用，或者直接使用电脑端的adb/[搞机助手](https://lsdy.top/gjzsdownload)激活
 
+[Shizutools](https://github.com/legendsayantan/ShizuTools)
+> 搭配shizuku使用
+
 [App Ops](https://apkpure.com/cn/search?q=app+ops)
 > 搭配shizuku使用，权限管理
+
+[LSPatch](https://github.com/LSPosed/LSPatch)
+> 搭配shizuku使用，从 LSPod 扩展的非根 Xposed 框架，可以给APP注入破解模块，比如Fuck for VIP等。更多模块请查看[Android端Xposed模块](Android端Xposed模块.md)
 
 [Scene](https://apkpure.com/cn/scene/com.omarea.vtools)
 > 全能的系统设置工具

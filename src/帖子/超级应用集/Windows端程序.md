@@ -152,6 +152,9 @@ tag:
 
 [SOLIDWORKS 结构设计建模软件](https://pan.baidu.com/s/1jSuZM-KLEswHfrsATRFjbQ?pwd=x09q) 提取码：x09q
 
+[FreeCAD](https://www.freecad.org)
+> AutoCAD 开源替代方案
+
 [ArtiosCAD 包装建模软件](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) 提取码：ahnl
 
 [C4D 动画建模软件与材质/模型包](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) 提取码：i95m
@@ -182,6 +185,12 @@ tag:
 [Adobe Home Screen Fix 历史版本](https://www.adobegenp.com/other-tools-download/)
 
 [Adobe 辅助插件合集](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) 提取码：kr89
+
+[GIMP 3](https://www.gimp.org/downloads/)
+> Photoshop 开源替代方案
+
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+> GIMP 补丁，可以将GIMP的界面、快捷键都更改成接近Photoshop的状态，更容易上手。
 
 [vectormagic：位图一键转矢量图工具](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) 提取码：ol52
 > 其它图片一键处理工具网站：[Pix Fix：图像降噪](https://zh.pixfix.com/)、[Clipping Magic：删除图像背景](https://zh.clippingmagic.com)、[Recompressor：图像压缩](https://zh.recompressor.com)。

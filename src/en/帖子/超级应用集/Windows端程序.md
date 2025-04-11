@@ -148,6 +148,9 @@ tag:
 
 [SOLIDWORKS](https://pan.baidu.com/s/1jSuZM-KLEswHfrsATRFjbQ?pwd=x09q) Password: x09q
 
+[FreeCAD](https://www.freecad.org)
+> An open-source alternative to AutoCAD.
+
 [ArtiosCAD](https://pan.baidu.com/s/1szGI_Y5h1EdpLtOGoT4C1Q?pwd=ahnl) Password: ahnl
 
 [C4D](https://pan.baidu.com/s/1bSTI9EWYUk7noXTpMMGXhQ?pwd=i95m) Password: i95m
@@ -178,6 +181,12 @@ tag:
 [Adobe Home Screen Fix historical versions](https://www.adobegenp.com/other-tools-download/)
 
 [Adobe auxiliary plugin collection](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) Password: kr89
+
+[GIMP 3](https://www.gimp.org/downloads/)
+> An open-source alternative to Photoshop.
+
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+> A GIMP patch that adjusts the interface and keyboard shortcuts to be closer to Photoshop, making it easier to get started.
 
 [vectormagic](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) Passcode: ol52
 > Other websites for one-click image processing tools: [Pix Fix](https://zh.pixfix.com/)、[Clipping Magic](https://zh.clippingmagic.com)、[Recompressor](https://zh.recompressor.com)。

@@ -111,7 +111,7 @@ tag:
 
 3. Add the Scriptable widget to your home screen as needed for layout. See the [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
-4. Apply for an Access Key at [Unsplash](https://source.unsplash.com/).
+4. Apply for an Access Key at [Unsplash](https://unsplash.com/oauth/applications).
 
 5. In the Scriptable App, open the "Unsplash随机壁纸小组件" script, enter your Access Key and image keywords (English only) in the pop-up, then confirm to save.
     
@@ -150,3 +150,33 @@ tag:
 8. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女壁纸" shortcut. Run it after successful installation.
 
 9. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词·古风少女壁纸".
+
+## Weather Theme
+
+| Preview | Description |
+|---|---|
+|![Lock Screen](../../../image/天气主题/天气主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper every hour.|
+|![Home Screen & Widgets](../../../image/天气主题/天气主题_2.jpg =200x)|Home Screen:<br>Automatically updates the home screen wallpaper every hour.<br>Widgets:<br>1. Supports adaptive sizes (large, medium, small).<br>2. The small airplane in the upper left corner allows you to download the original image.<br>3. Displays date and weather in the lower left corner.<br>4. Automatically updates the widget wallpaper every hour.|
+
+### Installation Guide
+
+1. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.
+
+2. Install the "Weather Widget" script via the "Weather Theme Assistant" shortcut.
+> Send "天气主题" to the official account @Nandelion to get the shortcut sharing link and import it directly.
+
+3. Add Scriptable widgets to the home screen according to your layout needs. For details, see [Tutorial on Adding Scriptable Widgets to Home Screen](#scriptable添加桌面小组件教程).
+
+4. Apply for Access Key from [Unsplash](https://unsplash.com/oauth/applications), [Baidu Maps](https://lbsyun.baidu.com/), and [QWeather](https://qweather.com/) respectively. All the above keys are required.
+
+5. Open the "Weather Widget" script in the Scriptable app, fill in the Access Key in the pop-up window, and save it.
+    
+  ![Fill in Access Key](../../../image/天气主题/天气主题_3.jpg =200x)
+
+6. Install the "Weather Wallpaper" shortcut via the "Weather Theme Assistant" shortcut, and run it after successful installation.
+
+7. Create 24 on-the-hour automations in the iOS Shortcuts: Execute "Weather Wallpaper" at 00:00/01:00/02:00/03:00/04:00/05:00/06:00/07:00/08:00/09:00/10:00/11:00/12:00/13:00/14:00/15:00/16:00/17:00/18:00/19:00/20:00/21:00/22:00/23:00 every day.
+    
+  ![Create 24 On-the-hour Automations](../../../image/天气主题/天气主题_4.jpg =200x)
+
+8. You can now automatically update the widget, home screen wallpaper, and lock screen to weather-themed wallpapers every hour.

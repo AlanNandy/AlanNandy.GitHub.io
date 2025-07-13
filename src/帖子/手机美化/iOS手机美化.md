@@ -192,7 +192,7 @@ tag:
 
 1. 从App Store下载安装[Scriptable](https://apps.apple.com/app/id1405459188)。‍‍
 
-2. 通过[NASA生日星图主题助手](../../快捷指令/NASA生日星图主题助手.shortcut)快捷指令安装“NASA生日星图小组件”脚本。
+2. 通过[NASA生日星图主题助手](https://raw.githubusercontent.com/AlanNandy/AlanNandy.GitHub.io/repository/src/快捷指令/NASA生日星图主题助手.shortcut)快捷指令安装“NASA生日星图小组件”脚本。
 
 3. 按照布局需要将Scriptable的小组件添加到桌面，详见[Scriptable添加桌面小组件教程](#scriptable添加桌面小组件教程)。
 

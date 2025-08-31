@@ -181,23 +181,23 @@ tag:
 
 8. You can now automatically update the widget, home screen wallpaper, and lock screen to weather-themed wallpapers every hour.
 
-## NASA Birthday Star Map Theme
+## Hubble Theme
 
 | Preview | Description |
 |---|---|
-|![Lock Screen](../../../image/NASA生日星图主题/NASA生日星图主题_1.jpg =200x)|Lock Screen:<br>The lock screen wallpaper updates automatically at 00:00 every day.|
-|![Home Screen & Widget](../../../image/NASA生日星图主题/NASA生日星图主题_2.jpg =200x)|Home Screen:<br>The home screen wallpaper updates automatically at 00:00 every day.<br>Widget:<br>1. Supports automatic adaptation to large, medium, and small sizes.<br>2. The small airplane in the upper left corner can be used to download the original image.<br>3. The date is displayed in the lower left corner.<br>4. The widget wallpaper updates automatically at 00:00 every day.|
+|![Lock Screen](../../../image/哈勃主题/哈勃主题_1.jpg =200x)|Lock Screen:<br>The lock screen wallpaper updates automatically at 00:00 every day.|
+|![Home Screen & Widget](../../../image/哈勃主题/哈勃主题_2.jpg =200x)|Home Screen:<br>The home screen wallpaper updates automatically at 00:00 every day.<br>Widget:<br>1. Supports automatic adaptation to large, medium, and small sizes.<br>2. The small airplane in the upper left corner can be used to download the original image.<br>3. The date is displayed in the lower left corner.<br>4. The widget wallpaper updates automatically at 00:00 every day.|
 
 ### Installation Guide
 
 1. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
 
-2. Install the "NASA Birthday Star Map Widget" script via the [NASA Birthday Star Map Theme Assistant](https://raw.githubusercontent.com/AlanNandy/AlanNandy.GitHub.io/repository/src/快捷指令/NASA生日星图主题助手.shortcut) shortcut.
+2. Install the "What Did Hubble See on Your Birthday Widget" script via the [Hubble Theme Assistant](https://raw.githubusercontent.com/AlanNandy/AlanNandy.GitHub.io/repository/src/快捷指令/NASA生日星图主题助手.shortcut) shortcut.
 
 3. Add the Scriptable widget to the home screen according to the layout needs. For details, see [Scriptable Adding Home Screen Widget Tutorial](#tutorial-for-adding-scriptable-widgets-to-the-home-screen).
 
-4. Install the "NASA Birthday Star Map" shortcut via the "NASA Birthday Star Map Theme Assistant" shortcut, and run it for a test after successful installation.
+4. Install the "What Did Hubble See on Your Birthday" shortcut via the "Hubble Theme Assistant" shortcut, and run it for a test after successful installation.
 
-5. Create a new automation in iOS Shortcuts: Execute "NASA Birthday Star Map" at 00:00 every day.
+5. Create a new automation in iOS Shortcuts: Execute "What Did Hubble See on Your Birthday" at 00:00 every day.
 
-6. Then you can automatically change the widget, home screen wallpaper, and lock screen to the NASA birthday star map every day.
+6. Then you can automatically change the widget, home screen wallpaper, and lock screen to the Hubble wallpapers every day.

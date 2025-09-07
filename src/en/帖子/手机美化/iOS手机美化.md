@@ -186,7 +186,7 @@ tag:
 | Preview | Description |
 |---|---|
 |![Lock Screen](../../../image/哈勃主题/哈勃主题_1.jpg =200x)|Lock Screen:<br>The lock screen wallpaper updates automatically at 00:00 every day.|
-|![Home Screen & Widget](../../../image/哈勃主题/哈勃主题_2.jpg =200x)|Home Screen:<br>The home screen wallpaper updates automatically at 00:00 every day.<br>Widget:<br>1. Supports automatic adaptation to large, medium, and small sizes.<br>2. The small airplane in the upper left corner can be used to download the original image.<br>3. The date is displayed in the lower left corner.<br>4. The widget wallpaper updates automatically at 00:00 every day.|
+|![Home Screen & Widget](../../../image/哈勃主题/哈勃主题_2.jpg =200x)|Home Screen:<br>The home screen wallpaper updates automatically at 00:00 every day.<br>Widget:<br>1. Supports automatic adaptation to large, medium, and small sizes.<br>2. The small airplane in the upper left corner can be used to download the original image.<br>3. The date and stellar phenomenon ID are displayed in the lower left corner.<br>4. The widget wallpaper updates automatically at 00:00 every day.|
 
 ### Installation Guide
 
@@ -201,3 +201,29 @@ tag:
 5. Create a new automation in iOS Shortcuts: Execute "What Did Hubble See on Your Birthday" at 00:00 every day.
 
 6. Then you can automatically change the widget, home screen wallpaper, and lock screen to the Hubble wallpapers every day.
+
+## NASA Daily Wallpaper Theme
+
+| Preview | Description |
+|---|---|
+|![Lock Screen](../../../image/NASA每日壁纸主题/NASA每日壁纸主题_1.jpg =200x)|Lock Screen:<br>The lock screen wallpaper updates automatically at 00:00 every day.|
+|![Home Screen & Widgets](../../../image/NASA每日壁纸主题/NASA每日壁纸主题_2.jpg =200x)|Home Screen:<br>The home screen wallpaper updates automatically at 00:00 every day.<br>Widgets:<br>1. Supports adaptive sizes (large, medium, small).<br>2. The small airplane icon in the top-left corner allows direct access to download the original image.<br>3. The date and wallpaper title are displayed in the bottom-left corner.<br>4. The widget wallpaper updates automatically at 00:00 every day.|
+
+### Installation Guide
+
+1. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
+
+2. Install the "NASA Daily Wallpaper Widget" script via the "NASA Daily Wallpaper Theme Assistant" shortcut.
+> Send the message "NASA每日壁纸主题" to the official WeChat account @Nandelion to obtain the shortcut sharing link for direct import.
+
+3. Add the Scriptable widget to your home screen according to your layout needs. For detailed steps, refer to the [Scriptable Home Screen Widget Addition Tutorial](#scriptable添加桌面小组件教程).
+
+4. Visit [NASA](https://api.nasa.gov/) to apply for an Access Key.
+
+5. Open the Scriptable app, tap on the "NASA Daily Wallpaper Widget" script, enter your Access Key in the pop-up window, and confirm to save.
+
+6. Install the "NASA Daily Wallpaper" shortcut via the "NASA Daily Wallpaper Theme Assistant" shortcut, and run a test after successful installation.
+
+7. Create a new automation in the iOS Shortcuts app: Set it to execute "NASA Daily Wallpaper" at 00:00 every day.
+
+8. You can now automatically update the widget, home screen wallpaper, and lock screen wallpaper to the NASA Daily Wallpaper every day.

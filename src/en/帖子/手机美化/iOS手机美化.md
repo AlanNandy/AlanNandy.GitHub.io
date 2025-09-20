@@ -123,34 +123,6 @@ tag:
 
 8. Enjoy automatic updates of the widget, home screen wallpaper, and lock screen wallpaper with random Unsplash images daily.
 
-## Today's Poetry · Ancient Style Girl Theme
-
-|Preview|Description|
-|---|---|
-|![Lock Screen](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
-|![Desktop & Widgets](../../../image/今日诗词·古风少女主题/今日诗词·古风少女主题_2.jpg =200x)|Desktop:<br>The desktop background is rice paper color.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
-
-### Installation Guide
-
-1. Download and install [iFont](https://apps.apple.com/app/id1173222289) from the App Store.‍‍
-
-2. Download [Pangmen Zhengdao Crude Book Font](https://pan.baidu.com/s/1Hm17FESycIP_IFwtwQ3AxA?pwd=ji6u) Extraction code: ji6u
-
-3. Install the font. See [iFont Font Installation Tutorial](#ifont-font-installation-tutorial) for details.
-
-4. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
-
-5. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女小组件" script.
-> Send "今日诗词·古风少女主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
-
-6. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
-
-7. Use the "今日诗词·古风少女主题助手" shortcut to set the desktop background.
-
-8. Use the "今日诗词·古风少女主题助手" shortcut to install the "今日诗词·古风少女壁纸" shortcut. Run it after successful installation.
-
-9. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词·古风少女壁纸".
-
 ## Weather Theme
 
 | Preview | Description |
@@ -227,3 +199,31 @@ tag:
 7. Create a new automation in the iOS Shortcuts app: Set it to execute "NASA Daily Wallpaper" at 00:00 every day.
 
 8. You can now automatically update the widget, home screen wallpaper, and lock screen wallpaper to the NASA Daily Wallpaper every day.
+
+## Today's Poetry Theme
+
+|Preview|Description|
+|---|---|
+|![Lock Screen](../../../image/今日诗词主题/今日诗词主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
+|![Desktop & Widgets](../../../image/今日诗词主题/今日诗词主题_2.jpg =200x)|Desktop:<br>Automatically updates the home screen wallpaper daily at 00:00.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
+
+### Installation Guide
+
+1. Download and install [iFont](https://apps.apple.com/app/id1173222289) from the App Store.‍‍
+
+2. Download [Pangmen Zhengdao Crude Book Font](https://pan.baidu.com/s/1Hm17FESycIP_IFwtwQ3AxA?pwd=ji6u) Extraction code: ji6u
+
+3. Install the font. See [iFont Font Installation Tutorial](#ifont-font-installation-tutorial) for details.
+
+4. Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.‍‍
+
+5. Use the "今日诗词主题助手" shortcut to install the "今日诗词小组件" script.
+> Send "今日诗词主题" to the WeChat public account @Nandelion to get the shortcut sharing link and import it directly.
+
+6. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
+
+7. Use the "今日诗词主题助手" shortcut to set the desktop background.
+
+8. Use the "今日诗词主题助手" shortcut to install the "今日诗词" shortcut. Run it after successful installation.
+
+9. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词".

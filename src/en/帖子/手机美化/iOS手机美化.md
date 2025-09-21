@@ -222,8 +222,6 @@ tag:
 
 6. Add the Scriptable widget to your desktop according to your layout needs. See [Tutorial for Adding Scriptable Widgets to the Home Screen](#tutorial-for-adding-scriptable-widgets-to-the-home-screen) for details.
 
-7. Use the "今日诗词主题助手" shortcut to set the desktop background.
+7. Use the "今日诗词主题助手" shortcut to install the "今日诗词" shortcut. Run it after successful installation.
 
-8. Use the "今日诗词主题助手" shortcut to install the "今日诗词" shortcut. Run it after successful installation.
-
-9. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词".
+8. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词".

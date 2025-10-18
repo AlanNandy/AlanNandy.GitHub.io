@@ -205,7 +205,7 @@ tag:
 |Preview|Description|
 |---|---|
 |![Lock Screen](../../../image/今日诗词主题/今日诗词主题_1.jpg =200x)|Lock Screen:<br>Automatically updates the lock screen wallpaper daily at 00:00.|
-|![Desktop & Widgets](../../../image/今日诗词主题/今日诗词主题_2.jpg =200x)|Desktop:<br>Automatically updates the home screen wallpaper daily at 00:00.<br>Widgets:<br>1. Supports adaptive sizes: small, medium, and large.<br>2. Displays date and day of the week in the top left corner.<br>3. Displays poetry in the bottom left corner.<br>4. Automatically updates the widget wallpaper and poetry daily at 00:00.|
+|![Desktop & Widgets](../../../image/今日诗词主题/今日诗词主题_2.jpg =200x)|Desktop:<br>Automatically updates the desktop wallpaper at 00:00 every day.<br>Widget:<br>1. Supports automatic adaptation to large, medium, and small sizes.<br>2. The small airplane icon in the top-left corner allows access to download the original image.<br>3. Displays the date and poetry at the bottom.<br>4. Automatically updates the widget wallpaper at 00:00 every day.|
 
 ### Installation Guide
 

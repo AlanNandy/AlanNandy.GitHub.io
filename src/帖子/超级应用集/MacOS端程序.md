@@ -39,14 +39,13 @@ tag:
 
 ## 浏览器
 
+[夸克](https://www.quark.cn/)
+
 [油猴插件](https://www.tampermonkey.net/)
 > Safari浏览器的油猴插件需要付费，免费油猴插件可尝试[Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。🔔如果你无法打开脚本的设置，请设置“Safari浏览器-设置-网站-弹出式窗口-访问其他网站时：允许”。
 
 [沉浸式翻译](https://immersivetranslate.com/)
 > 免费好用的双语对照网页翻译插件
-
-[Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) 提取码: e5if
-> 浏览器翻译插件
 
 [Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
 > 浏览器广告拦截插件
@@ -60,8 +59,6 @@ tag:
 ## 网盘
 
 [百度网盘](https://yun.baidu.com/download)
-
-[夸克](https://www.quark.cn/)
 
 ## 下载器
 
@@ -85,10 +82,6 @@ tag:
 > 小而美
 
 [QQ](https://im.qq.com/macqq/index.shtml)
-
-[钉钉](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
-
-[企业微信](https://work.weixin.qq.com/?from=openApi#indexDownload)
 
 [Telegram电报](https://telegram.org/apps)
 > 搭配梯子使用
@@ -133,9 +126,6 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 ```
 
 [美图秀秀](https://mt.meipai.com/)
-
-[Wink](https://wink.meitu.com/)
-> 视频人像精修工具
 
 ## 通用系统增强工具
 

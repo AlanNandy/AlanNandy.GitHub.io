@@ -39,14 +39,13 @@ tag:
 
 ## Web Browser
 
+[Quark](https://www.quark.cn/)
+
 [Tampermonkey](https://www.tampermonkey.net/)
 > The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts. 🔔If you are unable to open the script's settings, please go to "Safari - Preferences - Websites - Pop-up windows - When visiting other websites" to enable access.
 
 [Immersive Translation](https://immersivetranslate.com/)
 > Bilingual web page translation extension
-
-[Mate Translate](https://pan.baidu.com/s/1Fsly81nou7JDvCzdr-qEig?pwd=e5if) Password: e5if
-> Translation extension
 
 [Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
 > Ad-block extension
@@ -60,8 +59,6 @@ tag:
 ## Cloud Storage
 
 [Baidu Netdisk](https://yun.baidu.com/download)
-
-[Quark](https://www.quark.cn/)
 
 ## Downloader
 
@@ -84,10 +81,6 @@ tag:
 [WeChat](https://weixin.qq.com/)
 
 [QQ](https://im.qq.com/macqq/index.shtml)
-
-[DingTalk](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)
-
-[WeCom](https://work.weixin.qq.com/?from=openApi#indexDownload)
 
 [Telegram](https://telegram.org/apps)
 
@@ -130,9 +123,6 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 ```
 
 [Meitu Xiuxiu](https://mt.meipai.com/)
-
-[Wink](https://wink.meitu.com/)
-> Video Portrait Retouching Tool
 
 ## Utilities
 

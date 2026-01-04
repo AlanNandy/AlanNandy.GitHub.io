@@ -46,7 +46,11 @@ tag:
 
 [百度输入法](https://shurufa.baidu.com/)
 
+[搜狗输入法](https://pinyin-sogou.com.cn/)
+
 ## 浏览器
+
+[夸克](https://www.quark.cn/)
 
 [Edge 浏览器](http://www.microsoft.com/edge)
 > 几乎取代 Chrome 浏览器
@@ -80,6 +84,9 @@ tag:
 [Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) 提取码：ra2n
 > 配合油猴插件可以加速某些网盘文件的下载。
 
+[Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) 
+> 免费的Internet Download Manager
+
 [迅雷](https://www.xunlei.com/)
 
 ## 文件管理
@@ -101,12 +108,8 @@ tag:
 
 [QQ](https://im.qq.com/index/)
 
-[阿里旺旺](https://page.1688.com/html/wangwang/download/windows/main.html)
-
 [电报](https://telegram.org/apps)
 > 搭配梯子使用
-
-[Discord](https://discord.com/download)
 
 ## 学习/办公
 
@@ -165,6 +168,9 @@ tag:
 [FOCUSKY万彩演示大师](https://www.focusky.com.cn/download/)
 > 类似Prezi的演示软件
 
+[字由](https://www.hellofont.cn/download)
+> 字体管理软件，类似的还有[字加](https://www.zijia.com.cn/zijia.html)
+
 ## 拍摄/后期
 
 [FastStone Capture](https://www.faststonecapture.cn/download)
@@ -192,10 +198,14 @@ tag:
 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 > GIMP 补丁，可以将GIMP的界面、快捷键都更改成接近Photoshop的状态，更容易上手。
 
+[美图秀秀](https://mt.meipai.com/)
+
 [vectormagic：位图一键转矢量图工具](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) 提取码：ol52
 > 其它图片一键处理工具网站：[Pix Fix：图像降噪](https://zh.pixfix.com/)、[Clipping Magic：删除图像背景](https://zh.clippingmagic.com)、[Recompressor：图像压缩](https://zh.recompressor.com)。
 
 [Pano2VR 全景图像转换工具](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) 提取码：sa9z
+
+[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
 ## 通用系统增强工具
 
@@ -216,6 +226,8 @@ tag:
 
 [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
 > 能让Windows支持LDAC蓝牙编解码协议。额外的还有[Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/)可以监控蓝牙设备的电量，以及[Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/)扩展Windows的蓝牙功能。
+
+[全能王软件](https://www.360qnw.com/)
 
 ## 音乐/播客
 
@@ -263,3 +275,9 @@ tag:
 
 [向日葵](https://sunlogin.oray.com/)
 > 远程桌面，通常用来跨系统远程操控，比如 Mac OS 远程操控 Windows。登录账号能够统一管理设备，并且不受公网IP限制，能够穿透内网。
+
+[搞机助手](https://lsdy.top/gjzs)
+> 安卓玩机必备工具
+
+[安卓投屏](https://lsdy.top/gjzs)
+> 安卓设备投屏到电脑

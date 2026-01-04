@@ -46,7 +46,11 @@ tag:
 
 [Baidu Input](https://shurufa.baidu.com/)
 
+[Sogou Input](https://pinyin-sogou.com.cn/)
+
 ## Web Browser
+
+[Quark](https://www.quark.cn/)
 
 [Edge](http://www.microsoft.com/edge)
 > Almost replacing the Chrome browser
@@ -78,6 +82,9 @@ tag:
 [Internet Download Manager](https://pan.baidu.com/s/1QS1ZFsJIvRcO3DJWohpYJQ?pwd=ra2n) Password: ra2n
 > In conjunction with the Greasemonkey extension, it is possible to accelerate the download of certain files from online storage platforms.
 
+[Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) 
+> Free Internet Download Manager
+
 [Thunder](https://www.xunlei.com/)
 
 ## File Management
@@ -97,11 +104,7 @@ tag:
 
 [QQ](https://im.qq.com/index/)
 
-[AliWangWang](https://page.1688.com/html/wangwang/download/windows/main.html)
-
 [Telegram](https://telegram.org/apps)
-
-[Discord](https://discord.com/download)
 
 ## Productivity
 
@@ -188,10 +191,17 @@ tag:
 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 > A GIMP patch that adjusts the interface and keyboard shortcuts to be closer to Photoshop, making it easier to get started.
 
+[Meitu Xiuxiu](https://mt.meipai.com/)
+
 [vectormagic](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) Passcode: ol52
 > Other websites for one-click image processing tools: [Pix Fix](https://zh.pixfix.com/)、[Clipping Magic](https://zh.clippingmagic.com)、[Recompressor](https://zh.recompressor.com)。
 
 [Pano2VR](https://pan.baidu.com/s/1nY3kToScNpMlV8PKk0Leig?pwd=sa9z) Password: sa9z
+
+[Format Factory](http://www.pcfreetime.com/formatfactory/CN/index.html)
+
+[HelloFont](https://www.hellofont.cn/download)
+> Font management software, similar to this is [Zijia](https://www.zijia.com.cn/zijia.html)
 
 ## Utilities
 
@@ -211,6 +221,8 @@ tag:
 
 [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
 > Enables Windows to support the LDAC Bluetooth codec protocol. Additionally, there is the [Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/) which can monitor the battery level of Bluetooth devices, and the [Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/) which extends the Bluetooth capabilities of Windows.
+
+[360-King Software](https://www.360qnw.com/)
 
 ## Muisc
 
@@ -256,3 +268,9 @@ tag:
 
 [XIANGRIKUI](https://sunlogin.oray.com/)
 > It is commonly used for cross-system remote control, such as remotely controlling Windows from Mac OS. By logging in to an account, you can manage devices in a unified manner and bypass the limitations of public IP addresses, allowing for internal network penetration.
+
+[Phone Tinkering Assistant](https://lsdy.top/gjzs)
+> Essential toolkit for Android enthusiasts
+
+[Android Screen Mirroring](https://lsdy.top/gjzs)
+> Mirror your Android device screen to your computer

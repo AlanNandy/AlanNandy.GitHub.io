@@ -112,6 +112,8 @@ tag:
 
 [ProCam](https://apps.apple.com/cn/app/id730712409)
 
+[Blackmagic Camera](https://www.blackmagicdesign.com/cn/products/blackmagiccamera)
+
 [醒图](https://apps.apple.com/cn/app/id1500526240)
 
 [美图秀秀](https://apps.apple.com/cn/app/id416048305)

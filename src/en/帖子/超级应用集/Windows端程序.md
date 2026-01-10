@@ -133,9 +133,14 @@ tag:
 
 [ABBYY FineReader](https://pan.baidu.com/s/1WGgHA1PU3dmqdWDGnBLRXw?pwd=embu) Password: embu
 
+[FreeMind](http://downloads.sourceforge.net/freemind/FreeMind-Windows-Installer-1.0.0-max-java-installer-embedded.exe?download)
+> A mind mapping software that has ceased updates and has been succeeded by [FreePlane](https://docs.freeplane.org/getting-started/getting-started.html).
+
 [Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) Password: 6y8j
 
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
+
+[drawio](https://www.drawio.com/)
 
 [AxureRP](https://pan.baidu.com/s/1rMVZHajSD1zppVgmcyJotQ?pwd=q8fg) Password: q8fg
 
@@ -173,8 +178,6 @@ tag:
 
 [ScreenToGif](https://pan.baidu.com/s/1LLMfA1WEQrEUEp2vPgB4EA?pwd=rb08) Password: rb08
 
-[Polarr](https://polaxiong.com/)
-
 [Adobe Creative Suite](https://www.adobe.com/creativecloud/desktop-app.html)
 
 [Adobe GenP patch](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) Password: nus7
@@ -185,13 +188,23 @@ tag:
 
 [Adobe auxiliary plugin collection](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) Password: kr89
 
+[Polarr](https://polaxiong.com/)
+
+[Meitu Xiuxiu](https://mt.meipai.com/)
+
 [GIMP 3](https://www.gimp.org/downloads/)
 > An open-source alternative to Photoshop.
 
 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 > A GIMP patch that adjusts the interface and keyboard shortcuts to be closer to Photoshop, making it easier to get started.
 
-[Meitu Xiuxiu](https://mt.meipai.com/)
+[Inkscape](https://inkscape.org/zh-hans/)
+> An open-source alternative to Illustrator.
+
+[DaVinci Resolve](https://www.blackmagicdesign.com/cn/event/davinciresolvedownload)
+
+[Blender](https://www.blender.org/download/)
+> An open-source alternative to After Effects.
 
 [vectormagic](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) Passcode: ol52
 > Other websites for one-click image processing tools: [Pix Fix](https://zh.pixfix.com/)、[Clipping Magic](https://zh.clippingmagic.com)、[Recompressor](https://zh.recompressor.com)。
@@ -218,6 +231,10 @@ tag:
 > A comprehensive shortcut operation toolbox that also supports cross-system push for long links. Some of its features overlap with [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) and are gradually being replaced.
 
 [DiskGenius](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) Password: 0ced
+
+[CrystalDiskMark Disk Speed Test Tool](https://pan.baidu.com/s/1pHL_nRZostpRijmk7eynYg?pwd=rbfw) Extraction Code: rbfw
+
+[CrystalDiskInfo Disk Information Tool](https://pan.baidu.com/s/1jcj1RL9tRQFoBVOT-OcE4A?pwd=cjfy) Extraction Code: cjfy
 
 [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
 > Enables Windows to support the LDAC Bluetooth codec protocol. Additionally, there is the [Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/) which can monitor the battery level of Bluetooth devices, and the [Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/) which extends the Bluetooth capabilities of Windows.

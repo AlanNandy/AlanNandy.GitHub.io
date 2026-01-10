@@ -42,15 +42,15 @@ tag:
 [Quark](https://www.quark.cn/)
 
 [Tampermonkey](https://www.tampermonkey.net/)
-> The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts. 🔔If you are unable to open the script's settings, please go to "Safari - Preferences - Websites - Pop-up windows - When visiting other websites" to enable access.
+> The Tampermonkey extension for Safari browser requires payment. Free alternatives like [Userscript](https://apps.apple.com/cn/app/id1463298887) can be attempted, but they may have limited compatibility with Tampermonkey scripts. 🔔If you are unable to open the script's settings, please go to "Safari - Preferences - Websites - Pop-up windows - When visiting other websites" to enable access.
 
 [Immersive Translation](https://immersivetranslate.com/)
 > Bilingual web page translation extension
 
-[Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
+[Adblock Plus](https://apps.apple.com/cn/app/id1432731683)
 > Ad-block extension
 
-[OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
+[OneTab](https://apps.apple.com/cn/app/id1540160809)
 > Tab management extension
 
 [Clash](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) Password: o518
@@ -67,7 +67,7 @@ tag:
 
 ## File Management
 
-[CleanMyMac X](https://apps.apple.com/cn/app/cleanmymac-x/id1339170533)
+[CleanMyMac X](https://apps.apple.com/cn/app/id1339170533)
 > Disk cleaning software
 
 [XApp](https://www.better365.cn/xapp.html)
@@ -97,14 +97,16 @@ tag:
 [Microsoft Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) Password: 5185
 > Currently, using [WPS](https://platform.wps.cn/) for office tasks on Mac is more stable. However, there is still a dependency on old data in OneDrive, OneNote, and Outlook, so it is necessary to continue using them as usual.
 
+[FreeMind](http://downloads.sourceforge.net/freemind/FreeMind-Windows-Installer-1.0.0-max-java-installer-embedded.exe?download)
+> A mind mapping software that has ceased updates and has been succeeded by [FreePlane](https://docs.freeplane.org/getting-started/getting-started.html).
+
 [Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) Password: 6y8j
 > Mind mapping software
 
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) Password: clw5
 > Flowchart software
 
-[AxureRP](https://www.axure.com/)
-> Prototyping software
+[drawio](https://www.drawio.com/)
 
 [FreeCAD](https://www.freecad.org)
 
@@ -123,6 +125,20 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 ```
 
 [Meitu Xiuxiu](https://mt.meipai.com/)
+
+[GIMP 3](https://www.gimp.org/downloads/)
+> An open-source alternative to Photoshop.
+
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+> A GIMP patch that adjusts the interface and keyboard shortcuts to be closer to Photoshop, making it easier to get started.
+
+[Inkscape](https://inkscape.org/zh-hans/)
+> An open-source alternative to Illustrator.
+
+[DaVinci Resolve](https://www.blackmagicdesign.com/cn/event/davinciresolvedownload)
+
+[Blender](https://www.blender.org/download/)
+> An open-source alternative to After Effects.
 
 ## Utilities
 
@@ -146,13 +162,13 @@ sudo xattr -r -d com.apple.quarantine “file_path”
 
 ## Music
 
-[NetEase Cloud Music](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
+[NetEase Cloud Music](https://apps.apple.com/cn/app/id944848654)
 
 ## Video
 
 [TikTok](https://www.tiktok.com/)
 
-[Bilibili](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
+[Bilibili](https://apps.apple.com/cn/app/id1093486973)
 
 ## Virtual Machine
 [VMware Fusion](https://www.vmware.com/products/fusion.html)

@@ -42,15 +42,15 @@ tag:
 [夸克](https://www.quark.cn/)
 
 [油猴插件](https://www.tampermonkey.net/)
-> Safari浏览器的油猴插件需要付费，免费油猴插件可尝试[Userscript](https://apps.apple.com/cn/app/userscripts/id1463298887)，但对油猴脚本兼容性较差。🔔如果你无法打开脚本的设置，请设置“Safari浏览器-设置-网站-弹出式窗口-访问其他网站时：允许”。
+> Safari浏览器的油猴插件需要付费，免费油猴插件可尝试[Userscript](https://apps.apple.com/cn/app/id1463298887)，但对油猴脚本兼容性较差。🔔如果你无法打开脚本的设置，请设置“Safari浏览器-设置-网站-弹出式窗口-访问其他网站时：允许”。
 
 [沉浸式翻译](https://immersivetranslate.com/)
 > 免费好用的双语对照网页翻译插件
 
-[Adblock Plus](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1432731683?mt=12)
+[Adblock Plus](https://apps.apple.com/cn/app/id1432731683)
 > 浏览器广告拦截插件
 
-[OneTab](https://apps.apple.com/cn/app/onetab/id1540160809?l=en-GB&mt=12)
+[OneTab](https://apps.apple.com/cn/app/id1540160809)
 > 标签页管理插件
 
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
@@ -67,7 +67,7 @@ tag:
 
 ## 文件管理
 
-[CleanMyMac X](https://apps.apple.com/cn/app/cleanmymac-x/id1339170533)
+[CleanMyMac X](https://apps.apple.com/cn/app/id1339170533)
 > 磁盘清理软件
 
 [XApp](https://www.better365.cn/xapp.html)
@@ -100,14 +100,16 @@ tag:
 [微软 Office](https://url33.ctfile.com/f/16266733-814867415-2648c8?p=5185) 访问密码: 5185
 > 目前Mac上使用[WPS](https://platform.wps.cn/)办公反而稳定一些，但One Drive、One Note以及Outlook已经有旧数据依赖了，还是得照旧使用。
 
+[FreeMind](http://downloads.sourceforge.net/freemind/FreeMind-Windows-Installer-1.0.0-max-java-installer-embedded.exe?download)
+> 脑图软件，已停更，被[FreePlane](https://docs.freeplane.org/getting-started/getting-started.html)接管
+
 [Xmind ZEN](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
 > 脑图软件
 
 [Mindjet MindManager](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码:clw5
 > 流程图软件
 
-[AxureRP](https://www.axure.com/)
-> 原型图软件
+[drawio](https://www.drawio.com/)
 
 [FreeCAD](https://www.freecad.org)
 
@@ -127,6 +129,20 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 
 [美图秀秀](https://mt.meipai.com/)
 
+[GIMP 3](https://www.gimp.org/downloads/)
+> Photoshop 开源替代方案
+
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+> GIMP 补丁，可以将GIMP的界面、快捷键都更改成接近Photoshop的状态，更容易上手。
+
+[自由绘图](https://inkscape.org/zh-hans/)
+> Illustrator 开源替代方案
+
+[达芬奇](https://www.blackmagicdesign.com/cn/event/davinciresolvedownload)
+
+[Blender](https://www.blender.org/download/)
+> After Effects 开源替代方案
+
 ## 通用系统增强工具
 
 [iScroll](https://www.better365.cn/iscroll.html)
@@ -135,7 +151,7 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 [键指如飞](https://www.better365.cn/FlyKey.html)
 > 快速查看当前应用程序的快捷键，类似的还有[KeyClu](https://github.com/Anze/KeyCluCask/releases)
 
-[RapidClick](https://apps.apple.com/us/app/rapidclick/id419891002?l=zh-Hans-CN&mt=12)
+[RapidClick](https://apps.apple.com/us/app/id419891002)
 > 设置鼠标定时自动点击
 
 [iShot](https://pan.baidu.com/s/1QwRkvYAjiFIBvgGdnXjoRg?pwd=571c) 提取码: 571c
@@ -149,13 +165,13 @@ sudo xattr -r -d com.apple.quarantine “文件路径”
 
 ## 音乐/播客
 
-[网易云音乐](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12)
+[网易云音乐](https://apps.apple.com/cn/app/id944848654)
 
 ## 视频
 
 [抖音](https://www.douyin.com/)
 
-[哔哩哔哩](https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973)
+[哔哩哔哩](https://apps.apple.com/cn/app/id1093486973)
 
 ## 虚拟机
 [VMware Fusion](https://www.vmware.com/products/fusion.html)

@@ -139,9 +139,14 @@ tag:
 
 [ABBYY FineReader 文本识别与文件转换工具](https://pan.baidu.com/s/1WGgHA1PU3dmqdWDGnBLRXw?pwd=embu) 提取码：embu
 
+[FreeMind](http://downloads.sourceforge.net/freemind/FreeMind-Windows-Installer-1.0.0-max-java-installer-embedded.exe?download)
+> 脑图软件，已停更，被[FreePlane](https://docs.freeplane.org/getting-started/getting-started.html)接管
+
 [Xmind ZEN 脑图](https://pan.baidu.com/s/18MdtibgnC-rKhF8VFiyM1A?pwd=6y8j) 提取码：6y8j
 
 [Mindjet MindManager 流程图](https://pan.baidu.com/s/1Ldq8UHtAwRBoqxPqTMPbEw?pwd=clw5) 提取码：clw5
+
+[drawio](https://www.drawio.com/)
 
 [AxureRP 原型图工具](https://pan.baidu.com/s/1rMVZHajSD1zppVgmcyJotQ?pwd=q8fg) 提取码：q8fg
 
@@ -180,8 +185,6 @@ tag:
 
 [ScreenToGif 动画录制软件](https://pan.baidu.com/s/1LLMfA1WEQrEUEp2vPgB4EA?pwd=rb08) 提取码：rb08
 
-[Polarr 泼辣修图](https://polaxiong.com/)
-
 [Adobe 创意套件](https://www.adobe.com/creativecloud/desktop-app.html)
 
 [Adobe GenP 补丁](https://pan.baidu.com/s/1t9KlamGxMxcohrc6uaPimw?pwd=nus7) 提取码：nus7
@@ -192,13 +195,23 @@ tag:
 
 [Adobe 辅助插件合集](https://pan.baidu.com/s/1vHLERov7HYAvDKe2SPsUpA?pwd=kr89) 提取码：kr89
 
+[Polarr 泼辣修图](https://polaxiong.com/)
+
+[美图秀秀](https://mt.meipai.com/)
+
 [GIMP 3](https://www.gimp.org/downloads/)
 > Photoshop 开源替代方案
 
 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 > GIMP 补丁，可以将GIMP的界面、快捷键都更改成接近Photoshop的状态，更容易上手。
 
-[美图秀秀](https://mt.meipai.com/)
+[自由绘图](https://inkscape.org/zh-hans/)
+> Illustrator 开源替代方案
+
+[达芬奇](https://www.blackmagicdesign.com/cn/event/davinciresolvedownload)
+
+[Blender](https://www.blender.org/download/)
+> After Effects 开源替代方案
 
 [vectormagic：位图一键转矢量图工具](https://pan.baidu.com/s/16eJfOd5lKArr3LVNxuPsDw?pwd=ol52) 提取码：ol52
 > 其它图片一键处理工具网站：[Pix Fix：图像降噪](https://zh.pixfix.com/)、[Clipping Magic：删除图像背景](https://zh.clippingmagic.com)、[Recompressor：图像压缩](https://zh.recompressor.com)。
@@ -223,6 +236,10 @@ tag:
 > 功能全面的快捷操作工具箱，长链接还可以跨系统推送。部分功能与[PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)重合，逐步被取代。
 
 [DiskGenius 磁盘工具](https://pan.baidu.com/s/1UTt4x-ZXaSI3k1N53WP0fA?pwd=0ced) 提取码：0ced
+
+[CrystalDiskMark 磁盘测速工具](https://pan.baidu.com/s/1pHL_nRZostpRijmk7eynYg?pwd=rbfw) 提取码: rbfw
+
+[CrystalDiskInfo 磁盘信息工具](https://pan.baidu.com/s/1jcj1RL9tRQFoBVOT-OcE4A?pwd=cjfy) 提取码: cjfy
 
 [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
 > 能让Windows支持LDAC蓝牙编解码协议。额外的还有[Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/)可以监控蓝牙设备的电量，以及[Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/)扩展Windows的蓝牙功能。

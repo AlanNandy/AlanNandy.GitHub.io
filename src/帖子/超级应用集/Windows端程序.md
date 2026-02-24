@@ -241,6 +241,8 @@ tag:
 
 [CrystalDiskInfo 磁盘信息工具](https://pan.baidu.com/s/1jcj1RL9tRQFoBVOT-OcE4A?pwd=cjfy) 提取码: cjfy
 
+[SD Card Formatter_SD 卡格式化工具](https://pan.baidu.com/s/11wGSr1i3rTm0m0bFs6vI3Q?pwd=8wmw) 提取码: 8wmw
+
 [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
 > 能让Windows支持LDAC蓝牙编解码协议。额外的还有[Bluetooth Battery Monitor](https://www.bluetoothgoodies.com/)可以监控蓝牙设备的电量，以及[Bluetooth Tweaker](https://www.bluetoothgoodies.com/tweaker/)扩展Windows的蓝牙功能。
 
@@ -281,6 +283,8 @@ tag:
 
 [Ryujinx_Nintendo Switch模拟器](https://pan.baidu.com/s/1JtQsrBOQZhqvEeFTO7W5AA?pwd=1los) 提取码：1los
 > [Nintendo Switch 游戏镜像](https://pan.baidu.com/s/1t5js_S7nkgVumJb54XZtYw?pwd=q2zy) 提取码：q2zy。其它 Nintendo Switch 游戏镜像网站：[xxxxx520](https://sway.office.com/sD1RziqnHyZ92I3b)
+
+[win32diskimager_镜像拷录工具](https://pan.baidu.com/s/1NaDFbNX8E1w89ILjMm2QJw?pwd=4ys8) 提取码: 4ys8
 
 ## 远程操控
 

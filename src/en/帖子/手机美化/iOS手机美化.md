@@ -188,7 +188,7 @@ tag:
 2. Install the "NASA Daily Wallpaper Widget" script via the "NASA Daily Wallpaper Theme Assistant" shortcut.
 > Send the message "NASA每日壁纸主题" to the official WeChat account @Nandelion to obtain the shortcut sharing link for direct import.
 
-3. Add the Scriptable widget to your home screen according to your layout needs. For detailed steps, refer to the [Scriptable Home Screen Widget Addition Tutorial](#scriptable添加桌面小组件教程).
+3. Add the Scriptable widget to your home screen according to your layout needs. For detailed steps, refer to the [Scriptable Home Screen Widget Addition Tutorial](#tutorial-for-adding-scriptable-widgets-to-the-home-screen).
 
 4. Visit [NASA](https://api.nasa.gov/) to apply for an Access Key.
 
@@ -225,3 +225,27 @@ tag:
 7. Use the "今日诗词主题助手" shortcut to install the "今日诗词" shortcut. Run it after successful installation.
 
 8. Create a new automation in iOS Shortcuts: At 00:00 daily, execute "今日诗词".
+
+Here is the translation of the provided text into English.
+
+## Movie Calendar Theme
+
+|Preview|Description|
+|---|---|
+|![Lock Screen](../../../image/电影日历主题/电影日历主题_1.jpg =200x)|Lock Screen:<br>Wallpaper updates automatically at 00:00 daily.|
+|![Home Screen & Widget](../../../image/电影日历主题/电影日历主题_2.jpg =200x)|Home Screen:<br>Wallpaper updates automatically at 00:00 daily.<br>Widget:<br>1. Supports adaptive sizing (small, medium, large).<br>2. The airplane icon in the top-left corner links to Douban.<br>3. Displays the date, movie title, and quote in the bottom-left corner.<br>4. Widget wallpaper updates automatically at 00:00 daily. |
+
+### Installation Guide
+
+1.  Download and install [Scriptable](https://apps.apple.com/app/id1405459188) from the App Store.
+
+2.  Install the "Movie Calendar Widget" script via the "Movie Calendar Theme Helper" Shortcut.
+    > Send "Movie Calendar Theme" to the public account @Nandelion to get the sharing link for direct import.
+
+3.  Add the Scriptable widget to your Home Screen according to your layout needs. For details, see the [Scriptable Home Screen Widget Tutorial](#tutorial-for-adding-scriptable-widgets-to-the-home-screen).
+
+4.  Install the "Movie Calendar" Shortcut via the "Movie Calendar Theme Helper" Shortcut and run a test after installation.
+
+5.  In the iOS Shortcuts app, create a new automation: *When it is 00:00 daily, run the "Movie Calendar" shortcut.*
+
+6.  The widget, Home Screen wallpaper, and Lock Screen will now automatically change to movie wallpapers daily.

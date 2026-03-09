@@ -258,6 +258,9 @@ tag:
 [App Ops](https://apkpure.com/cn/search?q=app+ops)
 > 搭配shizuku使用，权限管理
 
+[Language Selector](https://github.com/VegaBobo/Language-Selector)
+> 搭配shizuku使用，单应用的语言设置
+
 [LSPatch](https://github.com/LSPosed/LSPatch)
 > 搭配shizuku使用，从 LSPod 扩展的非根 Xposed 框架，可以给APP注入破解模块，比如Fuck for VIP等。更多模块请查看[Android端Xposed模块](Android端Xposed模块.md)
 
@@ -286,7 +289,8 @@ tag:
 [Nevolution](https://apkpure.com/nevolution/com.oasisfeng.nevo)
 > 通知栏增强，比如在通知里回复微信
 
-[钛备份](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) 提取码：y5n0
+[Swift Backup](https://www.swiftapps.org/)
+> 搭配shizuku使用，免root的[钛备份](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0)
 
 [Quicker 推送工具](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) 提取码：ho2m
 > 搭配Windows端[Quicker](https://getquicker.net/Download)的推送服务功能使用

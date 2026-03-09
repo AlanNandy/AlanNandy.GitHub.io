@@ -240,6 +240,9 @@ tag:
 [App Ops](https://apkpure.com/cn/search?q=app+ops)
 > Use it in conjunction with Shizuku for permission management.
 
+[Language Selector](https://github.com/VegaBobo/Language-Selector)
+> Language Selector allows users to set individual app languages.
+
 [LSPatch](https://github.com/LSPosed/LSPatch)
 > Use with Shizuku, the non-root Xposed framework extended from LSPod, can inject cracking modules into apps, such as Fuck for VIP, etc. For more modules, please check out [Android Xposed Modules](Android端Xposed模块.md).
 
@@ -268,7 +271,8 @@ tag:
 [Nevolution](https://apkpure.com/nevolution/com.oasisfeng.nevo)
 > Notification bar enhancement, such as replying to WeChat messages directly from the notification.
 
-[Titanium Backup](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0) Password: y5n0
+[Swift Backup](https://www.swiftapps.org/)
+Works with Shizuku, a no-root alternative to [Titanium Backup](https://pan.baidu.com/s/1PIjHFHr8hkjElx_Fsnmzuw?pwd=y5n0)
 
 [Quicker Push Tool](https://pan.baidu.com/s/1yupCfYDiGFKTZ4NYrzLotA?pwd=ho2m) Password: ho2m
 > Used in conjunction with the push service feature of [Quicker](https://getquicker.net/Download) on Windows.

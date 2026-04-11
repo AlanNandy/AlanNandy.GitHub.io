@@ -16,6 +16,35 @@ tag:
 
   ![Nandelion](../../../image/Nandelion.jpg =200x)
 
+### Apple ID Registration & Activation Guide
+
+#### Apple ID Registration Steps
+
+1. Open your web browser and visit [Apple's official Apple ID page](https://appleid.apple.com/account). Locate and click the "Create Your Apple ID" option to begin the registration process.
+
+2. Fill in the required registration information item by item, with the following specific requirements:
+- Name: Can be filled in freely, no mandatory requirements;
+- Country/Region: Must select "United States" — this is key to obtaining App Store access;
+- Email: Must use an email address that has not been previously registered for an Apple ID. If you don't have a suitable email, we recommend registering an internationally recognized email service like Outlook;
+- Phone Number: You may enter a domestic mobile phone number. Multiple Apple IDs sharing one phone number will not cause conflicts.
+
+3. After completing the form, you may opt out of promotional notifications, app marketing, and other related pushes. Enter the verification code displayed on the page and click "Continue." Finally, follow the system prompts to complete email and phone number verification to finish the basic Apple ID registration.
+
+#### Apple ID Activation Steps
+
+1. Open "Settings" on your iPhone, find and tap your personal account option. On the account page, select "Media & Purchases." First, sign out of your currently logged-in account, then sign in with the Apple ID you just registered (when the login prompt appears, select "Not an iCloud XX user").
+
+2. After logging in, open the App Store on your phone, randomly select an app and tap download. The system will then prompt you to "Review" your account information — click confirm to enter the review page.
+
+3. Check the box to agree to the relevant terms and click "Next" to proceed to the billing address entry page (do not click the "Payment Method" option). To avoid tax charges, we recommend using the following tax-free state address:
+- Street: 4665 University Street
+- City: DALLAS
+- State: Oregon
+- ZIP Code: 97338
+- Phone: 503-9177288
+
+4. After completing the address information, click "Next" to finish Apple ID activation. Your account can now download apps normally.
+
 ## Automatically Broadcast Weather Forecast when iPhone Wakes Up Every Day
 
 1. Create a shortcut "Weather Broadcast".

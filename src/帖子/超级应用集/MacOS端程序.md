@@ -54,7 +54,7 @@ tag:
 > 标签页管理插件
 
 [小猫咪](https://pan.baidu.com/s/1J3EMUt4acLSaAKv_ErVoFA?pwd=o518) 提取码：o518
-> 梯子，类似的还有[V2RayX](https://github.com/Cenmrev/V2RayX)。小猫咪的详细使用说明请查看[Clash Verge Rev文档](https://clash-verge-rev.github.io/index.html)。
+> VPN，类似的还有[V2RayX](https://github.com/Cenmrev/V2RayX)。小猫咪的详细使用说明请查看[Clash Verge Rev文档](https://clash-verge-rev.github.io/index.html)。
 
 ## 网盘
 
@@ -84,7 +84,7 @@ tag:
 [QQ](https://im.qq.com/macqq/index.shtml)
 
 [Telegram电报](https://telegram.org/apps)
-> 搭配梯子使用
+> 搭配VPN使用
 
 ## 学习/办公
 

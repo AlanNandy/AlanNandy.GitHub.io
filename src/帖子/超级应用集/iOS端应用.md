@@ -33,10 +33,10 @@ tag:
 > 支持浏览器广告拦截、视频嗅探以及油猴脚本
 
 [小火箭](https://apps.apple.com/cd/app/id932747118)
-> 梯子，易用性高
+> VPN，易用性高
 
 [圈X](https://quantumult.org/)
-> 梯子，可玩性高
+> VPN，可玩性高
 
 ## 网盘
 
@@ -55,7 +55,7 @@ tag:
 > QQ频道是不错的新尝试
 
 [Telegram电报](https://telegram.org/apps)
-> 搭配梯子使用
+> 搭配VPN使用
 
 [Discord](https://discord.com/download)
 

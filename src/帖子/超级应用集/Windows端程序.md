@@ -62,10 +62,10 @@ tag:
 [SwitchHosts! hosts管理工具](https://pan.baidu.com/s/1d4Q6TgGTLTzgSZmHbXq0TQ?pwd=e76e) 提取码：e76e
 
 [小火箭](https://pan.baidu.com/s/1PLONce8U-cl_AWssz3zX2w?pwd=60ch) 提取码：60ch
-> 梯子
+> VPN
 
 [v2rayN](https://v2rayn.org/v2rayn-download/)
-> 梯子
+> VPN
 
 [小猫咪](https://pan.baidu.com/s/1HerI-6aGZyqn9OJ5n2IGSw?pwd=xytc) 提取码：xytc
 > 使用小猫咪后如果Microsoft Store无法访问，请进入小猫咪的设置中，打卡UWP工具，将Microsoft Store勾选上。其它详细使用说明请查看[Clash for Windows文档](https://doc.clashforwindows.app/)。
@@ -109,7 +109,7 @@ tag:
 [QQ](https://im.qq.com/index/)
 
 [电报](https://telegram.org/apps)
-> 搭配梯子使用
+> 搭配VPN使用
 
 ## 学习/办公
 

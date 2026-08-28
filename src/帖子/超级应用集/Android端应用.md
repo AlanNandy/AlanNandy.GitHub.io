@@ -50,10 +50,10 @@ tag:
 > 一个综合功能爆炸的应用，浏览器只是附属品同时支持Via与油猴的插件。
 
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
-> 梯子
+> VPN
 
 [Clash](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
-> 梯子
+> VPN
 
 ## 网盘
 
@@ -92,7 +92,7 @@ tag:
 > QQ频道是不错的新尝试
 
 [Telegram](https://telegram.org/apps)
-> 搭配梯子使用
+> 搭配VPN使用
 
 [Discord](https://discord.com/download)
 
@@ -165,7 +165,7 @@ tag:
 > 边刷视频边赚钱
 
 [TikTok](https://pan.baidu.com/s/15fm6BfqgyfyFV8Ndz5BzgQ?pwd=w5ip) 提取码：w5ip
-> 抖音海外版+插件，需自备梯子（美国节点+全局代理）
+> 抖音海外版+插件，需自备VPN（美国节点+全局代理）
 
 [快手极速版](https://0kf9.ctiwvzvy.com/f/X72IcX2O6iQM1hz?layoutType=4)
 > 边刷视频边赚钱
@@ -308,7 +308,7 @@ tag:
 > 可订阅规则的自定义屏幕点击工具，推荐[GKD 第三方订阅规则](https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5)
 
 [AdGuard](https://pan.baidu.com/s/1b01aFCnXTJOEnFZFhBeQug?pwd=0v8v) 提取码：0v8v
-> 较全能的广告屏蔽工具,通过代理的方式直接去广告,会与梯子冲突，​共存方式详见[Android 玩机技巧 | 抗广告工具](https://mp.weixin.qq.com/s/UAZ-Zva4sJ1icqWpsYZIsQ)。
+> 较全能的广告屏蔽工具,通过代理的方式直接去广告,会与VPN冲突，​共存方式详见[Android 玩机技巧 | 抗广告工具](https://mp.weixin.qq.com/s/UAZ-Zva4sJ1icqWpsYZIsQ)。
 
 ## 自动任务工具
 
